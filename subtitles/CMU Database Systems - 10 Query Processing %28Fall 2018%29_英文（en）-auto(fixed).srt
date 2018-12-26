@@ -1,0 +1,10907 @@
+1
+00:00:00,730 --> 00:00:10,720
+[Music]
+
+2
+00:00:10,720 --> 00:00:10,730
+
+
+3
+00:00:10,730 --> 00:00:13,580
+maybe on the Jill's Nick I'm not there's
+
+4
+00:00:13,580 --> 00:00:13,590
+ 
+
+5
+00:00:13,590 --> 00:00:16,820
+nothing so well do this
+
+6
+00:00:16,820 --> 00:00:16,830
+ 
+
+7
+00:00:16,830 --> 00:00:18,950
+I decided person Piazza I canceled my
+
+8
+00:00:18,950 --> 00:00:18,960
+ 
+
+9
+00:00:18,960 --> 00:00:20,990
+office hours if I pass out here while
+
+10
+00:00:20,990 --> 00:00:21,000
+ 
+
+11
+00:00:21,000 --> 00:00:22,730
+I'm lecturing please don't steal my
+
+12
+00:00:22,730 --> 00:00:22,740
+ 
+
+13
+00:00:22,740 --> 00:00:25,760
+wallet because they do that last year I
+
+14
+00:00:25,760 --> 00:00:25,770
+ 
+
+15
+00:00:25,770 --> 00:00:28,910
+did not appreciate that okay I some
+
+16
+00:00:28,910 --> 00:00:28,920
+ 
+
+17
+00:00:28,920 --> 00:00:31,970
+administrative things project two as
+
+18
+00:00:31,970 --> 00:00:31,980
+ 
+
+19
+00:00:31,980 --> 00:00:34,279
+everyone is aware of is already out and
+
+20
+00:00:34,279 --> 00:00:34,289
+ 
+
+21
+00:00:34,289 --> 00:00:35,750
+the first checkpoint is next week
+
+22
+00:00:35,750 --> 00:00:35,760
+
+23
+00:00:35,760 --> 00:00:38,120
+someone posted in Piazza about making
+
+24
+00:00:38,120 --> 00:00:38,130
+ 
+
+25
+00:00:38,130 --> 00:00:41,030
+checkpoint two tests available we'll try
+
+26
+00:00:41,030 --> 00:00:41,040
+ 
+
+27
+00:00:41,040 --> 00:00:42,760
+to take care of that this week as well
+
+28
+00:00:42,760 --> 00:00:42,770
+ 
+
+29
+00:00:42,770 --> 00:00:44,630
+they're also trying going to try to
+
+30
+00:00:44,630 --> 00:00:44,640
+ 
+
+31
+00:00:44,640 --> 00:00:47,900
+expose the project one test cases so you
+
+32
+00:00:47,900 --> 00:00:47,910
+ 
+
+33
+00:00:47,910 --> 00:00:49,130
+can go back and test yourself as well
+
+34
+00:00:49,130 --> 00:00:49,140
+ 
+
+35
+00:00:49,140 --> 00:00:50,930
+ten you are we're doing that already or
+
+36
+00:00:50,930 --> 00:00:50,940
+ 
+
+37
+00:00:50,940 --> 00:00:53,000
+now were you running the putter what
+
+38
+00:00:53,000 --> 00:00:53,010
+ 
+
+39
+00:00:53,010 --> 00:00:56,450
+will take care of it the midterm exam
+
+40
+00:00:56,450 --> 00:00:56,460
+ 
+
+41
+00:00:56,460 --> 00:00:57,979
+believe it or not it's October first we
+
+42
+00:00:57,979 --> 00:00:57,989
+ 
+
+43
+00:00:57,989 --> 00:00:59,660
+got start with the midterm midterm exam
+
+44
+00:00:59,660 --> 00:00:59,670
+ 
+
+45
+00:00:59,670 --> 00:01:02,360
+will be here in class on two weeks from
+
+46
+00:01:02,360 --> 00:01:02,370
+ 
+
+47
+00:01:02,370 --> 00:01:06,679
+now on September except October 17th 3
+
+48
+00:01:06,679 --> 00:01:06,689
+ 
+
+49
+00:01:06,689 --> 00:01:09,679
+an hour and 20 minute exam and it'll be
+
+50
+00:01:09,679 --> 00:01:09,689
+ 
+
+51
+00:01:09,689 --> 00:01:11,649
+here and I'll cover everything up to
+
+52
+00:01:11,649 --> 00:01:11,659
+ 
+
+53
+00:01:11,659 --> 00:01:15,889
+whatever the lecture before the that
+
+54
+00:01:15,889 --> 00:01:15,899
+ 
+
+55
+00:01:15,899 --> 00:01:17,840
+Monday that money's lecture will not be
+
+56
+00:01:17,840 --> 00:01:17,850
+
+57
+00:01:17,850 --> 00:01:19,459
+covered on the Wednesday exam would be
+
+58
+00:01:19,459 --> 00:01:19,469
+ 
+
+59
+00:01:19,469 --> 00:01:22,429
+everything before then okay and I said
+
+60
+00:01:22,429 --> 00:01:22,439
+ 
+
+61
+00:01:22,439 --> 00:01:23,839
+they just sent the email saying we have
+
+62
+00:01:23,839 --> 00:01:23,849
+ 
+
+63
+00:01:23,849 --> 00:01:27,319
+our final exam on Sunday morning at 8:30
+
+64
+00:01:27,319 --> 00:01:27,329
+ 
+
+65
+00:01:27,329 --> 00:01:31,539
+a.m.
+
+66
+00:01:31,539 --> 00:01:31,549
+
+
+67
+00:01:31,549 --> 00:01:34,760
+yeah is what it is okay this week we
+
+68
+00:01:34,760 --> 00:01:34,770
+ 
+
+69
+00:01:34,770 --> 00:01:36,499
+have another day visitor coming so these
+
+70
+00:01:36,499 --> 00:01:36,509
+ 
+
+71
+00:01:36,509 --> 00:01:38,269
+guys are screamed again there another
+
+72
+00:01:38,269 --> 00:01:38,279
+ 
+
+73
+00:01:38,279 --> 00:01:41,559
+GPU database out of Israel
+
+74
+00:01:41,559 --> 00:01:41,569
+
+75
+00:01:41,569 --> 00:01:45,729
+so scream mat be and kinetic are so the
+
+76
+00:01:45,729 --> 00:01:45,739
+ 
+
+77
+00:01:45,739 --> 00:01:48,139
+three most well-funded players in the
+
+78
+00:01:48,139 --> 00:01:48,149
+ 
+
+79
+00:01:48,149 --> 00:01:50,510
+space so they're coming on again on
+
+80
+00:01:50,510 --> 00:01:50,520
+ 
+
+81
+00:01:50,520 --> 00:01:52,789
+Thursday the pizza in CIC to talk about
+
+82
+00:01:52,789 --> 00:01:52,799
+ 
+
+83
+00:01:52,799 --> 00:01:55,429
+their system okay now I'll post a
+
+84
+00:01:55,429 --> 00:01:55,439
+ 
+
+85
+00:01:55,439 --> 00:01:59,109
+reminder on this on the awesome alright
+
+86
+00:01:59,109 --> 00:01:59,119
+ 
+
+87
+00:01:59,119 --> 00:02:04,309
+so as I said last class now at the point
+
+88
+00:02:04,309 --> 00:02:04,319
+ 
+
+89
+00:02:04,319 --> 00:02:06,949
+we want to start talking about actually
+
+90
+00:02:06,949 --> 00:02:06,959
+ 
+
+91
+00:02:06,959 --> 00:02:09,859
+executing queries yeah we're building up
+
+92
+00:02:09,859 --> 00:02:09,869
+ 
+
+93
+00:02:09,869 --> 00:02:11,210
+the layers in the system we know how to
+
+94
+00:02:11,210 --> 00:02:11,220
+ 
+
+95
+00:02:11,220 --> 00:02:13,280
+store pages we had to have a bubble
+
+96
+00:02:13,280 --> 00:02:13,290
+ 
+
+97
+00:02:13,290 --> 00:02:14,990
+manager we know how to build indexes on
+
+98
+00:02:14,990 --> 00:02:15,000
+
+99
+00:02:15,000 --> 00:02:16,490
+top of that now we're gonna talk about
+
+100
+00:02:16,490 --> 00:02:16,500
+ 
+
+101
+00:02:16,500 --> 00:02:17,180
+right how do we
+
+102
+00:02:17,180 --> 00:02:17,190
+ 
+
+103
+00:02:17,190 --> 00:02:18,470
+run queries that's sort of the whole
+
+104
+00:02:18,470 --> 00:02:18,480
+ 
+
+105
+00:02:18,480 --> 00:02:19,820
+point of a dative assessment right I
+
+106
+00:02:19,820 --> 00:02:19,830
+ 
+
+107
+00:02:19,830 --> 00:02:22,610
+want to be able to put data in and then
+
+108
+00:02:22,610 --> 00:02:22,620
+ 
+
+109
+00:02:22,620 --> 00:02:26,480
+ask questions about it so when we talked
+
+110
+00:02:26,480 --> 00:02:26,490
+ 
+
+111
+00:02:26,490 --> 00:02:28,850
+about relational algebra before I sort
+
+112
+00:02:28,850 --> 00:02:28,860
+ 
+
+113
+00:02:28,860 --> 00:02:30,140
+of said in the beginning that the way it
+
+114
+00:02:30,140 --> 00:02:30,150
+ 
+
+115
+00:02:30,150 --> 00:02:33,290
+works is that the you give it sequel and
+
+116
+00:02:33,290 --> 00:02:33,300
+ 
+
+117
+00:02:33,300 --> 00:02:36,470
+it converts the sequel into a query plan
+
+118
+00:02:36,470 --> 00:02:36,480
+ 
+
+119
+00:02:36,480 --> 00:02:39,680
+comprised of relational operators and so
+
+120
+00:02:39,680 --> 00:02:39,690
+ 
+
+121
+00:02:39,690 --> 00:02:41,000
+initially these relational operators
+
+122
+00:02:41,000 --> 00:02:41,010
+ 
+
+123
+00:02:41,010 --> 00:02:43,310
+would just be logical equivalents to
+
+124
+00:02:43,310 --> 00:02:43,320
+ 
+
+125
+00:02:43,320 --> 00:02:44,960
+what we know what we learned in
+
+126
+00:02:44,960 --> 00:02:44,970
+ 
+
+127
+00:02:44,970 --> 00:02:47,450
+relational algebra like projections and
+
+128
+00:02:47,450 --> 00:02:47,460
+ 
+
+129
+00:02:47,460 --> 00:02:51,230
+filters and and and and and joins and
+
+130
+00:02:51,230 --> 00:02:51,240
+ 
+
+131
+00:02:51,240 --> 00:02:53,780
+now at this point in the lecture we now
+
+132
+00:02:53,780 --> 00:02:53,790
+ 
+
+133
+00:02:53,790 --> 00:02:54,920
+we start talking about how to actually
+
+134
+00:02:54,920 --> 00:02:54,930
+ 
+
+135
+00:02:54,930 --> 00:02:57,410
+to generate physical operators these
+
+136
+00:02:57,410 --> 00:02:57,420
+ 
+
+137
+00:02:57,420 --> 00:02:59,210
+logical operators to actually execute
+
+138
+00:02:59,210 --> 00:02:59,220
+ 
+
+139
+00:02:59,220 --> 00:03:01,340
+the thing that they represent right so
+
+140
+00:03:01,340 --> 00:03:01,350
+ 
+
+141
+00:03:01,350 --> 00:03:03,170
+how are we actually going to execute a
+
+142
+00:03:03,170 --> 00:03:03,180
+ 
+
+143
+00:03:03,180 --> 00:03:05,930
+join right what algorithm are we gonna
+
+144
+00:03:05,930 --> 00:03:05,940
+
+145
+00:03:05,940 --> 00:03:08,930
+use so the way to sort of think about a
+
+146
+00:03:08,930 --> 00:03:08,940
+ 
+
+147
+00:03:08,940 --> 00:03:11,380
+query plan is that it's just a tree and
+
+148
+00:03:11,380 --> 00:03:11,390
+ 
+
+149
+00:03:11,390 --> 00:03:14,990
+that the the operators have these these
+
+150
+00:03:14,990 --> 00:03:15,000
+ 
+
+151
+00:03:15,000 --> 00:03:18,620
+these edges that show you where the data
+
+152
+00:03:18,620 --> 00:03:18,630
+ 
+
+153
+00:03:18,630 --> 00:03:20,690
+is flowing inside the tree inside the
+
+154
+00:03:20,690 --> 00:03:20,700
+ 
+
+155
+00:03:20,700 --> 00:03:22,820
+query plan so at the very bottom here
+
+156
+00:03:22,820 --> 00:03:22,830
+ 
+
+157
+00:03:22,830 --> 00:03:24,320
+for this particular queries you know
+
+158
+00:03:24,320 --> 00:03:24,330
+ 
+
+159
+00:03:24,330 --> 00:03:25,820
+doing a select and joining a and B
+
+160
+00:03:25,820 --> 00:03:25,830
+ 
+
+161
+00:03:25,830 --> 00:03:29,120
+together at the root of the tree we have
+
+162
+00:03:29,120 --> 00:03:29,130
+ 
+
+163
+00:03:29,130 --> 00:03:32,030
+the scan operators the things that's
+
+164
+00:03:32,030 --> 00:03:32,040
+ 
+
+165
+00:03:32,040 --> 00:03:33,260
+going to actually access the data
+
+166
+00:03:33,260 --> 00:03:33,270
+ 
+
+167
+00:03:33,270 --> 00:03:35,870
+whether it's an index or a or the actual
+
+168
+00:03:35,870 --> 00:03:35,880
+ 
+
+169
+00:03:35,880 --> 00:03:37,910
+heat with the table itself and then
+
+170
+00:03:37,910 --> 00:03:37,920
+ 
+
+171
+00:03:37,920 --> 00:03:40,729
+there to feed that data up into the next
+
+172
+00:03:40,729 --> 00:03:40,739
+ 
+
+173
+00:03:40,739 --> 00:03:42,080
+operator then computes whatever it wants
+
+174
+00:03:42,080 --> 00:03:42,090
+ 
+
+175
+00:03:42,090 --> 00:03:43,430
+to do and then passes it on to the next
+
+176
+00:03:43,430 --> 00:03:43,440
+ 
+
+177
+00:03:43,440 --> 00:03:43,729
+one
+
+178
+00:03:43,729 --> 00:03:43,739
+
+179
+00:03:43,739 --> 00:03:47,030
+so what the waiting about this is when
+
+180
+00:03:47,030 --> 00:03:47,040
+ 
+
+181
+00:03:47,040 --> 00:03:48,710
+I'm showing here and when I'm describing
+
+182
+00:03:48,710 --> 00:03:48,720
+ 
+
+183
+00:03:48,720 --> 00:03:51,500
+is how it works at a logical level what
+
+184
+00:03:51,500 --> 00:03:51,510
+ 
+
+185
+00:03:51,510 --> 00:03:53,750
+we'll see in today's class is physically
+
+186
+00:03:53,750 --> 00:03:53,760
+ 
+
+187
+00:03:53,760 --> 00:03:54,800
+this is not always the way you're gonna
+
+188
+00:03:54,800 --> 00:03:54,810
+ 
+
+189
+00:03:54,810 --> 00:03:56,449
+execute things right you may not be
+
+190
+00:03:56,449 --> 00:03:56,459
+ 
+
+191
+00:03:56,459 --> 00:03:57,470
+passing a single tube will be baby
+
+192
+00:03:57,470 --> 00:03:57,480
+ 
+
+193
+00:03:57,480 --> 00:03:59,690
+passing a block of tuples or the entire
+
+194
+00:03:59,690 --> 00:03:59,700
+ 
+
+195
+00:03:59,700 --> 00:04:04,220
+output of an operator and then at the
+
+196
+00:04:04,220 --> 00:04:04,230
+ 
+
+197
+00:04:04,230 --> 00:04:05,780
+very top is always going to be the root
+
+198
+00:04:05,780 --> 00:04:05,790
+ 
+
+199
+00:04:05,790 --> 00:04:08,210
+root node and that sort of implicitly
+
+200
+00:04:08,210 --> 00:04:08,220
+ 
+
+201
+00:04:08,220 --> 00:04:09,830
+has an arrow coming out of this and
+
+202
+00:04:09,830 --> 00:04:09,840
+ 
+
+203
+00:04:09,840 --> 00:04:11,900
+that's the result that goes back to ever
+
+204
+00:04:11,900 --> 00:04:11,910
+ 
+
+205
+00:04:11,910 --> 00:04:14,120
+ask for the query right so we can have
+
+206
+00:04:14,120 --> 00:04:14,130
+ 
+
+207
+00:04:14,130 --> 00:04:15,680
+data up go from here to here here to
+
+208
+00:04:15,680 --> 00:04:15,690
+ 
+
+209
+00:04:15,690 --> 00:04:17,030
+here and then this thing says all right
+
+210
+00:04:17,030 --> 00:04:17,040
+ 
+
+211
+00:04:17,040 --> 00:04:18,740
+whoever invoked this query here's a
+
+212
+00:04:18,740 --> 00:04:18,750
+ 
+
+213
+00:04:18,750 --> 00:04:20,390
+result and that can be you at the
+
+214
+00:04:20,390 --> 00:04:20,400
+ 
+
+215
+00:04:20,400 --> 00:04:22,070
+terminal it could be an internal query
+
+216
+00:04:22,070 --> 00:04:22,080
+
+217
+00:04:22,080 --> 00:04:24,440
+it could be a straw procedure right it
+
+218
+00:04:24,440 --> 00:04:24,450
+ 
+
+219
+00:04:24,450 --> 00:04:26,480
+doesn't matter it just it goes out where
+
+220
+00:04:26,480 --> 00:04:26,490
+ 
+
+221
+00:04:26,490 --> 00:04:29,900
+it needs to go so today's class we're
+
+222
+00:04:29,900 --> 00:04:29,910
+ 
+
+223
+00:04:29,910 --> 00:04:31,090
+going to talk about three three
+
+224
+00:04:31,090 --> 00:04:31,100
+ 
+
+225
+00:04:31,100 --> 00:04:33,610
+three three-point things so first off
+
+226
+00:04:33,610 --> 00:04:33,620
+ 
+
+227
+00:04:33,620 --> 00:04:35,200
+with how the data systems going to
+
+228
+00:04:35,200 --> 00:04:35,210
+ 
+
+229
+00:04:35,210 --> 00:04:37,210
+process the query plan how it's gonna
+
+230
+00:04:37,210 --> 00:04:37,220
+ 
+
+231
+00:04:37,220 --> 00:04:39,310
+organize the execution of the operators
+
+232
+00:04:39,310 --> 00:04:39,320
+ 
+
+233
+00:04:39,320 --> 00:04:41,470
+and move data around and then we'll talk
+
+234
+00:04:41,470 --> 00:04:41,480
+ 
+
+235
+00:04:41,480 --> 00:04:43,600
+about the access methods of how the data
+
+236
+00:04:43,600 --> 00:04:43,610
+ 
+
+237
+00:04:43,610 --> 00:04:45,760
+system will actually get to data whether
+
+238
+00:04:45,760 --> 00:04:45,770
+ 
+
+239
+00:04:45,770 --> 00:04:48,580
+it's a sequential scan or a or index
+
+240
+00:04:48,580 --> 00:04:48,590
+ 
+
+241
+00:04:48,590 --> 00:04:50,620
+scan and then we'll finish up talking
+
+242
+00:04:50,620 --> 00:04:50,630
+ 
+
+243
+00:04:50,630 --> 00:04:52,030
+about how do you actually evaluate the
+
+244
+00:04:52,030 --> 00:04:52,040
+ 
+
+245
+00:04:52,040 --> 00:04:53,740
+predicates in your where clause and
+
+246
+00:04:53,740 --> 00:04:53,750
+ 
+
+247
+00:04:53,750 --> 00:04:57,010
+other expressions alright and again
+
+248
+00:04:57,010 --> 00:04:57,020
+ 
+
+249
+00:04:57,020 --> 00:04:58,810
+we're just building one layer on top of
+
+250
+00:04:58,810 --> 00:04:58,820
+ 
+
+251
+00:04:58,820 --> 00:05:02,350
+each other so a database system
+
+252
+00:05:02,350 --> 00:05:02,360
+ 
+
+253
+00:05:02,360 --> 00:05:04,960
+processing model specifies especially
+
+254
+00:05:04,960 --> 00:05:04,970
+
+255
+00:05:04,970 --> 00:05:06,370
+how the system is architected or
+
+256
+00:05:06,370 --> 00:05:06,380
+ 
+
+257
+00:05:06,380 --> 00:05:11,470
+organized to to execute a query and at a
+
+258
+00:05:11,470 --> 00:05:11,480
+ 
+
+259
+00:05:11,480 --> 00:05:13,930
+high level the approach is either a top
+
+260
+00:05:13,930 --> 00:05:13,940
+ 
+
+261
+00:05:13,940 --> 00:05:16,390
+bound or top to bottom or bottom the top
+
+262
+00:05:16,390 --> 00:05:16,400
+ 
+
+263
+00:05:16,400 --> 00:05:18,460
+approach right how you actually gonna
+
+264
+00:05:18,460 --> 00:05:18,470
+ 
+
+265
+00:05:18,470 --> 00:05:21,130
+invoke these operators and this is sort
+
+266
+00:05:21,130 --> 00:05:21,140
+ 
+
+267
+00:05:21,140 --> 00:05:22,330
+of at the engineering level or the
+
+268
+00:05:22,330 --> 00:05:22,340
+ 
+
+269
+00:05:22,340 --> 00:05:25,420
+physical level of the system so the
+
+270
+00:05:25,420 --> 00:05:25,430
+
+271
+00:05:25,430 --> 00:05:28,540
+processing model also specifies what
+
+272
+00:05:28,540 --> 00:05:28,550
+ 
+
+273
+00:05:28,550 --> 00:05:30,250
+kind of data is gonna get moved from one
+
+274
+00:05:30,250 --> 00:05:30,260
+ 
+
+275
+00:05:30,260 --> 00:05:32,890
+Operator to next is it a single tuple is
+
+276
+00:05:32,890 --> 00:05:32,900
+ 
+
+277
+00:05:32,900 --> 00:05:35,440
+it a batch of tuple tuples or is it be
+
+278
+00:05:35,440 --> 00:05:35,450
+ 
+
+279
+00:05:35,450 --> 00:05:37,900
+you know a single column or all the data
+
+280
+00:05:37,900 --> 00:05:37,910
+ 
+
+281
+00:05:37,910 --> 00:05:39,100
+that the operator is ever going to look
+
+282
+00:05:39,100 --> 00:05:39,110
+ 
+
+283
+00:05:39,110 --> 00:05:40,710
+at does it shove it up to the next guy
+
+284
+00:05:40,710 --> 00:05:40,720
+ 
+
+285
+00:05:40,720 --> 00:05:43,570
+and the reason why there's different
+
+286
+00:05:43,570 --> 00:05:43,580
+ 
+
+287
+00:05:43,580 --> 00:05:44,890
+these different processing models is
+
+288
+00:05:44,890 --> 00:05:44,900
+ 
+
+289
+00:05:44,900 --> 00:05:47,380
+that as we'll talk about today there's
+
+290
+00:05:47,380 --> 00:05:47,390
+ 
+
+291
+00:05:47,390 --> 00:05:49,930
+advantages and disadvantages for for
+
+292
+00:05:49,930 --> 00:05:49,940
+ 
+
+293
+00:05:49,940 --> 00:05:52,150
+each of them so certain systems like you
+
+294
+00:05:52,150 --> 00:05:52,160
+ 
+
+295
+00:05:52,160 --> 00:05:53,800
+want to focus on OLAP queries they'll do
+
+296
+00:05:53,800 --> 00:05:53,810
+ 
+
+297
+00:05:53,810 --> 00:05:55,960
+it the you know usually the vector is a
+
+298
+00:05:55,960 --> 00:05:55,970
+ 
+
+299
+00:05:55,970 --> 00:05:58,390
+batch model but if you're doing ot
+
+300
+00:05:58,390 --> 00:05:58,400
+ 
+
+301
+00:05:58,400 --> 00:06:00,010
+workloads transactional workloads that
+
+302
+00:06:00,010 --> 00:06:00,020
+ 
+
+303
+00:06:00,020 --> 00:06:01,420
+don't actually touch a lot of data per
+
+304
+00:06:01,420 --> 00:06:01,430
+ 
+
+305
+00:06:01,430 --> 00:06:03,910
+operator then the the materialisation
+
+306
+00:06:03,910 --> 00:06:03,920
+ 
+
+307
+00:06:03,920 --> 00:06:06,040
+model might be might be a better
+
+308
+00:06:06,040 --> 00:06:06,050
+ 
+
+309
+00:06:06,050 --> 00:06:08,770
+approach so again there's trade-offs to
+
+310
+00:06:08,770 --> 00:06:08,780
+ 
+
+311
+00:06:08,780 --> 00:06:09,790
+how we're going to engineer the system
+
+312
+00:06:09,790 --> 00:06:09,800
+ 
+
+313
+00:06:09,800 --> 00:06:12,580
+to execute these queries and one
+
+314
+00:06:12,580 --> 00:06:12,590
+ 
+
+315
+00:06:12,590 --> 00:06:13,870
+approach is better than another for
+
+316
+00:06:13,870 --> 00:06:13,880
+ 
+
+317
+00:06:13,880 --> 00:06:18,100
+different classes of workloads so the
+
+318
+00:06:18,100 --> 00:06:18,110
+ 
+
+319
+00:06:18,110 --> 00:06:20,860
+the jack-of-all-trades generic a basic
+
+320
+00:06:20,860 --> 00:06:20,870
+ 
+
+321
+00:06:20,870 --> 00:06:22,960
+approach to processing queries it's
+
+322
+00:06:22,960 --> 00:06:22,970
+ 
+
+323
+00:06:22,970 --> 00:06:26,080
+called the iterator model so the this is
+
+324
+00:06:26,080 --> 00:06:26,090
+ 
+
+325
+00:06:26,090 --> 00:06:27,850
+another example where different people
+
+326
+00:06:27,850 --> 00:06:27,860
+ 
+
+327
+00:06:27,860 --> 00:06:30,130
+call the same thing different names so I
+
+328
+00:06:30,130 --> 00:06:30,140
+ 
+
+329
+00:06:30,140 --> 00:06:32,350
+think in the our textbook it calls it
+
+330
+00:06:32,350 --> 00:06:32,360
+ 
+
+331
+00:06:32,360 --> 00:06:34,090
+the iterator model you might call it the
+
+332
+00:06:34,090 --> 00:06:34,100
+ 
+
+333
+00:06:34,100 --> 00:06:36,100
+volcano model and volcano was a system
+
+334
+00:06:36,100 --> 00:06:36,110
+
+335
+00:06:36,110 --> 00:06:38,260
+in the a very influential academic
+
+336
+00:06:38,260 --> 00:06:38,270
+ 
+
+337
+00:06:38,270 --> 00:06:40,540
+system in the late 1980s early 1990s
+
+338
+00:06:40,540 --> 00:06:40,550
+
+339
+00:06:40,550 --> 00:06:43,750
+that sort of described how to do the
+
+340
+00:06:43,750 --> 00:06:43,760
+ 
+
+341
+00:06:43,760 --> 00:06:45,140
+iterator model in parallel
+
+342
+00:06:45,140 --> 00:06:45,150
+
+343
+00:06:45,150 --> 00:06:46,879
+buddy I'll sometimes also called the
+
+344
+00:06:46,879 --> 00:06:46,889
+ 
+
+345
+00:06:46,889 --> 00:06:49,730
+pipeline model I matter what it is it's
+
+346
+00:06:49,730 --> 00:06:49,740
+ 
+
+347
+00:06:49,740 --> 00:06:52,100
+all essentially the same thing so the
+
+348
+00:06:52,100 --> 00:06:52,110
+ 
+
+349
+00:06:52,110 --> 00:06:54,170
+basic idea is that the physical
+
+350
+00:06:54,170 --> 00:06:54,180
+ 
+
+351
+00:06:54,180 --> 00:06:56,840
+operators in a query plan are each gonna
+
+352
+00:06:56,840 --> 00:06:56,850
+ 
+
+353
+00:06:56,850 --> 00:07:00,680
+implement they are expose in their API
+
+354
+00:07:00,680 --> 00:07:00,690
+ 
+
+355
+00:07:00,690 --> 00:07:04,790
+this next function and the idea is every
+
+356
+00:07:04,790 --> 00:07:04,800
+ 
+
+357
+00:07:04,800 --> 00:07:07,550
+time you invoke next to own an operator
+
+358
+00:07:07,550 --> 00:07:07,560
+ 
+
+359
+00:07:07,560 --> 00:07:10,430
+it's gonna give you back the next tuple
+
+360
+00:07:10,430 --> 00:07:10,440
+ 
+
+361
+00:07:10,440 --> 00:07:12,740
+that it processed and then wants you to
+
+362
+00:07:12,740 --> 00:07:12,750
+ 
+
+363
+00:07:12,750 --> 00:07:15,320
+process are you started think of a for
+
+364
+00:07:15,320 --> 00:07:15,330
+ 
+
+365
+00:07:15,330 --> 00:07:16,580
+loop you iterate through and say next
+
+366
+00:07:16,580 --> 00:07:16,590
+ 
+
+367
+00:07:16,590 --> 00:07:18,350
+next next on an operator and it's gonna
+
+368
+00:07:18,350 --> 00:07:18,360
+ 
+
+369
+00:07:18,360 --> 00:07:20,110
+keep giving you out to pose one by one
+
+370
+00:07:20,110 --> 00:07:20,120
+ 
+
+371
+00:07:20,120 --> 00:07:22,129
+then at some point when you run out of
+
+372
+00:07:22,129 --> 00:07:22,139
+ 
+
+373
+00:07:22,139 --> 00:07:23,600
+tuples I can you scan the entire table
+
+374
+00:07:23,600 --> 00:07:23,610
+ 
+
+375
+00:07:23,610 --> 00:07:25,939
+you reach the very end you just return
+
+376
+00:07:25,939 --> 00:07:25,949
+ 
+
+377
+00:07:25,949 --> 00:07:28,520
+back a null say you asked me for more I
+
+378
+00:07:28,520 --> 00:07:28,530
+ 
+
+379
+00:07:28,530 --> 00:07:29,750
+don't have any more so don't don't ask
+
+380
+00:07:29,750 --> 00:07:29,760
+ 
+
+381
+00:07:29,760 --> 00:07:33,770
+me again so this is an example of what's
+
+382
+00:07:33,770 --> 00:07:33,780
+ 
+
+383
+00:07:33,780 --> 00:07:35,629
+called top-down or top-to-bottom
+
+384
+00:07:35,629 --> 00:07:35,639
+ 
+
+385
+00:07:35,639 --> 00:07:37,969
+processing because we're going to start
+
+386
+00:07:37,969 --> 00:07:37,979
+ 
+
+387
+00:07:37,979 --> 00:07:40,279
+at the root and the routes gonna say all
+
+388
+00:07:40,279 --> 00:07:40,289
+ 
+
+389
+00:07:40,289 --> 00:07:42,890
+right I need to do I'm gonna need to
+
+390
+00:07:42,890 --> 00:07:42,900
+ 
+
+391
+00:07:42,900 --> 00:07:44,450
+compute whatever operator I represent I
+
+392
+00:07:44,450 --> 00:07:44,460
+ 
+
+393
+00:07:44,460 --> 00:07:46,310
+need to compute it but I need to 'pls to
+
+394
+00:07:46,310 --> 00:07:46,320
+ 
+
+395
+00:07:46,320 --> 00:07:48,620
+do this and I'm gonna have children in
+
+396
+00:07:48,620 --> 00:07:48,630
+ 
+
+397
+00:07:48,630 --> 00:07:50,779
+my query plan and I go at invoke next on
+
+398
+00:07:50,779 --> 00:07:50,789
+
+399
+00:07:50,789 --> 00:07:52,550
+my children and I ask them to give me
+
+400
+00:07:52,550 --> 00:07:52,560
+ 
+
+401
+00:07:52,560 --> 00:07:54,469
+the next tuple that they have and then
+
+402
+00:07:54,469 --> 00:07:54,479
+ 
+
+403
+00:07:54,479 --> 00:07:55,610
+they might not have anything so they
+
+404
+00:07:55,610 --> 00:07:55,620
+ 
+
+405
+00:07:55,620 --> 00:07:57,770
+need to go down and you know in traverse
+
+406
+00:07:57,770 --> 00:07:57,780
+ 
+
+407
+00:07:57,780 --> 00:07:59,360
+the tree to reach the very bottom and
+
+408
+00:07:59,360 --> 00:07:59,370
+ 
+
+409
+00:07:59,370 --> 00:08:00,890
+you reach your access methods the things
+
+410
+00:08:00,890 --> 00:08:00,900
+ 
+
+411
+00:08:00,900 --> 00:08:02,210
+are actually scanning scanning of the
+
+412
+00:08:02,210 --> 00:08:02,220
+
+413
+00:08:02,220 --> 00:08:04,580
+data so let's look at a real high
+
+414
+00:08:04,580 --> 00:08:04,590
+ 
+
+415
+00:08:04,590 --> 00:08:06,860
+example like this so normally I don't
+
+416
+00:08:06,860 --> 00:08:06,870
+ 
+
+417
+00:08:06,870 --> 00:08:09,909
+like to show code in any lecture or talk
+
+418
+00:08:09,909 --> 00:08:09,919
+ 
+
+419
+00:08:09,919 --> 00:08:11,900
+but for this I think it's sort of the
+
+420
+00:08:11,900 --> 00:08:11,910
+ 
+
+421
+00:08:11,910 --> 00:08:13,370
+only way because it's sort of it'll
+
+422
+00:08:13,370 --> 00:08:13,380
+ 
+
+423
+00:08:13,380 --> 00:08:16,670
+convey the the idea pretty clearly so
+
+424
+00:08:16,670 --> 00:08:16,680
+ 
+
+425
+00:08:16,680 --> 00:08:18,170
+and this is that query we had before
+
+426
+00:08:18,170 --> 00:08:18,180
+ 
+
+427
+00:08:18,180 --> 00:08:20,810
+we're doing a join on a and B and then
+
+428
+00:08:20,810 --> 00:08:20,820
+ 
+
+429
+00:08:20,820 --> 00:08:22,310
+we have a simple filter where values
+
+430
+00:08:22,310 --> 00:08:22,320
+ 
+
+431
+00:08:22,320 --> 00:08:24,170
+greater than 100 and so this would be
+
+432
+00:08:24,170 --> 00:08:24,180
+ 
+
+433
+00:08:24,180 --> 00:08:27,860
+the the query plan that the data system
+
+434
+00:08:27,860 --> 00:08:27,870
+ 
+
+435
+00:08:27,870 --> 00:08:29,960
+will generate for this sequel so a way
+
+436
+00:08:29,960 --> 00:08:29,970
+ 
+
+437
+00:08:29,970 --> 00:08:31,550
+to think about this now in the iterator
+
+438
+00:08:31,550 --> 00:08:31,560
+ 
+
+439
+00:08:31,560 --> 00:08:33,440
+model is that for each of these
+
+440
+00:08:33,440 --> 00:08:33,450
+ 
+
+441
+00:08:33,450 --> 00:08:35,899
+operators you're gonna have essentially
+
+442
+00:08:35,899 --> 00:08:35,909
+ 
+
+443
+00:08:35,909 --> 00:08:39,170
+a for loop and so the for loop is going
+
+444
+00:08:39,170 --> 00:08:39,180
+ 
+
+445
+00:08:39,180 --> 00:08:42,860
+to iterate over its children and call
+
+446
+00:08:42,860 --> 00:08:42,870
+ 
+
+447
+00:08:42,870 --> 00:08:44,780
+next on its children to get the next
+
+448
+00:08:44,780 --> 00:08:44,790
+ 
+
+449
+00:08:44,790 --> 00:08:46,940
+tool that it wants to process so
+
+450
+00:08:46,940 --> 00:08:46,950
+ 
+
+451
+00:08:46,950 --> 00:08:49,640
+starting at the root right so you sort
+
+452
+00:08:49,640 --> 00:08:49,650
+ 
+
+453
+00:08:49,650 --> 00:08:52,270
+of organize these starting at the root
+
+454
+00:08:52,270 --> 00:08:52,280
+ 
+
+455
+00:08:52,280 --> 00:08:54,890
+this guy is going to loop through it's
+
+456
+00:08:54,890 --> 00:08:54,900
+ 
+
+457
+00:08:54,900 --> 00:08:56,870
+gonna have a single child so it's this
+
+458
+00:08:56,870 --> 00:08:56,880
+ 
+
+459
+00:08:56,880 --> 00:08:59,000
+one here so it's on this join operator
+
+460
+00:08:59,000 --> 00:08:59,010
+ 
+
+461
+00:08:59,010 --> 00:09:02,120
+so it calls next to the next operator
+
+462
+00:09:02,120 --> 00:09:02,130
+ 
+
+463
+00:09:02,130 --> 00:09:04,100
+because it wants to you know wants to do
+
+464
+00:09:04,100 --> 00:09:04,110
+ 
+
+465
+00:09:04,110 --> 00:09:05,629
+the projection but doesn't have any
+
+466
+00:09:05,629 --> 00:09:05,639
+ 
+
+467
+00:09:05,639 --> 00:09:08,660
+tuples right it depends on its child so
+
+468
+00:09:08,660 --> 00:09:08,670
+ 
+
+469
+00:09:08,670 --> 00:09:10,990
+calls next goes down to the next guy to
+
+470
+00:09:10,990 --> 00:09:11,000
+ 
+
+471
+00:09:11,000 --> 00:09:13,910
+the join operator here same thing so
+
+472
+00:09:13,910 --> 00:09:13,920
+ 
+
+473
+00:09:13,920 --> 00:09:16,250
+this has two children left and right so
+
+474
+00:09:16,250 --> 00:09:16,260
+ 
+
+475
+00:09:16,260 --> 00:09:18,790
+it's going to call left on its child
+
+476
+00:09:18,790 --> 00:09:18,800
+ 
+
+477
+00:09:18,800 --> 00:09:21,019
+which is then going to go down here and
+
+478
+00:09:21,019 --> 00:09:21,029
+ 
+
+479
+00:09:21,029 --> 00:09:23,449
+now here this we're at this a here so
+
+480
+00:09:23,449 --> 00:09:23,459
+ 
+
+481
+00:09:23,459 --> 00:09:25,610
+now we're just gonna scan over a and
+
+482
+00:09:25,610 --> 00:09:25,620
+ 
+
+483
+00:09:25,620 --> 00:09:28,519
+there's there's this omit function that
+
+484
+00:09:28,519 --> 00:09:28,529
+ 
+
+485
+00:09:28,529 --> 00:09:30,259
+basically says like a like a yield
+
+486
+00:09:30,259 --> 00:09:30,269
+ 
+
+487
+00:09:30,269 --> 00:09:32,629
+clause in Python or iterator model in
+
+488
+00:09:32,629 --> 00:09:32,639
+ 
+
+489
+00:09:32,639 --> 00:09:34,340
+Python where you just have a for loop
+
+490
+00:09:34,340 --> 00:09:34,350
+ 
+
+491
+00:09:34,350 --> 00:09:35,780
+and you say all right someone's Avoca me
+
+492
+00:09:35,780 --> 00:09:35,790
+ 
+
+493
+00:09:35,790 --> 00:09:38,030
+here's the next thing that you asked
+
+494
+00:09:38,030 --> 00:09:38,040
+ 
+
+495
+00:09:38,040 --> 00:09:41,840
+before so it's gonna MIT that tuple here
+
+496
+00:09:41,840 --> 00:09:41,850
+ 
+
+497
+00:09:41,850 --> 00:09:44,210
+and that gets shoved up to to the next
+
+498
+00:09:44,210 --> 00:09:44,220
+ 
+
+499
+00:09:44,220 --> 00:09:48,050
+guy or up above it right and so the top
+
+500
+00:09:48,050 --> 00:09:48,060
+ 
+
+501
+00:09:48,060 --> 00:09:51,319
+guy is going to do this operator to
+
+502
+00:09:51,319 --> 00:09:51,329
+ 
+
+503
+00:09:51,329 --> 00:09:53,150
+doing the join on the left it's gonna
+
+504
+00:09:53,150 --> 00:09:53,160
+ 
+
+505
+00:09:53,160 --> 00:09:54,949
+keep doing this until this thing comes
+
+506
+00:09:54,949 --> 00:09:54,959
+ 
+
+507
+00:09:54,959 --> 00:09:57,079
+back says I don't have anything and then
+
+508
+00:09:57,079 --> 00:09:57,089
+ 
+
+509
+00:09:57,089 --> 00:09:58,639
+it switches down to the next for loop on
+
+510
+00:09:58,639 --> 00:09:58,649
+ 
+
+511
+00:09:58,649 --> 00:10:01,129
+its right child and same thing it's
+
+512
+00:10:01,129 --> 00:10:01,139
+ 
+
+513
+00:10:01,139 --> 00:10:03,129
+gonna vote next on the right child and
+
+514
+00:10:03,129 --> 00:10:03,139
+ 
+
+515
+00:10:03,139 --> 00:10:05,569
+this thing band invokes next on its
+
+516
+00:10:05,569 --> 00:10:05,579
+ 
+
+517
+00:10:05,579 --> 00:10:06,800
+parent I'm sorry it's child
+
+518
+00:10:06,800 --> 00:10:06,810
+ 
+
+519
+00:10:06,810 --> 00:10:09,819
+well now we're doing the scan on table B
+
+520
+00:10:09,819 --> 00:10:09,829
+ 
+
+521
+00:10:09,829 --> 00:10:11,900
+alright so again it's going from the top
+
+522
+00:10:11,900 --> 00:10:11,910
+ 
+
+523
+00:10:11,910 --> 00:10:13,790
+yes we called next next to the next
+
+524
+00:10:13,790 --> 00:10:13,800
+ 
+
+525
+00:10:13,800 --> 00:10:15,710
+going down till we reach the very bottom
+
+526
+00:10:15,710 --> 00:10:15,720
+ 
+
+527
+00:10:15,720 --> 00:10:18,530
+and at some point we'll reach something
+
+528
+00:10:18,530 --> 00:10:18,540
+ 
+
+529
+00:10:18,540 --> 00:10:21,019
+that knows how to get tuples either from
+
+530
+00:10:21,019 --> 00:10:21,029
+ 
+
+531
+00:10:21,029 --> 00:10:23,900
+an index or either from the table and it
+
+532
+00:10:23,900 --> 00:10:23,910
+ 
+
+533
+00:10:23,910 --> 00:10:26,090
+shoves them up to the next operator the
+
+534
+00:10:26,090 --> 00:10:26,100
+ 
+
+535
+00:10:26,100 --> 00:10:27,410
+next operator can do whatever processing
+
+536
+00:10:27,410 --> 00:10:27,420
+
+537
+00:10:27,420 --> 00:10:30,230
+it wants to do and then maybe omit it
+
+538
+00:10:30,230 --> 00:10:30,240
+ 
+
+539
+00:10:30,240 --> 00:10:35,120
+back up to the the next operator so the
+
+540
+00:10:35,120 --> 00:10:35,130
+ 
+
+541
+00:10:35,130 --> 00:10:37,280
+key thing to point out here is play
+
+542
+00:10:37,280 --> 00:10:37,290
+ 
+
+543
+00:10:37,290 --> 00:10:38,329
+reason why it's called the pipeline
+
+544
+00:10:38,329 --> 00:10:38,339
+ 
+
+545
+00:10:38,339 --> 00:10:41,480
+approach is for this path in the query
+
+546
+00:10:41,480 --> 00:10:41,490
+ 
+
+547
+00:10:41,490 --> 00:10:44,269
+plan we have a pipeline meaning we can
+
+548
+00:10:44,269 --> 00:10:44,279
+ 
+
+549
+00:10:44,279 --> 00:10:46,670
+take one tuple and we can actually pass
+
+550
+00:10:46,670 --> 00:10:46,680
+ 
+
+551
+00:10:46,680 --> 00:10:48,079
+it through a pipeline of multiple
+
+552
+00:10:48,079 --> 00:10:48,089
+ 
+
+553
+00:10:48,089 --> 00:10:50,360
+operators before we have to go back and
+
+554
+00:10:50,360 --> 00:10:50,370
+ 
+
+555
+00:10:50,370 --> 00:10:53,329
+get the next one so in this case here
+
+556
+00:10:53,329 --> 00:10:53,339
+ 
+
+557
+00:10:53,339 --> 00:10:55,400
+we're doing the doing the loop over the
+
+558
+00:10:55,400 --> 00:10:55,410
+ 
+
+559
+00:10:55,410 --> 00:10:57,530
+right child calls next we go down here
+
+560
+00:10:57,530 --> 00:10:57,540
+ 
+
+561
+00:10:57,540 --> 00:11:00,590
+it's going to do an iteration over its
+
+562
+00:11:00,590 --> 00:11:00,600
+ 
+
+563
+00:11:00,600 --> 00:11:03,680
+child calls next here and at this point
+
+564
+00:11:03,680 --> 00:11:03,690
+ 
+
+565
+00:11:03,690 --> 00:11:06,650
+as we're scanning B it emits a tuple and
+
+566
+00:11:06,650 --> 00:11:06,660
+ 
+
+567
+00:11:06,660 --> 00:11:08,240
+then immediately we can evaluate the
+
+568
+00:11:08,240 --> 00:11:08,250
+ 
+
+569
+00:11:08,250 --> 00:11:10,490
+predicate and if it passes then we call
+
+570
+00:11:10,490 --> 00:11:10,500
+ 
+
+571
+00:11:10,500 --> 00:11:12,550
+a bit and then it gets passed up here
+
+572
+00:11:12,550 --> 00:11:12,560
+ 
+
+573
+00:11:12,560 --> 00:11:14,800
+so we don't have a context wishing it's
+
+574
+00:11:14,800 --> 00:11:14,810
+ 
+
+575
+00:11:14,810 --> 00:11:16,420
+not the right word but get the basic
+
+576
+00:11:16,420 --> 00:11:16,430
+ 
+
+577
+00:11:16,430 --> 00:11:17,800
+idea we're not switching to it the next
+
+578
+00:11:17,800 --> 00:11:17,810
+
+579
+00:11:17,810 --> 00:11:20,619
+tuple when we get the tuple here we do
+
+580
+00:11:20,619 --> 00:11:20,629
+ 
+
+581
+00:11:20,629 --> 00:11:22,239
+whatever processing we need to do on it
+
+582
+00:11:22,239 --> 00:11:22,249
+
+583
+00:11:22,249 --> 00:11:25,989
+then pass it up to the next guy this is
+
+584
+00:11:25,989 --> 00:11:25,999
+ 
+
+585
+00:11:25,999 --> 00:11:27,730
+why this approach is widely used in disk
+
+586
+00:11:27,730 --> 00:11:27,740
+ 
+
+587
+00:11:27,740 --> 00:11:30,280
+based systems because if I bring I have
+
+588
+00:11:30,280 --> 00:11:30,290
+
+589
+00:11:30,290 --> 00:11:32,439
+a tuple in memory I want to do as much
+
+590
+00:11:32,439 --> 00:11:32,449
+ 
+
+591
+00:11:32,449 --> 00:11:33,879
+work as I can while it's in memory
+
+592
+00:11:33,879 --> 00:11:33,889
+ 
+
+593
+00:11:33,889 --> 00:11:35,470
+before I go back and get the next one
+
+594
+00:11:35,470 --> 00:11:35,480
+ 
+
+595
+00:11:35,480 --> 00:11:37,660
+because I may have not I may not have
+
+596
+00:11:37,660 --> 00:11:37,670
+ 
+
+597
+00:11:37,670 --> 00:11:39,040
+enough memory to put mine to all my
+
+598
+00:11:39,040 --> 00:11:39,050
+ 
+
+599
+00:11:39,050 --> 00:11:42,100
+intermediate results in memory and I may
+
+600
+00:11:42,100 --> 00:11:42,110
+ 
+
+601
+00:11:42,110 --> 00:11:44,110
+have to spill to disk so the worst case
+
+602
+00:11:44,110 --> 00:11:44,120
+ 
+
+603
+00:11:44,120 --> 00:11:46,749
+scenario would be I I need a tuple I
+
+604
+00:11:46,749 --> 00:11:46,759
+ 
+
+605
+00:11:46,759 --> 00:11:48,970
+fetch it from disk I made it up here and
+
+606
+00:11:48,970 --> 00:11:48,980
+ 
+
+607
+00:11:48,980 --> 00:11:50,980
+then I process it and then before I pass
+
+608
+00:11:50,980 --> 00:11:50,990
+ 
+
+609
+00:11:50,990 --> 00:11:52,210
+it up here I go back and get the next
+
+610
+00:11:52,210 --> 00:11:52,220
+ 
+
+611
+00:11:52,220 --> 00:11:54,069
+one but now at all in that space that's
+
+612
+00:11:54,069 --> 00:11:54,079
+ 
+
+613
+00:11:54,079 --> 00:11:56,290
+the store the tuple that just I just got
+
+614
+00:11:56,290 --> 00:11:56,300
+ 
+
+615
+00:11:56,300 --> 00:11:58,269
+so that gets swapped out the disk and
+
+616
+00:11:58,269 --> 00:11:58,279
+ 
+
+617
+00:11:58,279 --> 00:12:00,639
+now I fetch another page to get the next
+
+618
+00:12:00,639 --> 00:12:00,649
+ 
+
+619
+00:12:00,649 --> 00:12:02,259
+one but then when now when I get back up
+
+620
+00:12:02,259 --> 00:12:02,269
+ 
+
+621
+00:12:02,269 --> 00:12:03,939
+here I got to go back to the tears can
+
+622
+00:12:03,939 --> 00:12:03,949
+ 
+
+623
+00:12:03,949 --> 00:12:05,470
+get all the other ones I get all the
+
+624
+00:12:05,470 --> 00:12:05,480
+ 
+
+625
+00:12:05,480 --> 00:12:07,660
+ones that pass I had him in memory here
+
+626
+00:12:07,660 --> 00:12:07,670
+ 
+
+627
+00:12:07,670 --> 00:12:09,819
+but then I swapped them out so the
+
+628
+00:12:09,819 --> 00:12:09,829
+ 
+
+629
+00:12:09,829 --> 00:12:11,350
+pipeline approach again try to do as
+
+630
+00:12:11,350 --> 00:12:11,360
+ 
+
+631
+00:12:11,360 --> 00:12:14,110
+much work on a single tuple for as long
+
+632
+00:12:14,110 --> 00:12:14,120
+ 
+
+633
+00:12:14,120 --> 00:12:19,210
+as you can while it's in memory so they
+
+634
+00:12:19,210 --> 00:12:19,220
+ 
+
+635
+00:12:19,220 --> 00:12:21,309
+said this this approach is the most
+
+636
+00:12:21,309 --> 00:12:21,319
+ 
+
+637
+00:12:21,319 --> 00:12:25,179
+widely used processing model in almost
+
+638
+00:12:25,179 --> 00:12:25,189
+ 
+
+639
+00:12:25,189 --> 00:12:27,100
+every single database system so this is
+
+640
+00:12:27,100 --> 00:12:27,110
+ 
+
+641
+00:12:27,110 --> 00:12:29,799
+a small smattering of systems that are
+
+642
+00:12:29,799 --> 00:12:29,809
+ 
+
+643
+00:12:29,809 --> 00:12:31,780
+out there it's pretty much everyone
+
+644
+00:12:31,780 --> 00:12:31,790
+ 
+
+645
+00:12:31,790 --> 00:12:33,340
+these are the ones I can verify based on
+
+646
+00:12:33,340 --> 00:12:33,350
+ 
+
+647
+00:12:33,350 --> 00:12:35,590
+the documentation and what and what I
+
+648
+00:12:35,590 --> 00:12:35,600
+ 
+
+649
+00:12:35,600 --> 00:12:39,730
+know about how they work so again the
+
+650
+00:12:39,730 --> 00:12:39,740
+ 
+
+651
+00:12:39,740 --> 00:12:41,980
+idea is to generate query plans that can
+
+652
+00:12:41,980 --> 00:12:41,990
+ 
+
+653
+00:12:41,990 --> 00:12:44,170
+allow you to have these long pipelines
+
+654
+00:12:44,170 --> 00:12:44,180
+ 
+
+655
+00:12:44,180 --> 00:12:46,059
+or keeping things in memory as much as
+
+656
+00:12:46,059 --> 00:12:46,069
+ 
+
+657
+00:12:46,069 --> 00:12:49,030
+possible but at some point you hit what
+
+658
+00:12:49,030 --> 00:12:49,040
+ 
+
+659
+00:12:49,040 --> 00:12:51,759
+are called pipeline breakers where you
+
+660
+00:12:51,759 --> 00:12:51,769
+
+661
+00:12:51,769 --> 00:12:53,679
+can't keep going up the query plan with
+
+662
+00:12:53,679 --> 00:12:53,689
+ 
+
+663
+00:12:53,689 --> 00:12:55,419
+a tuple you're processing you have to go
+
+664
+00:12:55,419 --> 00:12:55,429
+ 
+
+665
+00:12:55,429 --> 00:12:57,910
+back and get more so these would be any
+
+666
+00:12:57,910 --> 00:12:57,920
+ 
+
+667
+00:12:57,920 --> 00:13:01,030
+time you need to get see all the data on
+
+668
+00:13:01,030 --> 00:13:01,040
+ 
+
+669
+00:13:01,040 --> 00:13:02,650
+one side of the tree before you can go
+
+670
+00:13:02,650 --> 00:13:02,660
+ 
+
+671
+00:13:02,660 --> 00:13:04,210
+down through the next one so the most
+
+672
+00:13:04,210 --> 00:13:04,220
+ 
+
+673
+00:13:04,220 --> 00:13:06,819
+obvious one is a joined right so this
+
+674
+00:13:06,819 --> 00:13:06,829
+ 
+
+675
+00:13:06,829 --> 00:13:09,100
+case here I need to see all the tuples
+
+676
+00:13:09,100 --> 00:13:09,110
+ 
+
+677
+00:13:09,110 --> 00:13:11,799
+from a but and do my and do my bill my
+
+678
+00:13:11,799 --> 00:13:11,809
+ 
+
+679
+00:13:11,809 --> 00:13:14,470
+hash table before I can put anything up
+
+680
+00:13:14,470 --> 00:13:14,480
+ 
+
+681
+00:13:14,480 --> 00:13:17,049
+to here right and I need to do the join
+
+682
+00:13:17,049 --> 00:13:17,059
+ 
+
+683
+00:13:17,059 --> 00:13:18,340
+here before after in this case you have
+
+684
+00:13:18,340 --> 00:13:18,350
+ 
+
+685
+00:13:18,350 --> 00:13:19,480
+to do the join you'd match you can push
+
+686
+00:13:19,480 --> 00:13:19,490
+ 
+
+687
+00:13:19,490 --> 00:13:21,309
+it up here but this side of the tree you
+
+688
+00:13:21,309 --> 00:13:21,319
+ 
+
+689
+00:13:21,319 --> 00:13:22,990
+have to see everything before you can go
+
+690
+00:13:22,990 --> 00:13:23,000
+ 
+
+691
+00:13:23,000 --> 00:13:26,190
+down the other side
+
+692
+00:13:26,190 --> 00:13:26,200
+
+
+693
+00:13:26,200 --> 00:13:29,200
+so right as I said joins sub-queries
+
+694
+00:13:29,200 --> 00:13:29,210
+ 
+
+695
+00:13:29,210 --> 00:13:30,460
+order by these are things going where
+
+696
+00:13:30,460 --> 00:13:30,470
+ 
+
+697
+00:13:30,470 --> 00:13:31,510
+you have to see everything before you
+
+698
+00:13:31,510 --> 00:13:31,520
+ 
+
+699
+00:13:31,520 --> 00:13:32,590
+can make a final decision of what you're
+
+700
+00:13:32,590 --> 00:13:32,600
+ 
+
+701
+00:13:32,600 --> 00:13:35,890
+going to spit out to to your parent the
+
+702
+00:13:35,890 --> 00:13:35,900
+ 
+
+703
+00:13:35,900 --> 00:13:38,470
+other nice thing about this is that it
+
+704
+00:13:38,470 --> 00:13:38,480
+ 
+
+705
+00:13:38,480 --> 00:13:42,390
+makes it really easy to use limits and
+
+706
+00:13:42,390 --> 00:13:42,400
+ 
+
+707
+00:13:42,400 --> 00:13:45,070
+control the size of your output because
+
+708
+00:13:45,070 --> 00:13:45,080
+
+709
+00:13:45,080 --> 00:13:47,230
+now you'll all you have to do is as you
+
+710
+00:13:47,230 --> 00:13:47,240
+ 
+
+711
+00:13:47,240 --> 00:13:50,050
+call if I call next and I get you know
+
+712
+00:13:50,050 --> 00:13:50,060
+ 
+
+713
+00:13:50,060 --> 00:13:52,930
+only 110 tuples if I call next and I get
+
+714
+00:13:52,930 --> 00:13:52,940
+ 
+
+715
+00:13:52,940 --> 00:13:56,080
+10 to poles I'm done right I can just
+
+716
+00:13:56,080 --> 00:13:56,090
+ 
+
+717
+00:13:56,090 --> 00:13:59,500
+stop at the at the you know whatever
+
+718
+00:13:59,500 --> 00:13:59,510
+ 
+
+719
+00:13:59,510 --> 00:14:01,270
+whatever point of the tree that says all
+
+720
+00:14:01,270 --> 00:14:01,280
+ 
+
+721
+00:14:01,280 --> 00:14:02,410
+right I know there's a limit here I
+
+722
+00:14:02,410 --> 00:14:02,420
+ 
+
+723
+00:14:02,420 --> 00:14:03,880
+don't have to worry about you know
+
+724
+00:14:03,880 --> 00:14:03,890
+ 
+
+725
+00:14:03,890 --> 00:14:05,200
+processing more data than I actually
+
+726
+00:14:05,200 --> 00:14:05,210
+
+727
+00:14:05,210 --> 00:14:08,680
+need we'll see this later in a few weeks
+
+728
+00:14:08,680 --> 00:14:08,690
+ 
+
+729
+00:14:08,690 --> 00:14:10,540
+when we talk about parallelization but
+
+730
+00:14:10,540 --> 00:14:10,550
+ 
+
+731
+00:14:10,550 --> 00:14:12,370
+this approach is also very easy to
+
+732
+00:14:12,370 --> 00:14:12,380
+ 
+
+733
+00:14:12,380 --> 00:14:15,850
+paralyze as well and that's what the
+
+734
+00:14:15,850 --> 00:14:15,860
+ 
+
+735
+00:14:15,860 --> 00:14:19,300
+volcano model was originally briefly
+
+736
+00:14:19,300 --> 00:14:19,310
+ 
+
+737
+00:14:19,310 --> 00:14:21,850
+proposed a way to have these little next
+
+738
+00:14:21,850 --> 00:14:21,860
+ 
+
+739
+00:14:21,860 --> 00:14:23,710
+guys run in separate threads and then
+
+740
+00:14:23,710 --> 00:14:23,720
+ 
+
+741
+00:14:23,720 --> 00:14:25,120
+coalesce the results at some later point
+
+742
+00:14:25,120 --> 00:14:25,130
+
+743
+00:14:25,130 --> 00:14:27,190
+in the tree but we'll worry about that
+
+744
+00:14:27,190 --> 00:14:27,200
+ 
+
+745
+00:14:27,200 --> 00:14:28,860
+later
+
+746
+00:14:28,860 --> 00:14:28,870
+
+747
+00:14:28,870 --> 00:14:31,090
+all right the next processing model is
+
+748
+00:14:31,090 --> 00:14:31,100
+ 
+
+749
+00:14:31,100 --> 00:14:33,180
+called the materialization model and
+
+750
+00:14:33,180 --> 00:14:33,190
+ 
+
+751
+00:14:33,190 --> 00:14:35,490
+this is sort of a bottom-up approach
+
+752
+00:14:35,490 --> 00:14:35,500
+ 
+
+753
+00:14:35,500 --> 00:14:38,230
+where instead of having this next
+
+754
+00:14:38,230 --> 00:14:38,240
+ 
+
+755
+00:14:38,240 --> 00:14:40,810
+function that a parent calls on child
+
+756
+00:14:40,810 --> 00:14:40,820
+ 
+
+757
+00:14:40,820 --> 00:14:44,620
+you start at the bottom and you have the
+
+758
+00:14:44,620 --> 00:14:44,630
+ 
+
+759
+00:14:44,630 --> 00:14:47,290
+operators do whatever it is computation
+
+760
+00:14:47,290 --> 00:14:47,300
+ 
+
+761
+00:14:47,300 --> 00:14:49,690
+they want to do on the data that they're
+
+762
+00:14:49,690 --> 00:14:49,700
+ 
+
+763
+00:14:49,700 --> 00:14:52,090
+reading and only when they when they
+
+764
+00:14:52,090 --> 00:14:52,100
+ 
+
+765
+00:14:52,100 --> 00:14:53,680
+have everything done they've computed
+
+766
+00:14:53,680 --> 00:14:53,690
+ 
+
+767
+00:14:53,690 --> 00:14:55,030
+the entire answer that they're going to
+
+768
+00:14:55,030 --> 00:14:55,040
+ 
+
+769
+00:14:55,040 --> 00:14:56,200
+ever answer you know that they want to
+
+770
+00:14:56,200 --> 00:14:56,210
+ 
+
+771
+00:14:56,210 --> 00:14:59,920
+generate then you show up data to to the
+
+772
+00:14:59,920 --> 00:14:59,930
+ 
+
+773
+00:14:59,930 --> 00:15:02,380
+next operator and you never go back and
+
+774
+00:15:02,380 --> 00:15:02,390
+ 
+
+775
+00:15:02,390 --> 00:15:04,090
+invoke that operator again because at
+
+776
+00:15:04,090 --> 00:15:04,100
+ 
+
+777
+00:15:04,100 --> 00:15:06,100
+that point it's it's it's done all the
+
+778
+00:15:06,100 --> 00:15:06,110
+ 
+
+779
+00:15:06,110 --> 00:15:09,640
+work that it needs to do all right so
+
+780
+00:15:09,640 --> 00:15:09,650
+ 
+
+781
+00:15:09,650 --> 00:15:13,350
+we'll see this in the next slide the
+
+782
+00:15:13,350 --> 00:15:13,360
+ 
+
+783
+00:15:13,360 --> 00:15:15,850
+tricky thing about this as I said before
+
+784
+00:15:15,850 --> 00:15:15,860
+ 
+
+785
+00:15:15,860 --> 00:15:17,230
+in the iterator model it's really good
+
+786
+00:15:17,230 --> 00:15:17,240
+ 
+
+787
+00:15:17,240 --> 00:15:19,270
+to do it's really easy to do limits
+
+788
+00:15:19,270 --> 00:15:19,280
+ 
+
+789
+00:15:19,280 --> 00:15:21,340
+because you just stop calling next when
+
+790
+00:15:21,340 --> 00:15:21,350
+ 
+
+791
+00:15:21,350 --> 00:15:22,660
+you got all the data that you need in
+
+792
+00:15:22,660 --> 00:15:22,670
+ 
+
+793
+00:15:22,670 --> 00:15:25,090
+this case here you main the limit may be
+
+794
+00:15:25,090 --> 00:15:25,100
+ 
+
+795
+00:15:25,100 --> 00:15:26,620
+in the upper parts of the tree and you
+
+796
+00:15:26,620 --> 00:15:26,630
+ 
+
+797
+00:15:26,630 --> 00:15:28,870
+may not know that oh I'm gonna scan a
+
+798
+00:15:28,870 --> 00:15:28,880
+ 
+
+799
+00:15:28,880 --> 00:15:30,400
+billion two poles but I only really need
+
+800
+00:15:30,400 --> 00:15:30,410
+ 
+
+801
+00:15:30,410 --> 00:15:33,579
+10 so if you materialize the all the
+
+802
+00:15:33,579 --> 00:15:33,589
+ 
+
+803
+00:15:33,589 --> 00:15:34,840
+entire billion tubos and shove that up
+
+804
+00:15:34,840 --> 00:15:34,850
+ 
+
+805
+00:15:34,850 --> 00:15:36,579
+the tree you may not know until much
+
+806
+00:15:36,579 --> 00:15:36,589
+ 
+
+807
+00:15:36,589 --> 00:15:37,990
+later that oh I had a limit that said
+
+808
+00:15:37,990 --> 00:15:38,000
+ 
+
+809
+00:15:38,000 --> 00:15:39,120
+I'll need ten of them
+
+810
+00:15:39,120 --> 00:15:39,130
+ 
+
+811
+00:15:39,130 --> 00:15:41,400
+so the way to get around this is to just
+
+812
+00:15:41,400 --> 00:15:41,410
+ 
+
+813
+00:15:41,410 --> 00:15:43,740
+embed logic in these lower operators to
+
+814
+00:15:43,740 --> 00:15:43,750
+ 
+
+815
+00:15:43,750 --> 00:15:45,750
+say do a scam but only give me ten
+
+816
+00:15:45,750 --> 00:15:45,760
+ 
+
+817
+00:15:45,760 --> 00:15:48,300
+things I start inlining one operators
+
+818
+00:15:48,300 --> 00:15:48,310
+ 
+
+819
+00:15:48,310 --> 00:15:51,900
+have another all right so again same
+
+820
+00:15:51,900 --> 00:15:51,910
+ 
+
+821
+00:15:51,910 --> 00:15:53,760
+query we had before and now it's
+
+822
+00:15:53,760 --> 00:15:53,770
+ 
+
+823
+00:15:53,770 --> 00:15:57,140
+different is that inside of our the
+
+824
+00:15:57,140 --> 00:15:57,150
+ 
+
+825
+00:15:57,150 --> 00:15:59,430
+inside of each operator implementation
+
+826
+00:15:59,430 --> 00:15:59,440
+
+827
+00:15:59,440 --> 00:16:01,650
+now we have these little output buffers
+
+828
+00:16:01,650 --> 00:16:01,660
+ 
+
+829
+00:16:01,660 --> 00:16:04,950
+and what will happen is we say we start
+
+830
+00:16:04,950 --> 00:16:04,960
+ 
+
+831
+00:16:04,960 --> 00:16:06,690
+at the very bottom here on the scan on a
+
+832
+00:16:06,690 --> 00:16:06,700
+ 
+
+833
+00:16:06,700 --> 00:16:09,840
+we're just going to scan through it look
+
+834
+00:16:09,840 --> 00:16:09,850
+ 
+
+835
+00:16:09,850 --> 00:16:11,040
+at every single tuple and just put it in
+
+836
+00:16:11,040 --> 00:16:11,050
+ 
+
+837
+00:16:11,050 --> 00:16:13,080
+our output buffer and then when we're
+
+838
+00:16:13,080 --> 00:16:13,090
+
+839
+00:16:13,090 --> 00:16:17,070
+done we we shove it up to the - to the
+
+840
+00:16:17,070 --> 00:16:17,080
+ 
+
+841
+00:16:17,080 --> 00:16:19,980
+our parent so then we come back down
+
+842
+00:16:19,980 --> 00:16:19,990
+ 
+
+843
+00:16:19,990 --> 00:16:21,840
+here and do the same thing on B scan
+
+844
+00:16:21,840 --> 00:16:21,850
+ 
+
+845
+00:16:21,850 --> 00:16:23,790
+through all that materialize the entire
+
+846
+00:16:23,790 --> 00:16:23,800
+ 
+
+847
+00:16:23,800 --> 00:16:26,100
+output into our output buffer shove that
+
+848
+00:16:26,100 --> 00:16:26,110
+
+849
+00:16:26,110 --> 00:16:27,990
+into three which then does the predicate
+
+850
+00:16:27,990 --> 00:16:28,000
+ 
+
+851
+00:16:28,000 --> 00:16:30,030
+the predicate valuation shove it up into
+
+852
+00:16:30,030 --> 00:16:30,040
+ 
+
+853
+00:16:30,040 --> 00:16:32,510
+four what we then finally do the join
+
+854
+00:16:32,510 --> 00:16:32,520
+ 
+
+855
+00:16:32,520 --> 00:16:36,770
+all right
+
+856
+00:16:36,770 --> 00:16:36,780
+
+
+857
+00:16:36,780 --> 00:16:42,510
+so right and he goes all the top so I
+
+858
+00:16:42,510 --> 00:16:42,520
+ 
+
+859
+00:16:42,520 --> 00:16:43,740
+started already say this in the
+
+860
+00:16:43,740 --> 00:16:43,750
+ 
+
+861
+00:16:43,750 --> 00:16:45,330
+beginning but does this just make sure
+
+862
+00:16:45,330 --> 00:16:45,340
+ 
+
+863
+00:16:45,340 --> 00:16:47,520
+you understand what's going on what kind
+
+864
+00:16:47,520 --> 00:16:47,530
+ 
+
+865
+00:16:47,530 --> 00:16:49,230
+of work would this be bad for this
+
+866
+00:16:49,230 --> 00:16:49,240
+ 
+
+867
+00:16:49,240 --> 00:16:53,840
+approach oh-ohlow TP or OLAP
+
+868
+00:16:53,840 --> 00:16:53,850
+ 
+
+869
+00:16:53,850 --> 00:16:59,790
+transactional or analytical what did the
+
+870
+00:16:59,790 --> 00:16:59,800
+ 
+
+871
+00:16:59,800 --> 00:17:00,810
+queries look like in transactional
+
+872
+00:17:00,810 --> 00:17:00,820
+
+873
+00:17:00,820 --> 00:17:06,990
+workloads yeah like so transaction
+
+874
+00:17:06,990 --> 00:17:07,000
+
+875
+00:17:07,000 --> 00:17:08,010
+workloads would be like reading a single
+
+876
+00:17:08,010 --> 00:17:08,020
+ 
+
+877
+00:17:08,020 --> 00:17:10,470
+tuple you'll all go to Amazon right it's
+
+878
+00:17:10,470 --> 00:17:10,480
+ 
+
+879
+00:17:10,480 --> 00:17:11,880
+Andy's account Amazon you just look at
+
+880
+00:17:11,880 --> 00:17:11,890
+ 
+
+881
+00:17:11,890 --> 00:17:14,010
+that it's like no one to boy than all my
+
+882
+00:17:14,010 --> 00:17:14,020
+ 
+
+883
+00:17:14,020 --> 00:17:17,340
+orders right or if I put something my
+
+884
+00:17:17,340 --> 00:17:17,350
+ 
+
+885
+00:17:17,350 --> 00:17:19,140
+card I'm adding one record into my cart
+
+886
+00:17:19,140 --> 00:17:19,150
+ 
+
+887
+00:17:19,150 --> 00:17:21,780
+I see you're not touching a lot of data
+
+888
+00:17:21,780 --> 00:17:21,790
+ 
+
+889
+00:17:21,790 --> 00:17:24,990
+forever query and analytical were close
+
+890
+00:17:24,990 --> 00:17:25,000
+ 
+
+891
+00:17:25,000 --> 00:17:26,970
+I want to do things like compute the
+
+892
+00:17:26,970 --> 00:17:26,980
+ 
+
+893
+00:17:26,980 --> 00:17:29,100
+average you know stock price of
+
+894
+00:17:29,100 --> 00:17:29,110
+
+895
+00:17:29,110 --> 00:17:32,400
+Microsoft over a you know 10 week window
+
+896
+00:17:32,400 --> 00:17:32,410
+ 
+
+897
+00:17:32,410 --> 00:17:34,290
+or something like that so I'm scanning a
+
+898
+00:17:34,290 --> 00:17:34,300
+ 
+
+899
+00:17:34,300 --> 00:17:37,050
+lots of data and I have to move a lot of
+
+900
+00:17:37,050 --> 00:17:37,060
+ 
+
+901
+00:17:37,060 --> 00:17:40,410
+data from one Operator to the next so
+
+902
+00:17:40,410 --> 00:17:40,420
+ 
+
+903
+00:17:40,420 --> 00:17:41,910
+the materialization approach is better
+
+904
+00:17:41,910 --> 00:17:41,920
+
+905
+00:17:41,920 --> 00:17:43,980
+for transactional workloads because
+
+906
+00:17:43,980 --> 00:17:43,990
+ 
+
+907
+00:17:43,990 --> 00:17:45,930
+they're not touching a lot of data so
+
+908
+00:17:45,930 --> 00:17:45,940
+ 
+
+909
+00:17:45,940 --> 00:17:48,000
+the size your output buffer going from
+
+910
+00:17:48,000 --> 00:17:48,010
+
+911
+00:17:48,010 --> 00:17:49,350
+one operated to the next is going to be
+
+912
+00:17:49,350 --> 00:17:49,360
+ 
+
+913
+00:17:49,360 --> 00:17:51,040
+small
+
+914
+00:17:51,040 --> 00:17:51,050
+
+915
+00:17:51,050 --> 00:17:53,730
+in the case of oh that queries its
+
+916
+00:17:53,730 --> 00:17:53,740
+ 
+
+917
+00:17:53,740 --> 00:17:55,930
+unless you try to push as much logics
+
+918
+00:17:55,930 --> 00:17:55,940
+ 
+
+919
+00:17:55,940 --> 00:17:57,910
+you pin down into the lower parts of the
+
+920
+00:17:57,910 --> 00:17:57,920
+ 
+
+921
+00:17:57,920 --> 00:17:59,919
+plan you're gonna end up moving more
+
+922
+00:17:59,919 --> 00:17:59,929
+ 
+
+923
+00:17:59,929 --> 00:18:03,970
+data than maybe you need to all right
+
+924
+00:18:03,970 --> 00:18:03,980
+ 
+
+925
+00:18:03,980 --> 00:18:08,560
+so volt BB does this which is again both
+
+926
+00:18:08,560 --> 00:18:08,570
+ 
+
+927
+00:18:08,570 --> 00:18:10,060
+of you is the academic predecessor or
+
+928
+00:18:10,060 --> 00:18:10,070
+ 
+
+929
+00:18:10,070 --> 00:18:10,390
+sorry
+
+930
+00:18:10,390 --> 00:18:10,400
+
+931
+00:18:10,400 --> 00:18:12,820
+both the iver the system code aged or a
+
+932
+00:18:12,820 --> 00:18:12,830
+ 
+
+933
+00:18:12,830 --> 00:18:14,770
+shirt uses the materialization model
+
+934
+00:18:14,770 --> 00:18:14,780
+
+935
+00:18:14,780 --> 00:18:17,290
+both DB is the commercial version of
+
+936
+00:18:17,290 --> 00:18:17,300
+ 
+
+937
+00:18:17,300 --> 00:18:19,120
+each door and as far as I can know from
+
+938
+00:18:19,120 --> 00:18:19,130
+ 
+
+939
+00:18:19,130 --> 00:18:20,680
+least a year to or less than I looked
+
+940
+00:18:20,680 --> 00:18:20,690
+ 
+
+941
+00:18:20,690 --> 00:18:22,600
+they still do it the same way that we
+
+942
+00:18:22,600 --> 00:18:22,610
+ 
+
+943
+00:18:22,610 --> 00:18:24,310
+did it originally and when we wrote the
+
+944
+00:18:24,310 --> 00:18:24,320
+ 
+
+945
+00:18:24,320 --> 00:18:26,140
+system in the university of doing the
+
+946
+00:18:26,140 --> 00:18:26,150
+
+947
+00:18:26,150 --> 00:18:27,850
+materialization model because this is
+
+948
+00:18:27,850 --> 00:18:27,860
+
+949
+00:18:27,860 --> 00:18:30,040
+the right way to do this in a teepee
+
+950
+00:18:30,040 --> 00:18:30,050
+ 
+
+951
+00:18:30,050 --> 00:18:34,450
+environment because when everything is
+
+952
+00:18:34,450 --> 00:18:34,460
+ 
+
+953
+00:18:34,460 --> 00:18:37,000
+in memory calling Nexus actually becomes
+
+954
+00:18:37,000 --> 00:18:37,010
+ 
+
+955
+00:18:37,010 --> 00:18:41,440
+expensive and so you want to avoid that
+
+956
+00:18:41,440 --> 00:18:41,450
+ 
+
+957
+00:18:41,450 --> 00:18:42,720
+as much as possible
+
+958
+00:18:42,720 --> 00:18:42,730
+ 
+
+959
+00:18:42,730 --> 00:18:46,600
+Monay DB is an academic OLAP system but
+
+960
+00:18:46,600 --> 00:18:46,610
+ 
+
+961
+00:18:46,610 --> 00:18:48,070
+they still use materialization model I
+
+962
+00:18:48,070 --> 00:18:48,080
+ 
+
+963
+00:18:48,080 --> 00:18:49,360
+haven't looked at the doc petition to
+
+964
+00:18:49,360 --> 00:18:49,370
+ 
+
+965
+00:18:49,370 --> 00:18:51,490
+see why it high-rise was another
+
+966
+00:18:51,490 --> 00:18:51,500
+
+967
+00:18:51,500 --> 00:18:55,150
+academic OLAP system that yeah I think
+
+968
+00:18:55,150 --> 00:18:55,160
+ 
+
+969
+00:18:55,160 --> 00:18:57,370
+they were doing materialization model
+
+970
+00:18:57,370 --> 00:18:57,380
+ 
+
+971
+00:18:57,380 --> 00:18:58,419
+but then they threw away all the code
+
+972
+00:18:58,419 --> 00:18:58,429
+ 
+
+973
+00:18:58,429 --> 00:18:59,470
+and started rewriting it but I haven't
+
+974
+00:18:59,470 --> 00:18:59,480
+ 
+
+975
+00:18:59,480 --> 00:19:00,130
+looked to see what they're actually
+
+976
+00:19:00,130 --> 00:19:00,140
+ 
+
+977
+00:19:00,140 --> 00:19:03,430
+doing so you sort of see this trade-off
+
+978
+00:19:03,430 --> 00:19:03,440
+ 
+
+979
+00:19:03,440 --> 00:19:05,470
+between like how much data I want to
+
+980
+00:19:05,470 --> 00:19:05,480
+ 
+
+981
+00:19:05,480 --> 00:19:06,940
+move around and how much overhead I have
+
+982
+00:19:06,940 --> 00:19:06,950
+ 
+
+983
+00:19:06,950 --> 00:19:10,060
+of calling next and and you're going
+
+984
+00:19:10,060 --> 00:19:10,070
+ 
+
+985
+00:19:10,070 --> 00:19:12,690
+from top top-down versus the bottom-up
+
+986
+00:19:12,690 --> 00:19:12,700
+ 
+
+987
+00:19:12,700 --> 00:19:15,160
+the last model we're talk about it's
+
+988
+00:19:15,160 --> 00:19:15,170
+ 
+
+989
+00:19:15,170 --> 00:19:16,840
+vectorization model is a sort of a
+
+990
+00:19:16,840 --> 00:19:16,850
+ 
+
+991
+00:19:16,850 --> 00:19:17,610
+hybrid of the two
+
+992
+00:19:17,610 --> 00:19:17,620
+ 
+
+993
+00:19:17,620 --> 00:19:20,230
+so like the iterator model we're still
+
+994
+00:19:20,230 --> 00:19:20,240
+
+995
+00:19:20,240 --> 00:19:22,180
+gonna have an X function so we're
+
+996
+00:19:22,180 --> 00:19:22,190
+ 
+
+997
+00:19:22,190 --> 00:19:23,650
+calling next next snacks going down the
+
+998
+00:19:23,650 --> 00:19:23,660
+ 
+
+999
+00:19:23,660 --> 00:19:25,630
+tree but instead of passing a single
+
+1000
+00:19:25,630 --> 00:19:25,640
+ 
+
+1001
+00:19:25,640 --> 00:19:28,419
+tuple in our emit function we're
+
+1002
+00:19:28,419 --> 00:19:28,429
+ 
+
+1003
+00:19:28,429 --> 00:19:31,690
+actually gonna pass a vector tuples sort
+
+1004
+00:19:31,690 --> 00:19:31,700
+ 
+
+1005
+00:19:31,700 --> 00:19:33,880
+think of this like a mini batch as we go
+
+1006
+00:19:33,880 --> 00:19:33,890
+ 
+
+1007
+00:19:33,890 --> 00:19:35,830
+along and then what's going to happen is
+
+1008
+00:19:35,830 --> 00:19:35,840
+ 
+
+1009
+00:19:35,840 --> 00:19:37,240
+the internal loop was going to know how
+
+1010
+00:19:37,240 --> 00:19:37,250
+ 
+
+1011
+00:19:37,250 --> 00:19:39,160
+to process this mini batch in an
+
+1012
+00:19:39,160 --> 00:19:39,170
+ 
+
+1013
+00:19:39,170 --> 00:19:43,240
+efficient manner you know using
+
+1014
+00:19:43,240 --> 00:19:43,250
+ 
+
+1015
+00:19:43,250 --> 00:19:44,799
+vectorization or cindy or things like
+
+1016
+00:19:44,799 --> 00:19:44,809
+ 
+
+1017
+00:19:44,809 --> 00:19:47,560
+that all right so let's let's see what
+
+1018
+00:19:47,560 --> 00:19:47,570
+ 
+
+1019
+00:19:47,570 --> 00:19:49,810
+it looks like so now what I've done is
+
+1020
+00:19:49,810 --> 00:19:49,820
+ 
+
+1021
+00:19:49,820 --> 00:19:51,580
+it looks it looks sort of likely to be
+
+1022
+00:19:51,580 --> 00:19:51,590
+ 
+
+1023
+00:19:51,590 --> 00:19:54,130
+the materialization model sorry it's a
+
+1024
+00:19:54,130 --> 00:19:54,140
+ 
+
+1025
+00:19:54,140 --> 00:19:55,480
+combination materialization model and
+
+1026
+00:19:55,480 --> 00:19:55,490
+ 
+
+1027
+00:19:55,490 --> 00:19:57,580
+the iterator model I now have my output
+
+1028
+00:19:57,580 --> 00:19:57,590
+
+1029
+00:19:57,590 --> 00:20:02,220
+buffers but inside my output buffers I I
+
+1030
+00:20:02,220 --> 00:20:02,230
+ 
+
+1031
+00:20:02,230 --> 00:20:04,810
+check to see whether
+
+1032
+00:20:04,810 --> 00:20:04,820
+ 
+
+1033
+00:20:04,820 --> 00:20:06,610
+I've reached a certain when its region a
+
+1034
+00:20:06,610 --> 00:20:06,620
+ 
+
+1035
+00:20:06,620 --> 00:20:08,350
+certain size that usually depends on
+
+1036
+00:20:08,350 --> 00:20:08,360
+ 
+
+1037
+00:20:08,360 --> 00:20:10,300
+what the harbor looks like I then
+
+1038
+00:20:10,300 --> 00:20:10,310
+ 
+
+1039
+00:20:10,310 --> 00:20:12,310
+emitted up to whoever needs it and
+
+1040
+00:20:12,310 --> 00:20:12,320
+ 
+
+1041
+00:20:12,320 --> 00:20:14,410
+implicitly when I call it he wrote my
+
+1042
+00:20:14,410 --> 00:20:14,420
+ 
+
+1043
+00:20:14,420 --> 00:20:15,850
+output buffers I'm clearing it out so
+
+1044
+00:20:15,850 --> 00:20:15,860
+
+1045
+00:20:15,860 --> 00:20:17,110
+the next time I come back in the loop I
+
+1046
+00:20:17,110 --> 00:20:17,120
+ 
+
+1047
+00:20:17,120 --> 00:20:21,460
+start with a fresh step all right and
+
+1048
+00:20:21,460 --> 00:20:21,470
+ 
+
+1049
+00:20:21,470 --> 00:20:25,150
+goes a like this so again this approach
+
+1050
+00:20:25,150 --> 00:20:25,160
+ 
+
+1051
+00:20:25,160 --> 00:20:26,620
+is idea for OLAP queries it sort of
+
+1052
+00:20:26,620 --> 00:20:26,630
+
+1053
+00:20:26,630 --> 00:20:28,900
+seems obvious but the first systems that
+
+1054
+00:20:28,900 --> 00:20:28,910
+ 
+
+1055
+00:20:28,910 --> 00:20:30,130
+really didn't start end up doing it
+
+1056
+00:20:30,130 --> 00:20:30,140
+ 
+
+1057
+00:20:30,140 --> 00:20:33,520
+until much later and like late 2000s
+
+1058
+00:20:33,520 --> 00:20:33,530
+ 
+
+1059
+00:20:33,530 --> 00:20:35,050
+vector wise are sort of the first one
+
+1060
+00:20:35,050 --> 00:20:35,060
+ 
+
+1061
+00:20:35,060 --> 00:20:36,460
+this is the approach that we were
+
+1062
+00:20:36,460 --> 00:20:36,470
+ 
+
+1063
+00:20:36,470 --> 00:20:39,370
+originally doing in peloton I we're
+
+1064
+00:20:39,370 --> 00:20:39,380
+ 
+
+1065
+00:20:39,380 --> 00:20:40,450
+still working in the new ones and I'm
+
+1066
+00:20:40,450 --> 00:20:40,460
+ 
+
+1067
+00:20:40,460 --> 00:20:41,260
+not sure what we're doing
+
+1068
+00:20:41,260 --> 00:20:41,270
+
+1069
+00:20:41,270 --> 00:20:43,870
+presto does this with Facebook and then
+
+1070
+00:20:43,870 --> 00:20:43,880
+
+1071
+00:20:43,880 --> 00:20:46,570
+sequel server Oracle and IBM all have
+
+1072
+00:20:46,570 --> 00:20:46,580
+ 
+
+1073
+00:20:46,580 --> 00:20:49,530
+these sort of quick column base or
+
+1074
+00:20:49,530 --> 00:20:49,540
+
+1075
+00:20:49,540 --> 00:20:52,480
+vectorized based accelerators for in
+
+1076
+00:20:52,480 --> 00:20:52,490
+ 
+
+1077
+00:20:52,490 --> 00:20:54,160
+memory data sets and they all use the
+
+1078
+00:20:54,160 --> 00:20:54,170
+ 
+
+1079
+00:20:54,170 --> 00:21:01,770
+vectors in vector as approach okay yes
+
+1080
+00:21:01,770 --> 00:21:01,780
+
+
+1081
+00:21:01,780 --> 00:21:07,180
+this one here there for disk based
+
+1082
+00:21:07,180 --> 00:21:07,190
+ 
+
+1083
+00:21:07,190 --> 00:21:10,500
+systems this is probably the best for a
+
+1084
+00:21:10,500 --> 00:21:10,510
+ 
+
+1085
+00:21:10,510 --> 00:21:12,910
+memory system that will cover that next
+
+1086
+00:21:12,910 --> 00:21:12,920
+ 
+
+1087
+00:21:12,920 --> 00:21:14,620
+semester there's another approach but
+
+1088
+00:21:14,620 --> 00:21:14,630
+ 
+
+1089
+00:21:14,630 --> 00:21:16,750
+this is this is probably good for this
+
+1090
+00:21:16,750 --> 00:21:16,760
+ 
+
+1091
+00:21:16,760 --> 00:21:23,110
+in this common one okay again this is
+
+1092
+00:21:23,110 --> 00:21:23,120
+ 
+
+1093
+00:21:23,120 --> 00:21:24,340
+just a summary of different models we
+
+1094
+00:21:24,340 --> 00:21:24,350
+ 
+
+1095
+00:21:24,350 --> 00:21:26,560
+talked about by iterative volcano is
+
+1096
+00:21:26,560 --> 00:21:26,570
+ 
+
+1097
+00:21:26,570 --> 00:21:30,900
+basically sort of this general approach
+
+1098
+00:21:30,900 --> 00:21:30,910
+ 
+
+1099
+00:21:30,910 --> 00:21:34,060
+it you know people use 400 to me and
+
+1100
+00:21:34,060 --> 00:21:34,070
+ 
+
+1101
+00:21:34,070 --> 00:21:36,610
+OLAP together vectorize is a top-down
+
+1102
+00:21:36,610 --> 00:21:36,620
+ 
+
+1103
+00:21:36,620 --> 00:21:38,410
+approach and this is good for OLAP
+
+1104
+00:21:38,410 --> 00:21:38,420
+ 
+
+1105
+00:21:38,420 --> 00:21:40,660
+queries and then virtualization is is a
+
+1106
+00:21:40,660 --> 00:21:40,670
+
+1107
+00:21:40,670 --> 00:21:44,080
+bottom-up approach that's good for OTP
+
+1108
+00:21:44,080 --> 00:21:44,090
+ 
+
+1109
+00:21:44,090 --> 00:21:50,680
+queries okay all right so as I said
+
+1110
+00:21:50,680 --> 00:21:50,690
+ 
+
+1111
+00:21:50,690 --> 00:21:53,850
+before the inner query plan the the
+
+1112
+00:21:53,850 --> 00:21:53,860
+ 
+
+1113
+00:21:53,860 --> 00:21:56,200
+nodes of the bottom of the query plan
+
+1114
+00:21:56,200 --> 00:21:56,210
+ 
+
+1115
+00:21:56,210 --> 00:21:58,090
+the operative the bottom are access
+
+1116
+00:21:58,090 --> 00:21:58,100
+ 
+
+1117
+00:21:58,100 --> 00:22:00,310
+methods these are the ways that the
+
+1118
+00:22:00,310 --> 00:22:00,320
+ 
+
+1119
+00:22:00,320 --> 00:22:03,130
+system is going to actually access data
+
+1120
+00:22:03,130 --> 00:22:03,140
+ 
+
+1121
+00:22:03,140 --> 00:22:05,740
+that's stored in their table so there's
+
+1122
+00:22:05,740 --> 00:22:05,750
+
+1123
+00:22:05,750 --> 00:22:08,530
+not really a existing there's no
+
+1124
+00:22:08,530 --> 00:22:08,540
+ 
+
+1125
+00:22:08,540 --> 00:22:10,870
+equivalent in the relational algebra for
+
+1126
+00:22:10,870 --> 00:22:10,880
+ 
+
+1127
+00:22:10,880 --> 00:22:13,240
+an access method right it's just sort of
+
+1128
+00:22:13,240 --> 00:22:13,250
+ 
+
+1129
+00:22:13,250 --> 00:22:14,260
+something you have to do right it's a
+
+1130
+00:22:14,260 --> 00:22:14,270
+ 
+
+1131
+00:22:14,270 --> 00:22:15,640
+physical thing in order to get data out
+
+1132
+00:22:15,640 --> 00:22:15,650
+ 
+
+1133
+00:22:15,650 --> 00:22:17,810
+of a tuple or data out of a
+
+1134
+00:22:17,810 --> 00:22:17,820
+ 
+
+1135
+00:22:17,820 --> 00:22:22,909
+of a index so at a high level there's
+
+1136
+00:22:22,909 --> 00:22:22,919
+ 
+
+1137
+00:22:22,919 --> 00:22:24,889
+basically two types of exxon methods you
+
+1138
+00:22:24,889 --> 00:22:24,899
+ 
+
+1139
+00:22:24,899 --> 00:22:26,810
+can have you can have a sequential scan
+
+1140
+00:22:26,810 --> 00:22:26,820
+ 
+
+1141
+00:22:26,820 --> 00:22:28,999
+and you can have an index scan and then
+
+1142
+00:22:28,999 --> 00:22:29,009
+ 
+
+1143
+00:22:29,009 --> 00:22:30,710
+there are ways to combine multiple
+
+1144
+00:22:30,710 --> 00:22:30,720
+ 
+
+1145
+00:22:30,720 --> 00:22:32,719
+indexes we'll talk about in a second and
+
+1146
+00:22:32,719 --> 00:22:32,729
+ 
+
+1147
+00:22:32,729 --> 00:22:34,310
+these are called multi index access
+
+1148
+00:22:34,310 --> 00:22:34,320
+ 
+
+1149
+00:22:34,320 --> 00:22:37,489
+methods so all opal has a bunch of
+
+1150
+00:22:37,489 --> 00:22:37,499
+ 
+
+1151
+00:22:37,499 --> 00:22:38,749
+different names for the access methods
+
+1152
+00:22:38,749 --> 00:22:38,759
+ 
+
+1153
+00:22:38,759 --> 00:22:41,599
+there's like heaps can row ID scan but
+
+1154
+00:22:41,599 --> 00:22:41,609
+ 
+
+1155
+00:22:41,609 --> 00:22:43,340
+to best my knowledge these are all just
+
+1156
+00:22:43,340 --> 00:22:43,350
+ 
+
+1157
+00:22:43,350 --> 00:22:46,879
+gonna be the same thing right it's
+
+1158
+00:22:46,879 --> 00:22:46,889
+ 
+
+1159
+00:22:46,889 --> 00:22:49,609
+either one or the other all right so
+
+1160
+00:22:49,609 --> 00:22:49,619
+ 
+
+1161
+00:22:49,619 --> 00:22:50,599
+again we're talking about me you guys
+
+1162
+00:22:50,599 --> 00:22:50,609
+ 
+
+1163
+00:22:50,609 --> 00:22:55,039
+here down here so special scan is it's
+
+1164
+00:22:55,039 --> 00:22:55,049
+ 
+
+1165
+00:22:55,049 --> 00:22:56,089
+pretty straightforward to understand
+
+1166
+00:22:56,089 --> 00:22:56,099
+ 
+
+1167
+00:22:56,099 --> 00:22:57,979
+you're basically going to iterate over
+
+1168
+00:22:57,979 --> 00:22:57,989
+ 
+
+1169
+00:22:57,989 --> 00:23:00,019
+every single page in a table
+
+1170
+00:23:00,019 --> 00:23:00,029
+ 
+
+1171
+00:23:00,029 --> 00:23:01,430
+you're gonna retrieve it from the buffer
+
+1172
+00:23:01,430 --> 00:23:01,440
+ 
+
+1173
+00:23:01,440 --> 00:23:03,259
+pool and then your Gator ate over that
+
+1174
+00:23:03,259 --> 00:23:03,269
+
+1175
+00:23:03,269 --> 00:23:05,180
+table to see whether it you should
+
+1176
+00:23:05,180 --> 00:23:05,190
+ 
+
+1177
+00:23:05,190 --> 00:23:07,039
+include it in your output doesn't Matt
+
+1178
+00:23:07,039 --> 00:23:07,049
+ 
+
+1179
+00:23:07,049 --> 00:23:08,719
+like this doesn't matter whether using a
+
+1180
+00:23:08,719 --> 00:23:08,729
+ 
+
+1181
+00:23:08,729 --> 00:23:10,159
+mat realization montt processing model
+
+1182
+00:23:10,159 --> 00:23:10,169
+ 
+
+1183
+00:23:10,169 --> 00:23:13,190
+or or volcano it's it's gonna be the
+
+1184
+00:23:13,190 --> 00:23:13,200
+
+1185
+00:23:13,200 --> 00:23:15,950
+same approach and so internally Dave
+
+1186
+00:23:15,950 --> 00:23:15,960
+
+1187
+00:23:15,960 --> 00:23:18,440
+system's going to maintain a cursor that
+
+1188
+00:23:18,440 --> 00:23:18,450
+ 
+
+1189
+00:23:18,450 --> 00:23:21,019
+tracks the last page lot that examines
+
+1190
+00:23:21,019 --> 00:23:21,029
+ 
+
+1191
+00:23:21,029 --> 00:23:23,539
+so that if you're doing this in a
+
+1192
+00:23:23,539 --> 00:23:23,549
+ 
+
+1193
+00:23:23,549 --> 00:23:24,889
+iterative manner you know what you
+
+1194
+00:23:24,889 --> 00:23:24,899
+ 
+
+1195
+00:23:24,899 --> 00:23:26,210
+picked and you pick up pick up where you
+
+1196
+00:23:26,210 --> 00:23:26,220
+ 
+
+1197
+00:23:26,220 --> 00:23:34,129
+left off all right so yeah I'm not
+
+1198
+00:23:34,129 --> 00:23:34,139
+ 
+
+1199
+00:23:34,139 --> 00:23:37,310
+feeling so great here all right kids
+
+1200
+00:23:37,310 --> 00:23:37,320
+ 
+
+1201
+00:23:37,320 --> 00:23:39,769
+keeping on I mean I may I may have to
+
+1202
+00:23:39,769 --> 00:23:39,779
+ 
+
+1203
+00:23:39,779 --> 00:23:42,889
+shut it off but let's get through this
+
+1204
+00:23:42,889 --> 00:23:42,899
+ 
+
+1205
+00:23:42,899 --> 00:23:45,190
+real quick all right so sequential scans
+
+1206
+00:23:45,190 --> 00:23:45,200
+ 
+
+1207
+00:23:45,200 --> 00:23:47,330
+in general this is always the worst
+
+1208
+00:23:47,330 --> 00:23:47,340
+ 
+
+1209
+00:23:47,340 --> 00:23:48,469
+thing you want to do - wait execute
+
+1210
+00:23:48,469 --> 00:23:48,479
+ 
+
+1211
+00:23:48,479 --> 00:23:52,039
+we're ease right because it's it's the
+
+1212
+00:23:52,039 --> 00:23:52,049
+ 
+
+1213
+00:23:52,049 --> 00:23:53,629
+slowest thing you look at every single
+
+1214
+00:23:53,629 --> 00:23:53,639
+ 
+
+1215
+00:23:53,639 --> 00:23:55,820
+tuple and every single page but there
+
+1216
+00:23:55,820 --> 00:23:55,830
+ 
+
+1217
+00:23:55,830 --> 00:23:57,320
+are some optimizations we can do to
+
+1218
+00:23:57,320 --> 00:23:57,330
+
+1219
+00:23:57,330 --> 00:23:59,749
+speed this up we've already talked about
+
+1220
+00:23:59,749 --> 00:23:59,759
+ 
+
+1221
+00:23:59,759 --> 00:24:01,909
+prefetching before we'll talk about
+
+1222
+00:24:01,909 --> 00:24:01,919
+ 
+
+1223
+00:24:01,919 --> 00:24:03,440
+parallelization later we talked about
+
+1224
+00:24:03,440 --> 00:24:03,450
+ 
+
+1225
+00:24:03,450 --> 00:24:05,479
+buffer pool bypass but I want to cover
+
+1226
+00:24:05,479 --> 00:24:05,489
+ 
+
+1227
+00:24:05,489 --> 00:24:08,149
+these three things here so Maps
+
+1228
+00:24:08,149 --> 00:24:08,159
+ 
+
+1229
+00:24:08,159 --> 00:24:11,930
+limitation keep clustering so zoom maps
+
+1230
+00:24:11,930 --> 00:24:11,940
+ 
+
+1231
+00:24:11,940 --> 00:24:14,769
+are basically a pre aggregated
+
+1232
+00:24:14,769 --> 00:24:14,779
+
+1233
+00:24:14,779 --> 00:24:16,729
+pre-computer aggregations I'm going to
+
+1234
+00:24:16,729 --> 00:24:16,739
+ 
+
+1235
+00:24:16,739 --> 00:24:19,369
+maintain for theatrics in a single page
+
+1236
+00:24:19,369 --> 00:24:19,379
+ 
+
+1237
+00:24:19,379 --> 00:24:22,519
+and the idea is that when a zone map
+
+1238
+00:24:22,519 --> 00:24:22,529
+ 
+
+1239
+00:24:22,529 --> 00:24:25,339
+versus side so when a query one-way data
+
+1240
+00:24:25,339 --> 00:24:25,349
+ 
+
+1241
+00:24:25,349 --> 00:24:27,609
+stem says I want actually to query on a
+
+1242
+00:24:27,609 --> 00:24:27,619
+ 
+
+1243
+00:24:27,619 --> 00:24:31,580
+on a page it has to check
+
+1244
+00:24:31,580 --> 00:24:31,590
+ 
+
+1245
+00:24:31,590 --> 00:24:32,750
+I have to see whether she'd even bother
+
+1246
+00:24:32,750 --> 00:24:32,760
+ 
+
+1247
+00:24:32,760 --> 00:24:35,060
+accessing that page so the idea here is
+
+1248
+00:24:35,060 --> 00:24:35,070
+ 
+
+1249
+00:24:35,070 --> 00:24:36,440
+we have our original data we have this
+
+1250
+00:24:36,440 --> 00:24:36,450
+ 
+
+1251
+00:24:36,450 --> 00:24:38,510
+column here a bunch of values so in our
+
+1252
+00:24:38,510 --> 00:24:38,520
+ 
+
+1253
+00:24:38,520 --> 00:24:40,250
+zone map we can process we can
+
+1254
+00:24:40,250 --> 00:24:40,260
+ 
+
+1255
+00:24:40,260 --> 00:24:42,769
+pre-compute some aggregations like the
+
+1256
+00:24:42,769 --> 00:24:42,779
+ 
+
+1257
+00:24:42,779 --> 00:24:44,149
+min max average standard things like
+
+1258
+00:24:44,149 --> 00:24:44,159
+ 
+
+1259
+00:24:44,159 --> 00:24:48,710
+that so when our query comes along we
+
+1260
+00:24:48,710 --> 00:24:48,720
+ 
+
+1261
+00:24:48,720 --> 00:24:50,990
+don't find this case here what value
+
+1262
+00:24:50,990 --> 00:24:51,000
+ 
+
+1263
+00:24:51,000 --> 00:24:52,700
+greater than 600 we could look in the
+
+1264
+00:24:52,700 --> 00:24:52,710
+ 
+
+1265
+00:24:52,710 --> 00:24:54,370
+map and say well we know for this page
+
+1266
+00:24:54,370 --> 00:24:54,380
+ 
+
+1267
+00:24:54,380 --> 00:24:57,019
+there's no value greater than 400 so we
+
+1268
+00:24:57,019 --> 00:24:57,029
+ 
+
+1269
+00:24:57,029 --> 00:25:01,549
+don't need to look at it yeah guys I am
+
+1270
+00:25:01,549 --> 00:25:01,559
+ 
+
+1271
+00:25:01,559 --> 00:25:03,580
+NOT very good I think I'm gonna pass out
+
+1272
+00:25:03,580 --> 00:25:03,590
+ 
+
+1273
+00:25:03,590 --> 00:25:05,510
+so we're stopped okay
+
+1274
+00:25:05,510 --> 00:25:05,520
+ 
+
+1275
+00:25:05,520 --> 00:25:10,070
+sorry let's just say that I haven't been
+
+1276
+00:25:10,070 --> 00:25:10,080
+ 
+
+1277
+00:25:10,080 --> 00:25:11,690
+that sick since I ate at Taco Bell when
+
+1278
+00:25:11,690 --> 00:25:11,700
+ 
+
+1279
+00:25:11,700 --> 00:25:13,130
+I was in high school so I've been
+
+1280
+00:25:13,130 --> 00:25:13,140
+ 
+
+1281
+00:25:13,140 --> 00:25:15,380
+sleeping the last 48 hours but now I'm
+
+1282
+00:25:15,380 --> 00:25:15,390
+ 
+
+1283
+00:25:15,390 --> 00:25:16,700
+fine that's what the stomach flu is it
+
+1284
+00:25:16,700 --> 00:25:16,710
+ 
+
+1285
+00:25:16,710 --> 00:25:19,940
+comes and goes right so I like how all a
+
+1286
+00:25:19,940 --> 00:25:19,950
+ 
+
+1287
+00:25:19,950 --> 00:25:21,950
+professor how much I love the flu shot
+
+1288
+00:25:21,950 --> 00:25:21,960
+ 
+
+1289
+00:25:21,960 --> 00:25:24,370
+and that'll protect you from you know
+
+1290
+00:25:24,370 --> 00:25:24,380
+ 
+
+1291
+00:25:24,380 --> 00:25:27,139
+terrible diarrhea okay so we're gonna
+
+1292
+00:25:27,139 --> 00:25:27,149
+ 
+
+1293
+00:25:27,149 --> 00:25:28,430
+pick up where we left off last time
+
+1294
+00:25:28,430 --> 00:25:28,440
+ 
+
+1295
+00:25:28,440 --> 00:25:31,639
+we'll go a little quickly so that we can
+
+1296
+00:25:31,639 --> 00:25:31,649
+ 
+
+1297
+00:25:31,649 --> 00:25:33,049
+get into what we should have talked
+
+1298
+00:25:33,049 --> 00:25:33,059
+ 
+
+1299
+00:25:33,059 --> 00:25:35,539
+about today so again reminder project
+
+1300
+00:25:35,539 --> 00:25:35,549
+ 
+
+1301
+00:25:35,549 --> 00:25:37,510
+project to checkpoint 1 is due on Monday
+
+1302
+00:25:37,510 --> 00:25:37,520
+ 
+
+1303
+00:25:37,520 --> 00:25:39,710
+midterm exam will be on the 17th
+
+1304
+00:25:39,710 --> 00:25:39,720
+ 
+
+1305
+00:25:39,720 --> 00:25:41,060
+I'll send update about that and there'll
+
+1306
+00:25:41,060 --> 00:25:41,070
+ 
+
+1307
+00:25:41,070 --> 00:25:43,130
+be a review session the day before that
+
+1308
+00:25:43,130 --> 00:25:43,140
+ 
+
+1309
+00:25:43,140 --> 00:25:45,590
+but for that class and then tomorrow the
+
+1310
+00:25:45,590 --> 00:25:45,600
+ 
+
+1311
+00:25:45,600 --> 00:25:46,970
+scream Divi guys are coming to give a
+
+1312
+00:25:46,970 --> 00:25:46,980
+ 
+
+1313
+00:25:46,980 --> 00:25:51,110
+talk in the CIC so where we left off
+
+1314
+00:25:51,110 --> 00:25:51,120
+ 
+
+1315
+00:25:51,120 --> 00:25:54,169
+before Emma's passed out was that we
+
+1316
+00:25:54,169 --> 00:25:54,179
+ 
+
+1317
+00:25:54,179 --> 00:25:56,419
+were talking about processing models and
+
+1318
+00:25:56,419 --> 00:25:56,429
+ 
+
+1319
+00:25:56,429 --> 00:25:57,350
+we said these are the different ways we
+
+1320
+00:25:57,350 --> 00:25:57,360
+ 
+
+1321
+00:25:57,360 --> 00:25:59,659
+can we can organize or architect the
+
+1322
+00:25:59,659 --> 00:25:59,669
+ 
+
+1323
+00:25:59,669 --> 00:26:03,139
+system to read tuples and and process
+
+1324
+00:26:03,139 --> 00:26:03,149
+ 
+
+1325
+00:26:03,149 --> 00:26:05,630
+the query right we said that the volcano
+
+1326
+00:26:05,630 --> 00:26:05,640
+ 
+
+1327
+00:26:05,640 --> 00:26:07,250
+model or the iterator model was the most
+
+1328
+00:26:07,250 --> 00:26:07,260
+
+1329
+00:26:07,260 --> 00:26:09,500
+common approach most data systems use
+
+1330
+00:26:09,500 --> 00:26:09,510
+ 
+
+1331
+00:26:09,510 --> 00:26:11,779
+this where you have this next function
+
+1332
+00:26:11,779 --> 00:26:11,789
+
+1333
+00:26:11,789 --> 00:26:13,399
+you call next X and X going down and you
+
+1334
+00:26:13,399 --> 00:26:13,409
+ 
+
+1335
+00:26:13,409 --> 00:26:15,350
+grab single tuples at a time from your
+
+1336
+00:26:15,350 --> 00:26:15,360
+ 
+
+1337
+00:26:15,360 --> 00:26:17,240
+access methods at the bottom then we
+
+1338
+00:26:17,240 --> 00:26:17,250
+ 
+
+1339
+00:26:17,250 --> 00:26:18,980
+said that the alternatives would be the
+
+1340
+00:26:18,980 --> 00:26:18,990
+ 
+
+1341
+00:26:18,990 --> 00:26:20,539
+vectorize approach where it looks like
+
+1342
+00:26:20,539 --> 00:26:20,549
+
+1343
+00:26:20,549 --> 00:26:22,039
+the volcano model instead of getting a
+
+1344
+00:26:22,039 --> 00:26:22,049
+ 
+
+1345
+00:26:22,049 --> 00:26:24,019
+single tuple you get a batch or vector
+
+1346
+00:26:24,019 --> 00:26:24,029
+ 
+
+1347
+00:26:24,029 --> 00:26:26,120
+tuples and this is better for OLAP
+
+1348
+00:26:26,120 --> 00:26:26,130
+ 
+
+1349
+00:26:26,130 --> 00:26:28,130
+queries can be vectorized operations on
+
+1350
+00:26:28,130 --> 00:26:28,140
+ 
+
+1351
+00:26:28,140 --> 00:26:30,110
+batches of queries and then the other
+
+1352
+00:26:30,110 --> 00:26:30,120
+
+1353
+00:26:30,120 --> 00:26:31,490
+approach was the materialization model
+
+1354
+00:26:31,490 --> 00:26:31,500
+ 
+
+1355
+00:26:31,500 --> 00:26:33,350
+where said of going from the top going
+
+1356
+00:26:33,350 --> 00:26:33,360
+ 
+
+1357
+00:26:33,360 --> 00:26:35,120
+down you start with the bottom go up and
+
+1358
+00:26:35,120 --> 00:26:35,130
+ 
+
+1359
+00:26:35,130 --> 00:26:37,399
+you each operator shoves up the entire
+
+1360
+00:26:37,399 --> 00:26:37,409
+
+1361
+00:26:37,409 --> 00:26:39,770
+output or all the tuples that it wants
+
+1362
+00:26:39,770 --> 00:26:39,780
+ 
+
+1363
+00:26:39,780 --> 00:26:41,539
+to that it processed into its next
+
+1364
+00:26:41,539 --> 00:26:41,549
+ 
+
+1365
+00:26:41,549 --> 00:26:42,919
+operator and you don't go into the next
+
+1366
+00:26:42,919 --> 00:26:42,929
+ 
+
+1367
+00:26:42,929 --> 00:26:45,160
+one to the one below it finishes
+
+1368
+00:26:45,160 --> 00:26:45,170
+ 
+
+1369
+00:26:45,170 --> 00:26:48,020
+right so this is all bit of a blur so
+
+1370
+00:26:48,020 --> 00:26:48,030
+ 
+
+1371
+00:26:48,030 --> 00:26:50,030
+we'll just go to this from the very
+
+1372
+00:26:50,030 --> 00:26:50,040
+ 
+
+1373
+00:26:50,040 --> 00:26:53,420
+beginning was the active methods so yeah
+
+1374
+00:26:53,420 --> 00:26:53,430
+ 
+
+1375
+00:26:53,430 --> 00:26:54,920
+cthe methods are how we're actually
+
+1376
+00:26:54,920 --> 00:26:54,930
+ 
+
+1377
+00:26:54,930 --> 00:26:57,260
+going to access the data in our database
+
+1378
+00:26:57,260 --> 00:26:57,270
+ 
+
+1379
+00:26:57,270 --> 00:26:59,660
+right it's it's the bottom part of the
+
+1380
+00:26:59,660 --> 00:26:59,670
+ 
+
+1381
+00:26:59,670 --> 00:27:02,000
+query plan right there's no there's no
+
+1382
+00:27:02,000 --> 00:27:02,010
+ 
+
+1383
+00:27:02,010 --> 00:27:03,830
+equivalent operator for an access method
+
+1384
+00:27:03,830 --> 00:27:03,840
+ 
+
+1385
+00:27:03,840 --> 00:27:05,720
+in the relational algebra because
+
+1386
+00:27:05,720 --> 00:27:05,730
+ 
+
+1387
+00:27:05,730 --> 00:27:07,040
+relational algebra game was just an
+
+1388
+00:27:07,040 --> 00:27:07,050
+ 
+
+1389
+00:27:07,050 --> 00:27:09,680
+abstraction over how we would execute
+
+1390
+00:27:09,680 --> 00:27:09,690
+ 
+
+1391
+00:27:09,690 --> 00:27:11,930
+queries so now we need to talk about how
+
+1392
+00:27:11,930 --> 00:27:11,940
+ 
+
+1393
+00:27:11,940 --> 00:27:13,280
+do we actually implement these access
+
+1394
+00:27:13,280 --> 00:27:13,290
+ 
+
+1395
+00:27:13,290 --> 00:27:14,480
+methods how do you actually get the data
+
+1396
+00:27:14,480 --> 00:27:14,490
+
+1397
+00:27:14,490 --> 00:27:17,840
+we need from from our database in order
+
+1398
+00:27:17,840 --> 00:27:17,850
+ 
+
+1399
+00:27:17,850 --> 00:27:20,150
+to pass them up into that to our query
+
+1400
+00:27:20,150 --> 00:27:20,160
+ 
+
+1401
+00:27:20,160 --> 00:27:21,530
+plan and do additional operations on
+
+1402
+00:27:21,530 --> 00:27:21,540
+ 
+
+1403
+00:27:21,540 --> 00:27:23,690
+them so at a high level there's only
+
+1404
+00:27:23,690 --> 00:27:23,700
+ 
+
+1405
+00:27:23,700 --> 00:27:25,910
+really two approaches you had either do
+
+1406
+00:27:25,910 --> 00:27:25,920
+ 
+
+1407
+00:27:25,920 --> 00:27:27,460
+an index scan or your sequential scan
+
+1408
+00:27:27,460 --> 00:27:27,470
+
+1409
+00:27:27,470 --> 00:27:30,320
+right there's really the only way two
+
+1410
+00:27:30,320 --> 00:27:30,330
+ 
+
+1411
+00:27:30,330 --> 00:27:32,960
+ways you can actually get data there's
+
+1412
+00:27:32,960 --> 00:27:32,970
+ 
+
+1413
+00:27:32,970 --> 00:27:34,400
+things like materialized views but those
+
+1414
+00:27:34,400 --> 00:27:34,410
+
+1415
+00:27:34,410 --> 00:27:36,470
+are usually stored it's just tables if
+
+1416
+00:27:36,470 --> 00:27:36,480
+ 
+
+1417
+00:27:36,480 --> 00:27:37,940
+you use multiple indexes that's still in
+
+1418
+00:27:37,940 --> 00:27:37,950
+ 
+
+1419
+00:27:37,950 --> 00:27:39,710
+index again so at a high level there's
+
+1420
+00:27:39,710 --> 00:27:39,720
+ 
+
+1421
+00:27:39,720 --> 00:27:41,570
+essentially two classes of approaches
+
+1422
+00:27:41,570 --> 00:27:41,580
+ 
+
+1423
+00:27:41,580 --> 00:27:44,030
+but we'll look at also what happens when
+
+1424
+00:27:44,030 --> 00:27:44,040
+ 
+
+1425
+00:27:44,040 --> 00:27:45,470
+you have multiple indexes or what
+
+1426
+00:27:45,470 --> 00:27:45,480
+ 
+
+1427
+00:27:45,480 --> 00:27:47,390
+Postgres calls a bitmap scan because
+
+1428
+00:27:47,390 --> 00:27:47,400
+ 
+
+1429
+00:27:47,400 --> 00:27:48,650
+this is kind of confusing when you look
+
+1430
+00:27:48,650 --> 00:27:48,660
+ 
+
+1431
+00:27:48,660 --> 00:27:49,940
+at explain you look at the query plan
+
+1432
+00:27:49,940 --> 00:27:49,950
+
+1433
+00:27:49,950 --> 00:27:51,350
+and Postgres says oh I'm doing a bit mad
+
+1434
+00:27:51,350 --> 00:27:51,360
+ 
+
+1435
+00:27:51,360 --> 00:27:53,060
+scan you may not know exactly what that
+
+1436
+00:27:53,060 --> 00:27:53,070
+ 
+
+1437
+00:27:53,070 --> 00:27:54,770
+is it's essentially is doing an index
+
+1438
+00:27:54,770 --> 00:27:54,780
+ 
+
+1439
+00:27:54,780 --> 00:27:57,200
+scan so look at look at both these and
+
+1440
+00:27:57,200 --> 00:27:57,210
+ 
+
+1441
+00:27:57,210 --> 00:27:59,330
+what optimizations we can apply for each
+
+1442
+00:27:59,330 --> 00:27:59,340
+
+1443
+00:27:59,340 --> 00:28:02,360
+of them so as we said many times about
+
+1444
+00:28:02,360 --> 00:28:02,370
+ 
+
+1445
+00:28:02,370 --> 00:28:04,040
+the semester the sequential scan is the
+
+1446
+00:28:04,040 --> 00:28:04,050
+ 
+
+1447
+00:28:04,050 --> 00:28:07,010
+fallback option for a database system we
+
+1448
+00:28:07,010 --> 00:28:07,020
+ 
+
+1449
+00:28:07,020 --> 00:28:08,360
+don't have an index or how many fancy
+
+1450
+00:28:08,360 --> 00:28:08,370
+ 
+
+1451
+00:28:08,370 --> 00:28:10,790
+thing we can do to actually derive the
+
+1452
+00:28:10,790 --> 00:28:10,800
+ 
+
+1453
+00:28:10,800 --> 00:28:13,400
+answer we always can just scan the
+
+1454
+00:28:13,400 --> 00:28:13,410
+ 
+
+1455
+00:28:13,410 --> 00:28:15,830
+underlying tables and it's essentially
+
+1456
+00:28:15,830 --> 00:28:15,840
+
+1457
+00:28:15,840 --> 00:28:17,060
+just nested for-loops
+
+1458
+00:28:17,060 --> 00:28:17,070
+ 
+
+1459
+00:28:17,070 --> 00:28:19,160
+for every single page in our triple
+
+1460
+00:28:19,160 --> 00:28:19,170
+ 
+
+1461
+00:28:19,170 --> 00:28:20,690
+we're gonna then iterate over to see
+
+1462
+00:28:20,690 --> 00:28:20,700
+ 
+
+1463
+00:28:20,700 --> 00:28:22,820
+every single to point each page and just
+
+1464
+00:28:22,820 --> 00:28:22,830
+ 
+
+1465
+00:28:22,830 --> 00:28:24,320
+do whatever it is that what we need to
+
+1466
+00:28:24,320 --> 00:28:24,330
+ 
+
+1467
+00:28:24,330 --> 00:28:26,810
+do right we can compute an aggregation
+
+1468
+00:28:26,810 --> 00:28:26,820
+ 
+
+1469
+00:28:26,820 --> 00:28:29,480
+apply a predicate do filtering right
+
+1470
+00:28:29,480 --> 00:28:29,490
+ 
+
+1471
+00:28:29,490 --> 00:28:31,480
+we're just going over it one by one
+
+1472
+00:28:31,480 --> 00:28:31,490
+ 
+
+1473
+00:28:31,490 --> 00:28:34,010
+so how those are typically implemented
+
+1474
+00:28:34,010 --> 00:28:34,020
+
+1475
+00:28:34,020 --> 00:28:37,700
+is that the especially in a volcano
+
+1476
+00:28:37,700 --> 00:28:37,710
+ 
+
+1477
+00:28:37,710 --> 00:28:39,740
+model or iterate a model is that the
+
+1478
+00:28:39,740 --> 00:28:39,750
+ 
+
+1479
+00:28:39,750 --> 00:28:41,510
+database system is going to maintain a
+
+1480
+00:28:41,510 --> 00:28:41,520
+ 
+
+1481
+00:28:41,520 --> 00:28:44,690
+internal cursor for your query that just
+
+1482
+00:28:44,690 --> 00:28:44,700
+ 
+
+1483
+00:28:44,700 --> 00:28:47,660
+keeps track of where did I leave off in
+
+1484
+00:28:47,660 --> 00:28:47,670
+ 
+
+1485
+00:28:47,670 --> 00:28:50,210
+the scan so if you're familiar with
+
+1486
+00:28:50,210 --> 00:28:50,220
+
+1487
+00:28:50,220 --> 00:28:51,740
+writing iterators and python you have
+
+1488
+00:28:51,740 --> 00:28:51,750
+ 
+
+1489
+00:28:51,750 --> 00:28:53,480
+that yield function right that's just
+
+1490
+00:28:53,480 --> 00:28:53,490
+ 
+
+1491
+00:28:53,490 --> 00:28:55,190
+syntactic sugar underneath the covers
+
+1492
+00:28:55,190 --> 00:28:55,200
+ 
+
+1493
+00:28:55,200 --> 00:28:57,530
+Python is maintaining its own iterator
+
+1494
+00:28:57,530 --> 00:28:57,540
+ 
+
+1495
+00:28:57,540 --> 00:28:58,730
+sorry its own cursor
+
+1496
+00:28:58,730 --> 00:28:58,740
+
+1497
+00:28:58,740 --> 00:29:00,860
+to know that when you go and ask for the
+
+1498
+00:29:00,860 --> 00:29:00,870
+ 
+
+1499
+00:29:00,870 --> 00:29:02,299
+next thing it knows how to jump where it
+
+1500
+00:29:02,299 --> 00:29:02,309
+ 
+
+1501
+00:29:02,309 --> 00:29:04,910
+left off and it's in this sequential
+
+1502
+00:29:04,910 --> 00:29:04,920
+ 
+
+1503
+00:29:04,920 --> 00:29:07,370
+scam so we're gonna do this on a per
+
+1504
+00:29:07,370 --> 00:29:07,380
+ 
+
+1505
+00:29:07,380 --> 00:29:09,590
+query basis right and in the
+
+1506
+00:29:09,590 --> 00:29:09,600
+ 
+
+1507
+00:29:09,600 --> 00:29:10,790
+materialization model we don't like to
+
+1508
+00:29:10,790 --> 00:29:10,800
+ 
+
+1509
+00:29:10,800 --> 00:29:12,169
+do this because we're just going to read
+
+1510
+00:29:12,169 --> 00:29:12,179
+ 
+
+1511
+00:29:12,179 --> 00:29:13,820
+everything and shove it up but if you're
+
+1512
+00:29:13,820 --> 00:29:13,830
+ 
+
+1513
+00:29:13,830 --> 00:29:16,100
+doing the vectorize or the volcano model
+
+1514
+00:29:16,100 --> 00:29:16,110
+ 
+
+1515
+00:29:16,110 --> 00:29:18,320
+when you call next and omit the tuple
+
+1516
+00:29:18,320 --> 00:29:18,330
+ 
+
+1517
+00:29:18,330 --> 00:29:20,060
+back up to you when you call next again
+
+1518
+00:29:20,060 --> 00:29:20,070
+ 
+
+1519
+00:29:20,070 --> 00:29:22,010
+you need to know where you left off in
+
+1520
+00:29:22,010 --> 00:29:22,020
+ 
+
+1521
+00:29:22,020 --> 00:29:23,510
+the case of scrunch a can it's just page
+
+1522
+00:29:23,510 --> 00:29:23,520
+ 
+
+1523
+00:29:23,520 --> 00:29:28,460
+ID and all set so there's not really any
+
+1524
+00:29:28,460 --> 00:29:28,470
+ 
+
+1525
+00:29:28,470 --> 00:29:30,590
+magical way we can make sequential scans
+
+1526
+00:29:30,590 --> 00:29:30,600
+ 
+
+1527
+00:29:30,600 --> 00:29:33,080
+run faster right because again it's oh
+
+1528
+00:29:33,080 --> 00:29:33,090
+ 
+
+1529
+00:29:33,090 --> 00:29:34,910
+it's gonna be bound by how fast we can
+
+1530
+00:29:34,910 --> 00:29:34,920
+ 
+
+1531
+00:29:34,920 --> 00:29:37,310
+read pages from disk right we if we need
+
+1532
+00:29:37,310 --> 00:29:37,320
+ 
+
+1533
+00:29:37,320 --> 00:29:39,140
+to read a thousand pages we have to read
+
+1534
+00:29:39,140 --> 00:29:39,150
+ 
+
+1535
+00:29:39,150 --> 00:29:41,690
+a thousand pages but there are some
+
+1536
+00:29:41,690 --> 00:29:41,700
+ 
+
+1537
+00:29:41,700 --> 00:29:43,340
+optimizations we can do to try to
+
+1538
+00:29:43,340 --> 00:29:43,350
+ 
+
+1539
+00:29:43,350 --> 00:29:45,650
+eliminate or reduce the number of pages
+
+1540
+00:29:45,650 --> 00:29:45,660
+ 
+
+1541
+00:29:45,660 --> 00:29:49,010
+we have to read to to minimize that the
+
+1542
+00:29:49,010 --> 00:29:49,020
+ 
+
+1543
+00:29:49,020 --> 00:29:51,620
+amount I oh we have to do so we've
+
+1544
+00:29:51,620 --> 00:29:51,630
+ 
+
+1545
+00:29:51,630 --> 00:29:53,120
+already talked about prefetching right
+
+1546
+00:29:53,120 --> 00:29:53,130
+ 
+
+1547
+00:29:53,130 --> 00:29:55,010
+prefetching was a it was a way to know
+
+1548
+00:29:55,010 --> 00:29:55,020
+ 
+
+1549
+00:29:55,020 --> 00:29:56,570
+I'm gonna scan ahead a bunch of pages so
+
+1550
+00:29:56,570 --> 00:29:56,580
+ 
+
+1551
+00:29:56,580 --> 00:29:57,560
+let me go ahead and fetch a bunch of
+
+1552
+00:29:57,560 --> 00:29:57,570
+ 
+
+1553
+00:29:57,570 --> 00:29:59,240
+them in order bring them to my buffer
+
+1554
+00:29:59,240 --> 00:29:59,250
+ 
+
+1555
+00:29:59,250 --> 00:30:00,380
+pools so that one actually need them
+
+1556
+00:30:00,380 --> 00:30:00,390
+ 
+
+1557
+00:30:00,390 --> 00:30:01,970
+they're there for me we'll talk about
+
+1558
+00:30:01,970 --> 00:30:01,980
+ 
+
+1559
+00:30:01,980 --> 00:30:04,040
+how to do parallel special scans and a
+
+1560
+00:30:04,040 --> 00:30:04,050
+ 
+
+1561
+00:30:04,050 --> 00:30:05,060
+few more lectures when we talk about
+
+1562
+00:30:05,060 --> 00:30:05,070
+ 
+
+1563
+00:30:05,070 --> 00:30:07,160
+parallel query execution and then we
+
+1564
+00:30:07,160 --> 00:30:07,170
+ 
+
+1565
+00:30:07,170 --> 00:30:08,450
+also talked about the buffer pool bypass
+
+1566
+00:30:08,450 --> 00:30:08,460
+
+1567
+00:30:08,460 --> 00:30:11,060
+in Informix and Postgres where instead
+
+1568
+00:30:11,060 --> 00:30:11,070
+ 
+
+1569
+00:30:11,070 --> 00:30:13,400
+of polluting the your buffer pool with
+
+1570
+00:30:13,400 --> 00:30:13,410
+
+1571
+00:30:13,410 --> 00:30:15,230
+the the pages you're reading during
+
+1572
+00:30:15,230 --> 00:30:15,240
+ 
+
+1573
+00:30:15,240 --> 00:30:17,000
+scheduled scan you just maintain a
+
+1574
+00:30:17,000 --> 00:30:17,010
+ 
+
+1575
+00:30:17,010 --> 00:30:19,549
+little side buffer for your query that's
+
+1576
+00:30:19,549 --> 00:30:19,559
+ 
+
+1577
+00:30:19,559 --> 00:30:21,860
+just you know they only require uses and
+
+1578
+00:30:21,860 --> 00:30:21,870
+ 
+
+1579
+00:30:21,870 --> 00:30:22,850
+that way you don't you don't have
+
+1580
+00:30:22,850 --> 00:30:22,860
+ 
+
+1581
+00:30:22,860 --> 00:30:24,500
+sequential flooding you're not you know
+
+1582
+00:30:24,500 --> 00:30:24,510
+ 
+
+1583
+00:30:24,510 --> 00:30:26,570
+you're not blowing away all the the
+
+1584
+00:30:26,570 --> 00:30:26,580
+ 
+
+1585
+00:30:26,580 --> 00:30:28,040
+locality information you have in your
+
+1586
+00:30:28,040 --> 00:30:28,050
+ 
+
+1587
+00:30:28,050 --> 00:30:30,740
+cache so I said one I'll talk about
+
+1588
+00:30:30,740 --> 00:30:30,750
+ 
+
+1589
+00:30:30,750 --> 00:30:32,210
+these three other optimizations we can
+
+1590
+00:30:32,210 --> 00:30:32,220
+ 
+
+1591
+00:30:32,220 --> 00:30:34,130
+do again these are things that we can
+
+1592
+00:30:34,130 --> 00:30:34,140
+ 
+
+1593
+00:30:34,140 --> 00:30:37,430
+apply to potentially make the amount of
+
+1594
+00:30:37,430 --> 00:30:37,440
+ 
+
+1595
+00:30:37,440 --> 00:30:38,450
+work that they do during sweat your
+
+1596
+00:30:38,450 --> 00:30:38,460
+ 
+
+1597
+00:30:38,460 --> 00:30:45,500
+scans be less so zone maps are a way to
+
+1598
+00:30:45,500 --> 00:30:45,510
+ 
+
+1599
+00:30:45,510 --> 00:30:48,200
+pre-compute aggregations on individual
+
+1600
+00:30:48,200 --> 00:30:48,210
+ 
+
+1601
+00:30:48,210 --> 00:30:50,900
+pages and then use those precompute
+
+1602
+00:30:50,900 --> 00:30:50,910
+ 
+
+1603
+00:30:50,910 --> 00:30:52,730
+aggregations to know what pages you can
+
+1604
+00:30:52,730 --> 00:30:52,740
+ 
+
+1605
+00:30:52,740 --> 00:30:55,310
+skip during a cilantro scan alright so
+
+1606
+00:30:55,310 --> 00:30:55,320
+ 
+
+1607
+00:30:55,320 --> 00:30:56,510
+the way to think about this is I have a
+
+1608
+00:30:56,510 --> 00:30:56,520
+ 
+
+1609
+00:30:56,520 --> 00:30:58,820
+bunch of pages and I have a bunch coms
+
+1610
+00:30:58,820 --> 00:30:58,830
+ 
+
+1611
+00:30:58,830 --> 00:31:00,470
+in those pages and I'm gonna go ahead
+
+1612
+00:31:00,470 --> 00:31:00,480
+ 
+
+1613
+00:31:00,480 --> 00:31:02,690
+and pre compute the standard a Gregorian
+
+1614
+00:31:02,690 --> 00:31:02,700
+ 
+
+1615
+00:31:02,700 --> 00:31:04,460
+as we have in the sequel standard you
+
+1616
+00:31:04,460 --> 00:31:04,470
+ 
+
+1617
+00:31:04,470 --> 00:31:06,530
+know count min max some average things
+
+1618
+00:31:06,530 --> 00:31:06,540
+
+1619
+00:31:06,540 --> 00:31:08,840
+like that and we restore this zone map
+
+1620
+00:31:08,840 --> 00:31:08,850
+
+1621
+00:31:08,850 --> 00:31:11,330
+in a separate page different than from
+
+1622
+00:31:11,330 --> 00:31:11,340
+ 
+
+1623
+00:31:11,340 --> 00:31:12,620
+the original data page
+
+1624
+00:31:12,620 --> 00:31:12,630
+ 
+
+1625
+00:31:12,630 --> 00:31:14,299
+and the zone map itself is gonna be
+
+1626
+00:31:14,299 --> 00:31:14,309
+ 
+
+1627
+00:31:14,309 --> 00:31:17,060
+pretty small so we can store multiple
+
+1628
+00:31:17,060 --> 00:31:17,070
+ 
+
+1629
+00:31:17,070 --> 00:31:20,240
+the zone maps for multiple pages in a
+
+1630
+00:31:20,240 --> 00:31:20,250
+ 
+
+1631
+00:31:20,250 --> 00:31:23,419
+single page and so what happened is now
+
+1632
+00:31:23,419 --> 00:31:23,429
+ 
+
+1633
+00:31:23,429 --> 00:31:25,100
+if we come along with a sequential scan
+
+1634
+00:31:25,100 --> 00:31:25,110
+ 
+
+1635
+00:31:25,110 --> 00:31:27,169
+operator like this select start from
+
+1636
+00:31:27,169 --> 00:31:27,179
+ 
+
+1637
+00:31:27,179 --> 00:31:29,990
+table where value is greater than 600 if
+
+1638
+00:31:29,990 --> 00:31:30,000
+ 
+
+1639
+00:31:30,000 --> 00:31:32,210
+we had to do if we didn't have a zone
+
+1640
+00:31:32,210 --> 00:31:32,220
+ 
+
+1641
+00:31:32,220 --> 00:31:34,159
+map you'd have to go fetch the page and
+
+1642
+00:31:34,159 --> 00:31:34,169
+ 
+
+1643
+00:31:34,169 --> 00:31:36,769
+just scan in linearly inside that page
+
+1644
+00:31:36,769 --> 00:31:36,779
+ 
+
+1645
+00:31:36,779 --> 00:31:38,269
+to see whether we have any values that
+
+1646
+00:31:38,269 --> 00:31:38,279
+ 
+
+1647
+00:31:38,279 --> 00:31:40,730
+match this with the zone map instead we
+
+1648
+00:31:40,730 --> 00:31:40,740
+
+1649
+00:31:40,740 --> 00:31:42,139
+can examine the predicate and say well
+
+1650
+00:31:42,139 --> 00:31:42,149
+ 
+
+1651
+00:31:42,149 --> 00:31:43,789
+it's looking for values that are greater
+
+1652
+00:31:43,789 --> 00:31:43,799
+ 
+
+1653
+00:31:43,799 --> 00:31:46,549
+than 600 in my zone map I know the max
+
+1654
+00:31:46,549 --> 00:31:46,559
+ 
+
+1655
+00:31:46,559 --> 00:31:50,149
+value for this column here is 400 so
+
+1656
+00:31:50,149 --> 00:31:50,159
+ 
+
+1657
+00:31:50,159 --> 00:31:52,399
+there's never going to be a tuple that
+
+1658
+00:31:52,399 --> 00:31:52,409
+ 
+
+1659
+00:31:52,409 --> 00:31:54,649
+is that will match my predicate so
+
+1660
+00:31:54,649 --> 00:31:54,659
+ 
+
+1661
+00:31:54,659 --> 00:31:55,940
+therefore I don't need to bother looking
+
+1662
+00:31:55,940 --> 00:31:55,950
+ 
+
+1663
+00:31:55,950 --> 00:31:58,639
+at this page I just go ahead and to skip
+
+1664
+00:31:58,639 --> 00:31:58,649
+ 
+
+1665
+00:31:58,649 --> 00:32:01,850
+it and again the idea is that the data
+
+1666
+00:32:01,850 --> 00:32:01,860
+ 
+
+1667
+00:32:01,860 --> 00:32:03,619
+pages when we must will be much larger
+
+1668
+00:32:03,619 --> 00:32:03,629
+ 
+
+1669
+00:32:03,629 --> 00:32:06,320
+than the zone map pages so for a single
+
+1670
+00:32:06,320 --> 00:32:06,330
+ 
+
+1671
+00:32:06,330 --> 00:32:09,499
+page fetch to go get a zone map like
+
+1672
+00:32:09,499 --> 00:32:09,509
+ 
+
+1673
+00:32:09,509 --> 00:32:11,889
+that main encompass or cover may be
+
+1674
+00:32:11,889 --> 00:32:11,899
+ 
+
+1675
+00:32:11,899 --> 00:32:14,720
+dozens of pages and I can use that to
+
+1676
+00:32:14,720 --> 00:32:14,730
+ 
+
+1677
+00:32:14,730 --> 00:32:15,889
+figure out which ones actually need to
+
+1678
+00:32:15,889 --> 00:32:15,899
+ 
+
+1679
+00:32:15,899 --> 00:32:21,139
+go look at so this idea is is is not new
+
+1680
+00:32:21,139 --> 00:32:21,149
+ 
+
+1681
+00:32:21,149 --> 00:32:23,690
+it's been around for a while Oracle
+
+1682
+00:32:23,690 --> 00:32:23,700
+ 
+
+1683
+00:32:23,700 --> 00:32:25,070
+calls it zone maps and for better or
+
+1684
+00:32:25,070 --> 00:32:25,080
+ 
+
+1685
+00:32:25,080 --> 00:32:27,169
+worse you know in the database community
+
+1686
+00:32:27,169 --> 00:32:27,179
+ 
+
+1687
+00:32:27,179 --> 00:32:28,669
+when you say zone map we just mean the
+
+1688
+00:32:28,669 --> 00:32:28,679
+ 
+
+1689
+00:32:28,679 --> 00:32:32,090
+Oracle you know brand name of it but
+
+1690
+00:32:32,090 --> 00:32:32,100
+ 
+
+1691
+00:32:32,100 --> 00:32:34,100
+it's not specific to Oracle it's used in
+
+1692
+00:32:34,100 --> 00:32:34,110
+ 
+
+1693
+00:32:34,110 --> 00:32:35,749
+a bunch of different systems so IBM has
+
+1694
+00:32:35,749 --> 00:32:35,759
+ 
+
+1695
+00:32:35,759 --> 00:32:39,169
+it in db2 for blue cloud era uses this
+
+1696
+00:32:39,169 --> 00:32:39,179
+ 
+
+1697
+00:32:39,179 --> 00:32:40,249
+in Impala
+
+1698
+00:32:40,249 --> 00:32:40,259
+
+1699
+00:32:40,259 --> 00:32:43,070
+Netezza has this Vertica it's in the
+
+1700
+00:32:43,070 --> 00:32:43,080
+ 
+
+1701
+00:32:43,080 --> 00:32:45,680
+park cave file format for cloud systems
+
+1702
+00:32:45,680 --> 00:32:45,690
+ 
+
+1703
+00:32:45,690 --> 00:32:46,850
+we'll talk about later in the semester
+
+1704
+00:32:46,850 --> 00:32:46,860
+ 
+
+1705
+00:32:46,860 --> 00:32:48,230
+so this approach is used all over the
+
+1706
+00:32:48,230 --> 00:32:48,240
+ 
+
+1707
+00:32:48,240 --> 00:32:49,850
+place mem sequel has this sometimes the
+
+1708
+00:32:49,850 --> 00:32:49,860
+ 
+
+1709
+00:32:49,860 --> 00:32:51,499
+called pre computed aggregates but he's
+
+1710
+00:32:51,499 --> 00:32:51,509
+ 
+
+1711
+00:32:51,509 --> 00:32:53,029
+a zone maps they essentially mean mean
+
+1712
+00:32:53,029 --> 00:32:53,039
+
+1713
+00:32:53,039 --> 00:32:56,450
+the same thing the next thing we can do
+
+1714
+00:32:56,450 --> 00:32:56,460
+ 
+
+1715
+00:32:56,460 --> 00:32:59,060
+is called late materialization for
+
+1716
+00:32:59,060 --> 00:32:59,070
+ 
+
+1717
+00:32:59,070 --> 00:33:01,610
+columnstore systems Samara will
+
+1718
+00:33:01,610 --> 00:33:01,620
+ 
+
+1719
+00:33:01,620 --> 00:33:03,350
+columnstore systems I said that in
+
+1720
+00:33:03,350 --> 00:33:03,360
+ 
+
+1721
+00:33:03,360 --> 00:33:04,669
+general you can think of every single
+
+1722
+00:33:04,669 --> 00:33:04,679
+ 
+
+1723
+00:33:04,679 --> 00:33:07,039
+column or attribute for a table will be
+
+1724
+00:33:07,039 --> 00:33:07,049
+ 
+
+1725
+00:33:07,049 --> 00:33:09,619
+stored in pages by themselves and so as
+
+1726
+00:33:09,619 --> 00:33:09,629
+ 
+
+1727
+00:33:09,629 --> 00:33:12,259
+I'm processing the query I only fetch
+
+1728
+00:33:12,259 --> 00:33:12,269
+ 
+
+1729
+00:33:12,269 --> 00:33:14,960
+the pages that have the columns that
+
+1730
+00:33:14,960 --> 00:33:14,970
+ 
+
+1731
+00:33:14,970 --> 00:33:16,549
+actually need to in order to process the
+
+1732
+00:33:16,549 --> 00:33:16,559
+ 
+
+1733
+00:33:16,559 --> 00:33:19,669
+query so in late materialization the
+
+1734
+00:33:19,669 --> 00:33:19,679
+ 
+
+1735
+00:33:19,679 --> 00:33:22,879
+idea is is sort of a logical extension
+
+1736
+00:33:22,879 --> 00:33:22,889
+ 
+
+1737
+00:33:22,889 --> 00:33:26,210
+to this is that as I'm going up the tree
+
+1738
+00:33:26,210 --> 00:33:26,220
+ 
+
+1739
+00:33:26,220 --> 00:33:27,860
+query plan I only go fetch the pages
+
+1740
+00:33:27,860 --> 00:33:27,870
+
+1741
+00:33:27,870 --> 00:33:30,529
+that I need for that particular operator
+
+1742
+00:33:30,529 --> 00:33:30,539
+ 
+
+1743
+00:33:30,539 --> 00:33:32,240
+I don't try to stitch the entire tuple
+
+1744
+00:33:32,240 --> 00:33:32,250
+ 
+
+1745
+00:33:32,250 --> 00:33:34,640
+back together alright so say that we
+
+1746
+00:33:34,640 --> 00:33:34,650
+ 
+
+1747
+00:33:34,650 --> 00:33:36,200
+have it query like this select average
+
+1748
+00:33:36,200 --> 00:33:36,210
+ 
+
+1749
+00:33:36,210 --> 00:33:37,940
+and sieve and food joining them bar and
+
+1750
+00:33:37,940 --> 00:33:37,950
+ 
+
+1751
+00:33:37,950 --> 00:33:39,710
+then we have our joint predicate and
+
+1752
+00:33:39,710 --> 00:33:39,720
+ 
+
+1753
+00:33:39,720 --> 00:33:41,120
+then a where clause or a is greater than
+
+1754
+00:33:41,120 --> 00:33:41,130
+ 
+
+1755
+00:33:41,130 --> 00:33:43,159
+hundred so say our query pan looks like
+
+1756
+00:33:43,159 --> 00:33:43,169
+ 
+
+1757
+00:33:43,169 --> 00:33:44,750
+this and we're going to focus on the
+
+1758
+00:33:44,750 --> 00:33:44,760
+ 
+
+1759
+00:33:44,760 --> 00:33:48,039
+right side of the tree the scan on foo
+
+1760
+00:33:48,039 --> 00:33:48,049
+ 
+
+1761
+00:33:48,049 --> 00:33:50,299
+so as we're doing this crunch we'll scan
+
+1762
+00:33:50,299 --> 00:33:50,309
+ 
+
+1763
+00:33:50,309 --> 00:33:53,000
+on foo and we want to apply our
+
+1764
+00:33:53,000 --> 00:33:53,010
+ 
+
+1765
+00:33:53,010 --> 00:33:55,220
+predicate on a we know that the only
+
+1766
+00:33:55,220 --> 00:33:55,230
+ 
+
+1767
+00:33:55,230 --> 00:33:57,860
+thing at this point to evaluate that
+
+1768
+00:33:57,860 --> 00:33:57,870
+ 
+
+1769
+00:33:57,870 --> 00:34:00,980
+predicate is just a so the only column
+
+1770
+00:34:00,980 --> 00:34:00,990
+ 
+
+1771
+00:34:00,990 --> 00:34:02,510
+we need to go read you know in pages we
+
+1772
+00:34:02,510 --> 00:34:02,520
+ 
+
+1773
+00:34:02,520 --> 00:34:04,549
+need to go read this for the attribute a
+
+1774
+00:34:04,549 --> 00:34:04,559
+ 
+
+1775
+00:34:04,559 --> 00:34:07,250
+and then when we're done scanning we
+
+1776
+00:34:07,250 --> 00:34:07,260
+ 
+
+1777
+00:34:07,260 --> 00:34:10,250
+actually can throw away any values of a
+
+1778
+00:34:10,250 --> 00:34:10,260
+ 
+
+1779
+00:34:10,260 --> 00:34:12,169
+that we brought into memory and only
+
+1780
+00:34:12,169 --> 00:34:12,179
+
+1781
+00:34:12,179 --> 00:34:15,500
+pass up offsets because we know at this
+
+1782
+00:34:15,500 --> 00:34:15,510
+ 
+
+1783
+00:34:15,510 --> 00:34:17,510
+point in the query plan because we know
+
+1784
+00:34:17,510 --> 00:34:17,520
+
+1785
+00:34:17,520 --> 00:34:18,889
+what the query plan is because this
+
+1786
+00:34:18,889 --> 00:34:18,899
+ 
+
+1787
+00:34:18,899 --> 00:34:21,260
+sequel is declarative we know that
+
+1788
+00:34:21,260 --> 00:34:21,270
+ 
+
+1789
+00:34:21,270 --> 00:34:22,849
+there's no other point up in this tree
+
+1790
+00:34:22,849 --> 00:34:22,859
+ 
+
+1791
+00:34:22,859 --> 00:34:24,349
+where we're ever gonna have to look at a
+
+1792
+00:34:24,349 --> 00:34:24,359
+ 
+
+1793
+00:34:24,359 --> 00:34:26,450
+again so we don't even need to pass it
+
+1794
+00:34:26,450 --> 00:34:26,460
+ 
+
+1795
+00:34:26,460 --> 00:34:28,369
+around we can just throw it away and
+
+1796
+00:34:28,369 --> 00:34:28,379
+ 
+
+1797
+00:34:28,379 --> 00:34:30,950
+just pass up our offsets same thing when
+
+1798
+00:34:30,950 --> 00:34:30,960
+ 
+
+1799
+00:34:30,960 --> 00:34:32,570
+we go up here and do our join we only
+
+1800
+00:34:32,570 --> 00:34:32,580
+ 
+
+1801
+00:34:32,580 --> 00:34:35,329
+look at B or just the subset of B that
+
+1802
+00:34:35,329 --> 00:34:35,339
+ 
+
+1803
+00:34:35,339 --> 00:34:38,570
+match our offsets Pass then more offsets
+
+1804
+00:34:38,570 --> 00:34:38,580
+ 
+
+1805
+00:34:38,580 --> 00:34:40,730
+up to the aggregation and now at this
+
+1806
+00:34:40,730 --> 00:34:40,740
+ 
+
+1807
+00:34:40,740 --> 00:34:43,550
+point we have to materialize right we
+
+1808
+00:34:43,550 --> 00:34:43,560
+ 
+
+1809
+00:34:43,560 --> 00:34:45,349
+can't pass back the user offsets because
+
+1810
+00:34:45,349 --> 00:34:45,359
+ 
+
+1811
+00:34:45,359 --> 00:34:46,790
+that's an internal representation that
+
+1812
+00:34:46,790 --> 00:34:46,800
+ 
+
+1813
+00:34:46,800 --> 00:34:48,740
+our ternal you know marker that means
+
+1814
+00:34:48,740 --> 00:34:48,750
+ 
+
+1815
+00:34:48,750 --> 00:34:50,720
+nothing to the outside world so at this
+
+1816
+00:34:50,720 --> 00:34:50,730
+ 
+
+1817
+00:34:50,730 --> 00:34:52,700
+point we do material materialized the
+
+1818
+00:34:52,700 --> 00:34:52,710
+ 
+
+1819
+00:34:52,710 --> 00:34:54,829
+tuple meaning me go grab for the offsets
+
+1820
+00:34:54,829 --> 00:34:54,839
+
+1821
+00:34:54,839 --> 00:34:57,520
+we grab the data that it actually needs
+
+1822
+00:34:57,520 --> 00:34:57,530
+ 
+
+1823
+00:34:57,530 --> 00:34:59,839
+so this is useful in some cases where
+
+1824
+00:34:59,839 --> 00:34:59,849
+ 
+
+1825
+00:34:59,849 --> 00:35:01,760
+the offset to be much smaller than the
+
+1826
+00:35:01,760 --> 00:35:01,770
+ 
+
+1827
+00:35:01,770 --> 00:35:04,220
+actual tuples themselves the values of
+
+1828
+00:35:04,220 --> 00:35:04,230
+
+1829
+00:35:04,230 --> 00:35:06,530
+people's themselves let's say I had you
+
+1830
+00:35:06,530 --> 00:35:06,540
+ 
+
+1831
+00:35:06,540 --> 00:35:09,620
+know C was a was a varchar' of 100 and
+
+1832
+00:35:09,620 --> 00:35:09,630
+ 
+
+1833
+00:35:09,630 --> 00:35:11,810
+so that would be you know 100 characters
+
+1834
+00:35:11,810 --> 00:35:11,820
+ 
+
+1835
+00:35:11,820 --> 00:35:13,240
+I would have to pass round from one
+
+1836
+00:35:13,240 --> 00:35:13,250
+ 
+
+1837
+00:35:13,250 --> 00:35:15,920
+operator to the next but would late
+
+1838
+00:35:15,920 --> 00:35:15,930
+ 
+
+1839
+00:35:15,930 --> 00:35:17,329
+materialisation I guess passed around a
+
+1840
+00:35:17,329 --> 00:35:17,339
+ 
+
+1841
+00:35:17,339 --> 00:35:20,120
+64-bit integer per tuple then only when
+
+1842
+00:35:20,120 --> 00:35:20,130
+
+1843
+00:35:20,130 --> 00:35:22,460
+I had to go get the give his alt back to
+
+1844
+00:35:22,460 --> 00:35:22,470
+
+1845
+00:35:22,470 --> 00:35:24,530
+the user then I go fetch the page as I
+
+1846
+00:35:24,530 --> 00:35:24,540
+ 
+
+1847
+00:35:24,540 --> 00:35:27,980
+need for C right so again it's sort of
+
+1848
+00:35:27,980 --> 00:35:27,990
+ 
+
+1849
+00:35:27,990 --> 00:35:30,250
+this is you can do this in a
+
+1850
+00:35:30,250 --> 00:35:30,260
+ 
+
+1851
+00:35:30,260 --> 00:35:32,180
+decomposition storage model or the
+
+1852
+00:35:32,180 --> 00:35:32,190
+ 
+
+1853
+00:35:32,190 --> 00:35:34,310
+column store system because the columns
+
+1854
+00:35:34,310 --> 00:35:34,320
+ 
+
+1855
+00:35:34,320 --> 00:35:36,490
+are broken off you couldn't do this in a
+
+1856
+00:35:36,490 --> 00:35:36,500
+ 
+
+1857
+00:35:36,500 --> 00:35:39,290
+easily in a in a and a row store because
+
+1858
+00:35:39,290 --> 00:35:39,300
+ 
+
+1859
+00:35:39,300 --> 00:35:39,920
+when
+
+1860
+00:35:39,920 --> 00:35:39,930
+
+1861
+00:35:39,930 --> 00:35:41,150
+go fetch the tuple you're going
+
+1862
+00:35:41,150 --> 00:35:41,160
+
+1863
+00:35:41,160 --> 00:35:46,690
+impression the the all the rows for it
+
+1864
+00:35:46,690 --> 00:35:46,700
+
+
+1865
+00:35:46,700 --> 00:35:48,890
+alright so the last optimization is
+
+1866
+00:35:48,890 --> 00:35:48,900
+ 
+
+1867
+00:35:48,900 --> 00:35:51,049
+called heap clustering so we've sort of
+
+1868
+00:35:51,049 --> 00:35:51,059
+ 
+
+1869
+00:35:51,059 --> 00:35:52,250
+already talked about this before and we
+
+1870
+00:35:52,250 --> 00:35:52,260
+ 
+
+1871
+00:35:52,260 --> 00:35:55,339
+talked about index organized tables and
+
+1872
+00:35:55,339 --> 00:35:55,349
+ 
+
+1873
+00:35:55,349 --> 00:35:57,109
+the idea is that we're gonna have an
+
+1874
+00:35:57,109 --> 00:35:57,119
+ 
+
+1875
+00:35:57,119 --> 00:35:59,240
+index that's gonna tell us how we should
+
+1876
+00:35:59,240 --> 00:35:59,250
+ 
+
+1877
+00:35:59,250 --> 00:36:02,359
+store tuples in our pages right so say
+
+1878
+00:36:02,359 --> 00:36:02,369
+ 
+
+1879
+00:36:02,369 --> 00:36:04,430
+we have our index like this we have a
+
+1880
+00:36:04,430 --> 00:36:04,440
+ 
+
+1881
+00:36:04,440 --> 00:36:06,710
+short direction right calling along the
+
+1882
+00:36:06,710 --> 00:36:06,720
+ 
+
+1883
+00:36:06,720 --> 00:36:08,270
+leaf nodes we're going from left to
+
+1884
+00:36:08,270 --> 00:36:08,280
+ 
+
+1885
+00:36:08,280 --> 00:36:09,799
+right say it's going in the sending
+
+1886
+00:36:09,799 --> 00:36:09,809
+ 
+
+1887
+00:36:09,809 --> 00:36:12,680
+order and then our pointers now from the
+
+1888
+00:36:12,680 --> 00:36:12,690
+ 
+
+1889
+00:36:12,690 --> 00:36:15,790
+index to our tuples and inside our pages
+
+1890
+00:36:15,790 --> 00:36:15,800
+ 
+
+1891
+00:36:15,800 --> 00:36:19,670
+what we sort it in that order right so
+
+1892
+00:36:19,670 --> 00:36:19,680
+ 
+
+1893
+00:36:19,680 --> 00:36:21,200
+now that means that for some cases
+
+1894
+00:36:21,200 --> 00:36:21,210
+ 
+
+1895
+00:36:21,210 --> 00:36:22,640
+instead of you may be doing a leaf node
+
+1896
+00:36:22,640 --> 00:36:22,650
+ 
+
+1897
+00:36:22,650 --> 00:36:25,760
+scan along here and going fetching and
+
+1898
+00:36:25,760 --> 00:36:25,770
+
+1899
+00:36:25,770 --> 00:36:27,950
+fetching the pages one by one I can
+
+1900
+00:36:27,950 --> 00:36:27,960
+
+1901
+00:36:27,960 --> 00:36:29,450
+maybe just jump to one location and just
+
+1902
+00:36:29,450 --> 00:36:29,460
+
+1903
+00:36:29,460 --> 00:36:33,920
+fetch the table pages because I know
+
+1904
+00:36:33,920 --> 00:36:33,930
+ 
+
+1905
+00:36:33,930 --> 00:36:35,569
+they're gonna be in the order that I
+
+1906
+00:36:35,569 --> 00:36:35,579
+ 
+
+1907
+00:36:35,579 --> 00:36:39,230
+want so as I said so we talked about
+
+1908
+00:36:39,230 --> 00:36:39,240
+ 
+
+1909
+00:36:39,240 --> 00:36:40,849
+this before we said that some database
+
+1910
+00:36:40,849 --> 00:36:40,859
+ 
+
+1911
+00:36:40,859 --> 00:36:42,740
+systems like my sequel for example don't
+
+1912
+00:36:42,740 --> 00:36:42,750
+ 
+
+1913
+00:36:42,750 --> 00:36:44,809
+actually have separate table pages they
+
+1914
+00:36:44,809 --> 00:36:44,819
+ 
+
+1915
+00:36:44,819 --> 00:36:46,220
+store the tuples themselves inside the
+
+1916
+00:36:46,220 --> 00:36:46,230
+
+1917
+00:36:46,230 --> 00:36:48,559
+leaf pages of the index right so that
+
+1918
+00:36:48,559 --> 00:36:48,569
+ 
+
+1919
+00:36:48,569 --> 00:36:50,240
+essentially you get a clustering index
+
+1920
+00:36:50,240 --> 00:36:50,250
+ 
+
+1921
+00:36:50,250 --> 00:36:53,240
+for free in other systems like in my
+
+1922
+00:36:53,240 --> 00:36:53,250
+ 
+
+1923
+00:36:53,250 --> 00:36:54,650
+sequel or sorry in sequel server and
+
+1924
+00:36:54,650 --> 00:36:54,660
+ 
+
+1925
+00:36:54,660 --> 00:36:56,420
+oracle you can tell it that you want
+
+1926
+00:36:56,420 --> 00:36:56,430
+ 
+
+1927
+00:36:56,430 --> 00:36:58,099
+this index to be a clustering index and
+
+1928
+00:36:58,099 --> 00:36:58,109
+ 
+
+1929
+00:36:58,109 --> 00:37:00,980
+it'll maintain the the tuples sorted in
+
+1930
+00:37:00,980 --> 00:37:00,990
+ 
+
+1931
+00:37:00,990 --> 00:37:03,530
+the pages like this in systems like
+
+1932
+00:37:03,530 --> 00:37:03,540
+ 
+
+1933
+00:37:03,540 --> 00:37:06,740
+Postgres and you can declare that you
+
+1934
+00:37:06,740 --> 00:37:06,750
+ 
+
+1935
+00:37:06,750 --> 00:37:07,789
+want a clustering index so they have a
+
+1936
+00:37:07,789 --> 00:37:07,799
+ 
+
+1937
+00:37:07,799 --> 00:37:09,349
+cluster command and it'll do this
+
+1938
+00:37:09,349 --> 00:37:09,359
+
+1939
+00:37:09,359 --> 00:37:11,150
+sorting for you but it doesn't actually
+
+1940
+00:37:11,150 --> 00:37:11,160
+ 
+
+1941
+00:37:11,160 --> 00:37:13,160
+maintain it so every single time you
+
+1942
+00:37:13,160 --> 00:37:13,170
+ 
+
+1943
+00:37:13,170 --> 00:37:14,960
+update the table after you run cluster
+
+1944
+00:37:14,960 --> 00:37:14,970
+ 
+
+1945
+00:37:14,970 --> 00:37:16,819
+it's not going to guarantee that they're
+
+1946
+00:37:16,819 --> 00:37:16,829
+ 
+
+1947
+00:37:16,829 --> 00:37:18,950
+gonna be in sorted order this will make
+
+1948
+00:37:18,950 --> 00:37:18,960
+ 
+
+1949
+00:37:18,960 --> 00:37:20,120
+more sense when we talk about how they
+
+1950
+00:37:20,120 --> 00:37:20,130
+ 
+
+1951
+00:37:20,130 --> 00:37:21,440
+do could hurt your control or mostly
+
+1952
+00:37:21,440 --> 00:37:21,450
+ 
+
+1953
+00:37:21,450 --> 00:37:23,299
+versioning but in general they're not
+
+1954
+00:37:23,299 --> 00:37:23,309
+
+1955
+00:37:23,309 --> 00:37:24,650
+doing it because that'd be extra work
+
+1956
+00:37:24,650 --> 00:37:24,660
+ 
+
+1957
+00:37:24,660 --> 00:37:26,030
+for it's like something like my sequel
+
+1958
+00:37:26,030 --> 00:37:26,040
+ 
+
+1959
+00:37:26,040 --> 00:37:27,950
+because the tuples are started you know
+
+1960
+00:37:27,950 --> 00:37:27,960
+ 
+
+1961
+00:37:27,960 --> 00:37:29,960
+in the pages themselves the leaf pages
+
+1962
+00:37:29,960 --> 00:37:29,970
+ 
+
+1963
+00:37:29,970 --> 00:37:33,530
+then they get it for free so again this
+
+1964
+00:37:33,530 --> 00:37:33,540
+ 
+
+1965
+00:37:33,540 --> 00:37:35,870
+allows you to do some things like jump
+
+1966
+00:37:35,870 --> 00:37:35,880
+ 
+
+1967
+00:37:35,880 --> 00:37:37,460
+ahead to where you think the tuple you
+
+1968
+00:37:37,460 --> 00:37:37,470
+ 
+
+1969
+00:37:37,470 --> 00:37:38,930
+actually need will be instead of having
+
+1970
+00:37:38,930 --> 00:37:38,940
+ 
+
+1971
+00:37:38,940 --> 00:37:43,250
+to look at more more pages alright so
+
+1972
+00:37:43,250 --> 00:37:43,260
+ 
+
+1973
+00:37:43,260 --> 00:37:45,740
+the other access method is to do index
+
+1974
+00:37:45,740 --> 00:37:45,750
+ 
+
+1975
+00:37:45,750 --> 00:37:48,680
+scan and we talked about this before we
+
+1976
+00:37:48,680 --> 00:37:48,690
+ 
+
+1977
+00:37:48,690 --> 00:37:50,569
+talked about how to in the case of look
+
+1978
+00:37:50,569 --> 00:37:50,579
+ 
+
+1979
+00:37:50,579 --> 00:37:52,220
+at covering index we can process the
+
+1980
+00:37:52,220 --> 00:37:52,230
+ 
+
+1981
+00:37:52,230 --> 00:37:53,630
+entire query just on
+
+1982
+00:37:53,630 --> 00:37:53,640
+ 
+
+1983
+00:37:53,640 --> 00:37:56,109
+what actually being stored in the index
+
+1984
+00:37:56,109 --> 00:37:56,119
+
+1985
+00:37:56,119 --> 00:37:58,460
+nina games basically it's gonna help us
+
+1986
+00:37:58,460 --> 00:37:58,470
+ 
+
+1987
+00:37:58,470 --> 00:38:00,769
+to figure out what pages we've have to
+
+1988
+00:38:00,769 --> 00:38:00,779
+ 
+
+1989
+00:38:00,779 --> 00:38:02,329
+go read in order to process the query
+
+1990
+00:38:02,329 --> 00:38:02,339
+ 
+
+1991
+00:38:02,339 --> 00:38:03,859
+and that's a point again having to do a
+
+1992
+00:38:03,859 --> 00:38:03,869
+ 
+
+1993
+00:38:03,869 --> 00:38:06,950
+sequential scan so the question of what
+
+1994
+00:38:06,950 --> 00:38:06,960
+
+1995
+00:38:06,960 --> 00:38:09,680
+index to pick depends on a lot of
+
+1996
+00:38:09,680 --> 00:38:09,690
+ 
+
+1997
+00:38:09,690 --> 00:38:10,460
+different things
+
+1998
+00:38:10,460 --> 00:38:10,470
+ 
+
+1999
+00:38:10,470 --> 00:38:12,680
+depends on what attributes are in the
+
+2000
+00:38:12,680 --> 00:38:12,690
+ 
+
+2001
+00:38:12,690 --> 00:38:14,029
+index and the different indexes that you
+
+2002
+00:38:14,029 --> 00:38:14,039
+ 
+
+2003
+00:38:14,039 --> 00:38:15,890
+have available to you depends on what
+
+2004
+00:38:15,890 --> 00:38:15,900
+ 
+
+2005
+00:38:15,900 --> 00:38:17,150
+athlete you're actually referencing in
+
+2006
+00:38:17,150 --> 00:38:17,160
+
+2007
+00:38:17,160 --> 00:38:18,650
+your query in the where clause or other
+
+2008
+00:38:18,650 --> 00:38:18,660
+
+2009
+00:38:18,660 --> 00:38:21,259
+parts of the query depends on the the
+
+2010
+00:38:21,259 --> 00:38:21,269
+ 
+
+2011
+00:38:21,269 --> 00:38:23,870
+value domain of the index like if I have
+
+2012
+00:38:23,870 --> 00:38:23,880
+ 
+
+2013
+00:38:23,880 --> 00:38:27,680
+a index on whether you know a student is
+
+2014
+00:38:27,680 --> 00:38:27,690
+ 
+
+2015
+00:38:27,690 --> 00:38:30,079
+their gender is male female right that's
+
+2016
+00:38:30,079 --> 00:38:30,089
+ 
+
+2017
+00:38:30,089 --> 00:38:31,549
+not gonna be that useful because it's
+
+2018
+00:38:31,549 --> 00:38:31,559
+ 
+
+2019
+00:38:31,559 --> 00:38:35,269
+gonna be 50/50 mostly depends on how the
+
+2020
+00:38:35,269 --> 00:38:35,279
+ 
+
+2021
+00:38:35,279 --> 00:38:37,730
+the with the where clause looks like you
+
+2022
+00:38:37,730 --> 00:38:37,740
+ 
+
+2023
+00:38:37,740 --> 00:38:39,529
+have conjunctions or disjunction ands or
+
+2024
+00:38:39,529 --> 00:38:39,539
+ 
+
+2025
+00:38:39,539 --> 00:38:41,720
+ORS and then depends on whether they're
+
+2026
+00:38:41,720 --> 00:38:41,730
+ 
+
+2027
+00:38:41,730 --> 00:38:44,059
+unique keys or non unique keys so
+
+2028
+00:38:44,059 --> 00:38:44,069
+ 
+
+2029
+00:38:44,069 --> 00:38:45,620
+basically what happens is you write your
+
+2030
+00:38:45,620 --> 00:38:45,630
+ 
+
+2031
+00:38:45,630 --> 00:38:47,299
+select Cueva select statement in in
+
+2032
+00:38:47,299 --> 00:38:47,309
+ 
+
+2033
+00:38:47,309 --> 00:38:49,130
+sequel and it's up to the data system
+
+2034
+00:38:49,130 --> 00:38:49,140
+ 
+
+2035
+00:38:49,140 --> 00:38:50,630
+job to figure out which index you want
+
+2036
+00:38:50,630 --> 00:38:50,640
+ 
+
+2037
+00:38:50,640 --> 00:38:53,120
+to use potentially for it index scan so
+
+2038
+00:38:53,120 --> 00:38:53,130
+ 
+
+2039
+00:38:53,130 --> 00:38:54,380
+that particular question we're gonna
+
+2040
+00:38:54,380 --> 00:38:54,390
+ 
+
+2041
+00:38:54,390 --> 00:38:57,230
+focus on later in lecture 17 after the
+
+2042
+00:38:57,230 --> 00:38:57,240
+ 
+
+2043
+00:38:57,240 --> 00:38:58,249
+midterm and when we talk about query
+
+2044
+00:38:58,249 --> 00:38:58,259
+ 
+
+2045
+00:38:58,259 --> 00:39:00,019
+optimization this is a pretty hard
+
+2046
+00:39:00,019 --> 00:39:00,029
+ 
+
+2047
+00:39:00,029 --> 00:39:01,670
+problem and there's a lot of literature
+
+2048
+00:39:01,670 --> 00:39:01,680
+ 
+
+2049
+00:39:01,680 --> 00:39:03,410
+on how to do these kind of things but
+
+2050
+00:39:03,410 --> 00:39:03,420
+ 
+
+2051
+00:39:03,420 --> 00:39:04,670
+for our purposes we'll look at a high
+
+2052
+00:39:04,670 --> 00:39:04,680
+ 
+
+2053
+00:39:04,680 --> 00:39:08,299
+level and then we'll see what are the
+
+2054
+00:39:08,299 --> 00:39:08,309
+ 
+
+2055
+00:39:08,309 --> 00:39:09,200
+different design decisions or
+
+2056
+00:39:09,200 --> 00:39:09,210
+
+2057
+00:39:09,210 --> 00:39:10,430
+implementation decisions we can have
+
+2058
+00:39:10,430 --> 00:39:10,440
+ 
+
+2059
+00:39:10,440 --> 00:39:11,809
+actually how to execute a query for an
+
+2060
+00:39:11,809 --> 00:39:11,819
+ 
+
+2061
+00:39:11,819 --> 00:39:13,670
+index scan based on these these
+
+2062
+00:39:13,670 --> 00:39:13,680
+
+2063
+00:39:13,680 --> 00:39:16,849
+different questions so let's look a
+
+2064
+00:39:16,849 --> 00:39:16,859
+ 
+
+2065
+00:39:16,859 --> 00:39:18,109
+little bit simple examples so say we
+
+2066
+00:39:18,109 --> 00:39:18,119
+ 
+
+2067
+00:39:18,119 --> 00:39:20,839
+have a single table of students and we
+
+2068
+00:39:20,839 --> 00:39:20,849
+ 
+
+2069
+00:39:20,849 --> 00:39:22,579
+have a hundred tuples and we have two
+
+2070
+00:39:22,579 --> 00:39:22,589
+ 
+
+2071
+00:39:22,589 --> 00:39:24,920
+indexes we have one index on the
+
+2072
+00:39:24,920 --> 00:39:24,930
+
+2073
+00:39:24,930 --> 00:39:26,329
+students age and one index on the
+
+2074
+00:39:26,329 --> 00:39:26,339
+
+2075
+00:39:26,339 --> 00:39:28,249
+students department and we're gonna run
+
+2076
+00:39:28,249 --> 00:39:28,259
+ 
+
+2077
+00:39:28,259 --> 00:39:29,420
+this query here select star from
+
+2078
+00:39:29,420 --> 00:39:29,430
+ 
+
+2079
+00:39:29,430 --> 00:39:30,710
+students where age is less than thirty
+
+2080
+00:39:30,710 --> 00:39:30,720
+ 
+
+2081
+00:39:30,720 --> 00:39:32,779
+department equals CS and the country
+
+2082
+00:39:32,779 --> 00:39:32,789
+ 
+
+2083
+00:39:32,789 --> 00:39:34,730
+equals us so we don't have an index on
+
+2084
+00:39:34,730 --> 00:39:34,740
+ 
+
+2085
+00:39:34,740 --> 00:39:37,549
+the country just Department in age so
+
+2086
+00:39:37,549 --> 00:39:37,559
+ 
+
+2087
+00:39:37,559 --> 00:39:39,740
+the first scenario would be there are 99
+
+2088
+00:39:39,740 --> 00:39:39,750
+ 
+
+2089
+00:39:39,750 --> 00:39:43,249
+people in the table that under the age
+
+2090
+00:39:43,249 --> 00:39:43,259
+ 
+
+2091
+00:39:43,259 --> 00:39:45,019
+of 30 which is usually accurate for
+
+2092
+00:39:45,019 --> 00:39:45,029
+ 
+
+2093
+00:39:45,029 --> 00:39:47,299
+universities but then there's only only
+
+2094
+00:39:47,299 --> 00:39:47,309
+ 
+
+2095
+00:39:47,309 --> 00:39:50,329
+two people in the CS department so which
+
+2096
+00:39:50,329 --> 00:39:50,339
+ 
+
+2097
+00:39:50,339 --> 00:39:51,650
+of these two indexes would we actually
+
+2098
+00:39:51,650 --> 00:39:51,660
+
+2099
+00:39:51,660 --> 00:39:56,779
+want to pick okay pick one right so we
+
+2100
+00:39:56,779 --> 00:39:56,789
+ 
+
+2101
+00:39:56,789 --> 00:39:59,779
+have an index on age but then there's 99
+
+2102
+00:39:59,779 --> 00:39:59,789
+ 
+
+2103
+00:39:59,789 --> 00:40:01,579
+people out of 100 under age of 30 and
+
+2104
+00:40:01,579 --> 00:40:01,589
+ 
+
+2105
+00:40:01,589 --> 00:40:03,170
+we're looking for students under age of
+
+2106
+00:40:03,170 --> 00:40:03,180
+ 
+
+2107
+00:40:03,180 --> 00:40:05,569
+30 so the index can be really helpful
+
+2108
+00:40:05,569 --> 00:40:05,579
+ 
+
+2109
+00:40:05,579 --> 00:40:07,610
+there
+
+2110
+00:40:07,610 --> 00:40:07,620
+
+2111
+00:40:07,620 --> 00:40:09,140
+no cuz it's gonna pack 99% of them
+
+2112
+00:40:09,140 --> 00:40:09,150
+ 
+
+2113
+00:40:09,150 --> 00:40:11,930
+anyway right and then we have only chill
+
+2114
+00:40:11,930 --> 00:40:11,940
+ 
+
+2115
+00:40:11,940 --> 00:40:14,030
+MCS Department out of 100 so in that
+
+2116
+00:40:14,030 --> 00:40:14,040
+ 
+
+2117
+00:40:14,040 --> 00:40:15,860
+case here we had index on department
+
+2118
+00:40:15,860 --> 00:40:15,870
+ 
+
+2119
+00:40:15,870 --> 00:40:17,690
+alright we can jump exactly to the two
+
+2120
+00:40:17,690 --> 00:40:17,700
+ 
+
+2121
+00:40:17,700 --> 00:40:20,600
+tuples that we had that we want alright
+
+2122
+00:40:20,600 --> 00:40:20,610
+ 
+
+2123
+00:40:20,610 --> 00:40:21,920
+so the idea here is that we want to pick
+
+2124
+00:40:21,920 --> 00:40:21,930
+ 
+
+2125
+00:40:21,930 --> 00:40:22,940
+indexes that are gonna be the most
+
+2126
+00:40:22,940 --> 00:40:22,950
+ 
+
+2127
+00:40:22,950 --> 00:40:25,310
+selective for us that's gonna filter out
+
+2128
+00:40:25,310 --> 00:40:25,320
+ 
+
+2129
+00:40:25,320 --> 00:40:27,080
+the most things as soon as possible it's
+
+2130
+00:40:27,080 --> 00:40:27,090
+ 
+
+2131
+00:40:27,090 --> 00:40:28,850
+the lowest portion in the query plan
+
+2132
+00:40:28,850 --> 00:40:28,860
+ 
+
+2133
+00:40:28,860 --> 00:40:30,740
+because the idea is we want to minimize
+
+2134
+00:40:30,740 --> 00:40:30,750
+ 
+
+2135
+00:40:30,750 --> 00:40:32,240
+the amount of data we have to transfer
+
+2136
+00:40:32,240 --> 00:40:32,250
+ 
+
+2137
+00:40:32,250 --> 00:40:34,340
+it from one operator to the next that's
+
+2138
+00:40:34,340 --> 00:40:34,350
+ 
+
+2139
+00:40:34,350 --> 00:40:35,450
+sort of what late materialization was
+
+2140
+00:40:35,450 --> 00:40:35,460
+ 
+
+2141
+00:40:35,460 --> 00:40:37,010
+trying to do minimize how much data you
+
+2142
+00:40:37,010 --> 00:40:37,020
+ 
+
+2143
+00:40:37,020 --> 00:40:39,050
+move around and the idea here is again
+
+2144
+00:40:39,050 --> 00:40:39,060
+ 
+
+2145
+00:40:39,060 --> 00:40:40,490
+to filter out things as soon as possible
+
+2146
+00:40:40,490 --> 00:40:40,500
+ 
+
+2147
+00:40:40,500 --> 00:40:41,570
+I picking the index that's the most
+
+2148
+00:40:41,570 --> 00:40:41,580
+ 
+
+2149
+00:40:41,580 --> 00:40:43,730
+selective right if you can reverse this
+
+2150
+00:40:43,730 --> 00:40:43,740
+ 
+
+2151
+00:40:43,740 --> 00:40:45,530
+say there's not a 9 people in the CS
+
+2152
+00:40:45,530 --> 00:40:45,540
+ 
+
+2153
+00:40:45,540 --> 00:40:47,510
+department but only two people under age
+
+2154
+00:40:47,510 --> 00:40:47,520
+ 
+
+2155
+00:40:47,520 --> 00:40:49,790
+of 30 in this case here we want to pick
+
+2156
+00:40:49,790 --> 00:40:49,800
+ 
+
+2157
+00:40:49,800 --> 00:40:51,920
+the index on age because again that'll
+
+2158
+00:40:51,920 --> 00:40:51,930
+ 
+
+2159
+00:40:51,930 --> 00:40:53,060
+find the two people that we want right
+
+2160
+00:40:53,060 --> 00:40:53,070
+ 
+
+2161
+00:40:53,070 --> 00:40:57,500
+away so there's nothing really special
+
+2162
+00:40:57,500 --> 00:40:57,510
+ 
+
+2163
+00:40:57,510 --> 00:41:00,260
+index can write you you you know what
+
+2164
+00:41:00,260 --> 00:41:00,270
+ 
+
+2165
+00:41:00,270 --> 00:41:01,220
+the predicate is in your where clause
+
+2166
+00:41:01,220 --> 00:41:01,230
+ 
+
+2167
+00:41:01,230 --> 00:41:02,930
+you know what attributes are in your
+
+2168
+00:41:02,930 --> 00:41:02,940
+ 
+
+2169
+00:41:02,940 --> 00:41:05,420
+index and you follow it you follow that
+
+2170
+00:41:05,420 --> 00:41:05,430
+ 
+
+2171
+00:41:05,430 --> 00:41:06,680
+you know the tree or do a hash lookup
+
+2172
+00:41:06,680 --> 00:41:06,690
+ 
+
+2173
+00:41:06,690 --> 00:41:07,580
+and you find the thing you're looking
+
+2174
+00:41:07,580 --> 00:41:07,590
+ 
+
+2175
+00:41:07,590 --> 00:41:09,860
+for and then you just pass them up to
+
+2176
+00:41:09,860 --> 00:41:09,870
+ 
+
+2177
+00:41:09,870 --> 00:41:12,500
+the next operator alright there's really
+
+2178
+00:41:12,500 --> 00:41:12,510
+ 
+
+2179
+00:41:12,510 --> 00:41:13,700
+nothing interesting there it's pretty
+
+2180
+00:41:13,700 --> 00:41:13,710
+ 
+
+2181
+00:41:13,710 --> 00:41:14,420
+straightforward
+
+2182
+00:41:14,420 --> 00:41:14,430
+ 
+
+2183
+00:41:14,430 --> 00:41:16,040
+where things get interesting is when you
+
+2184
+00:41:16,040 --> 00:41:16,050
+ 
+
+2185
+00:41:16,050 --> 00:41:18,100
+actually use multiple indexes together
+
+2186
+00:41:18,100 --> 00:41:18,110
+ 
+
+2187
+00:41:18,110 --> 00:41:20,210
+so these are called the multi index
+
+2188
+00:41:20,210 --> 00:41:20,220
+ 
+
+2189
+00:41:20,220 --> 00:41:22,310
+scans Postgres again calls in the bitmap
+
+2190
+00:41:22,310 --> 00:41:22,320
+ 
+
+2191
+00:41:22,320 --> 00:41:26,540
+scans and the idea here is that say the
+
+2192
+00:41:26,540 --> 00:41:26,550
+ 
+
+2193
+00:41:26,550 --> 00:41:28,310
+data citizen recognizes oh for my
+
+2194
+00:41:28,310 --> 00:41:28,320
+ 
+
+2195
+00:41:28,320 --> 00:41:30,920
+particular query on this table I have
+
+2196
+00:41:30,920 --> 00:41:30,930
+ 
+
+2197
+00:41:30,930 --> 00:41:32,840
+two indexes that both look pretty good
+
+2198
+00:41:32,840 --> 00:41:32,850
+ 
+
+2199
+00:41:32,850 --> 00:41:35,420
+and I and instead of picking one versus
+
+2200
+00:41:35,420 --> 00:41:35,430
+ 
+
+2201
+00:41:35,430 --> 00:41:36,860
+another actually want to use both them
+
+2202
+00:41:36,860 --> 00:41:36,870
+ 
+
+2203
+00:41:36,870 --> 00:41:39,290
+and then combine numbers there their
+
+2204
+00:41:39,290 --> 00:41:39,300
+ 
+
+2205
+00:41:39,300 --> 00:41:41,990
+results set together and use that as as
+
+2206
+00:41:41,990 --> 00:41:42,000
+ 
+
+2207
+00:41:42,000 --> 00:41:44,450
+as the you know the result set for my
+
+2208
+00:41:44,450 --> 00:41:44,460
+ 
+
+2209
+00:41:44,460 --> 00:41:48,710
+operator so the idea here is that we'll
+
+2210
+00:41:48,710 --> 00:41:48,720
+ 
+
+2211
+00:41:48,720 --> 00:41:50,570
+take all the indexes we want to use and
+
+2212
+00:41:50,570 --> 00:41:50,580
+ 
+
+2213
+00:41:50,580 --> 00:41:53,180
+we compute sets of record IDs that match
+
+2214
+00:41:53,180 --> 00:41:53,190
+ 
+
+2215
+00:41:53,190 --> 00:41:54,770
+the particular predicate we're
+
+2216
+00:41:54,770 --> 00:41:54,780
+ 
+
+2217
+00:41:54,780 --> 00:41:58,100
+evaluating on our index and then we're
+
+2218
+00:41:58,100 --> 00:41:58,110
+ 
+
+2219
+00:41:58,110 --> 00:42:01,370
+gonna combine together the the records
+
+2220
+00:42:01,370 --> 00:42:01,380
+ 
+
+2221
+00:42:01,380 --> 00:42:02,870
+record ID sets from the different
+
+2222
+00:42:02,870 --> 00:42:02,880
+ 
+
+2223
+00:42:02,880 --> 00:42:07,700
+indexes either using a union or
+
+2224
+00:42:07,700 --> 00:42:07,710
+
+2225
+00:42:07,710 --> 00:42:10,010
+intersection intersection if it's an and
+
+2226
+00:42:10,010 --> 00:42:10,020
+
+2227
+00:42:10,020 --> 00:42:13,250
+Union if it's an or and then for all
+
+2228
+00:42:13,250 --> 00:42:13,260
+ 
+
+2229
+00:42:13,260 --> 00:42:15,020
+those records that come out of the the
+
+2230
+00:42:15,020 --> 00:42:15,030
+ 
+
+2231
+00:42:15,030 --> 00:42:17,360
+matching set we then go to our look
+
+2232
+00:42:17,360 --> 00:42:17,370
+ 
+
+2233
+00:42:17,370 --> 00:42:19,010
+optic applying the original two tuples
+
+2234
+00:42:19,010 --> 00:42:19,020
+ 
+
+2235
+00:42:19,020 --> 00:42:20,570
+in the pages and
+
+2236
+00:42:20,570 --> 00:42:20,580
+ 
+
+2237
+00:42:20,580 --> 00:42:22,190
+pass them up to to the next operator in
+
+2238
+00:42:22,190 --> 00:42:22,200
+ 
+
+2239
+00:42:22,200 --> 00:42:24,860
+the tree so we go back to our example
+
+2240
+00:42:24,860 --> 00:42:24,870
+ 
+
+2241
+00:42:24,870 --> 00:42:26,960
+here again we have two indexes on age
+
+2242
+00:42:26,960 --> 00:42:26,970
+ 
+
+2243
+00:42:26,970 --> 00:42:29,420
+and Department so what we'll do is we
+
+2244
+00:42:29,420 --> 00:42:29,430
+ 
+
+2245
+00:42:29,430 --> 00:42:31,820
+first retrieve all the record IDs in the
+
+2246
+00:42:31,820 --> 00:42:31,830
+ 
+
+2247
+00:42:31,830 --> 00:42:34,610
+age index that match age less than 30
+
+2248
+00:42:34,610 --> 00:42:34,620
+ 
+
+2249
+00:42:34,620 --> 00:42:36,320
+and then we'll retrieve all the
+
+2250
+00:42:36,320 --> 00:42:36,330
+
+2251
+00:42:36,330 --> 00:42:37,820
+recognize that match Department equals
+
+2252
+00:42:37,820 --> 00:42:37,830
+ 
+
+2253
+00:42:37,830 --> 00:42:40,070
+to yes in the second index take the
+
+2254
+00:42:40,070 --> 00:42:40,080
+ 
+
+2255
+00:42:40,080 --> 00:42:41,900
+intersection of the two of them right
+
+2256
+00:42:41,900 --> 00:42:41,910
+ 
+
+2257
+00:42:41,910 --> 00:42:44,270
+because it's a it's a it's an Ann clause
+
+2258
+00:42:44,270 --> 00:42:44,280
+ 
+
+2259
+00:42:44,280 --> 00:42:47,270
+in our in our predicate and then fetch
+
+2260
+00:42:47,270 --> 00:42:47,280
+ 
+
+2261
+00:42:47,280 --> 00:42:50,150
+booze tuples then we go check now to see
+
+2262
+00:42:50,150 --> 00:42:50,160
+ 
+
+2263
+00:42:50,160 --> 00:42:53,090
+where the country is is us visually it
+
+2264
+00:42:53,090 --> 00:42:53,100
+ 
+
+2265
+00:42:53,100 --> 00:42:55,070
+looks like this right so again we do I
+
+2266
+00:42:55,070 --> 00:42:55,080
+ 
+
+2267
+00:42:55,080 --> 00:42:57,410
+look up on age less than 30 in that
+
+2268
+00:42:57,410 --> 00:42:57,420
+ 
+
+2269
+00:42:57,420 --> 00:42:59,960
+first index we get the set of record I
+
+2270
+00:42:59,960 --> 00:42:59,970
+ 
+
+2271
+00:42:59,970 --> 00:43:02,480
+used to match that do a lookup on the
+
+2272
+00:43:02,480 --> 00:43:02,490
+ 
+
+2273
+00:43:02,490 --> 00:43:04,550
+department index get a set of all those
+
+2274
+00:43:04,550 --> 00:43:04,560
+ 
+
+2275
+00:43:04,560 --> 00:43:06,350
+record IDs and now we just take the
+
+2276
+00:43:06,350 --> 00:43:06,360
+ 
+
+2277
+00:43:06,360 --> 00:43:07,670
+intersection of the two of them and
+
+2278
+00:43:07,670 --> 00:43:07,680
+ 
+
+2279
+00:43:07,680 --> 00:43:09,800
+that's that's the ones we know match age
+
+2280
+00:43:09,800 --> 00:43:09,810
+ 
+
+2281
+00:43:09,810 --> 00:43:13,070
+less than 30 and Department equals CS so
+
+2282
+00:43:13,070 --> 00:43:13,080
+ 
+
+2283
+00:43:13,080 --> 00:43:14,780
+you can implement this with a bitmap if
+
+2284
+00:43:14,780 --> 00:43:14,790
+ 
+
+2285
+00:43:14,790 --> 00:43:16,250
+the Postgres does you can use a bloom
+
+2286
+00:43:16,250 --> 00:43:16,260
+
+2287
+00:43:16,260 --> 00:43:17,990
+filter you can use hash sets hash tables
+
+2288
+00:43:17,990 --> 00:43:18,000
+ 
+
+2289
+00:43:18,000 --> 00:43:19,760
+all right it doesn't actually matter
+
+2290
+00:43:19,760 --> 00:43:19,770
+ 
+
+2291
+00:43:19,770 --> 00:43:21,530
+Long's you have set membership and a way
+
+2292
+00:43:21,530 --> 00:43:21,540
+ 
+
+2293
+00:43:21,540 --> 00:43:27,740
+to combine them together right all right
+
+2294
+00:43:27,740 --> 00:43:27,750
+ 
+
+2295
+00:43:27,750 --> 00:43:30,800
+so the one widgets were probably gonna
+
+2296
+00:43:30,800 --> 00:43:30,810
+ 
+
+2297
+00:43:30,810 --> 00:43:34,010
+have and we'll see this come up again
+
+2298
+00:43:34,010 --> 00:43:34,020
+ 
+
+2299
+00:43:34,020 --> 00:43:36,980
+and we talked about sorting is that the
+
+2300
+00:43:36,980 --> 00:43:36,990
+ 
+
+2301
+00:43:36,990 --> 00:43:40,010
+if an index is not ordered on the key
+
+2302
+00:43:40,010 --> 00:43:40,020
+ 
+
+2303
+00:43:40,020 --> 00:43:43,970
+that we want to the intercept is not
+
+2304
+00:43:43,970 --> 00:43:43,980
+ 
+
+2305
+00:43:43,980 --> 00:43:45,020
+ordered on the key that we want to do
+
+2306
+00:43:45,020 --> 00:43:45,030
+ 
+
+2307
+00:43:45,030 --> 00:43:47,180
+our lookup on then we may end up with a
+
+2308
+00:43:47,180 --> 00:43:47,190
+ 
+
+2309
+00:43:47,190 --> 00:43:49,850
+really inefficient index scan and the
+
+2310
+00:43:49,850 --> 00:43:49,860
+ 
+
+2311
+00:43:49,860 --> 00:43:50,990
+may actually been better if we don't
+
+2312
+00:43:50,990 --> 00:43:51,000
+ 
+
+2313
+00:43:51,000 --> 00:43:53,780
+just a straight sequential scan all
+
+2314
+00:43:53,780 --> 00:43:53,790
+ 
+
+2315
+00:43:53,790 --> 00:43:56,030
+right so then here's our index it's say
+
+2316
+00:43:56,030 --> 00:43:56,040
+ 
+
+2317
+00:43:56,040 --> 00:43:58,220
+the it's the scan Direction is in this
+
+2318
+00:43:58,220 --> 00:43:58,230
+ 
+
+2319
+00:43:58,230 --> 00:44:02,690
+this way based on some key and now if we
+
+2320
+00:44:02,690 --> 00:44:02,700
+
+2321
+00:44:02,700 --> 00:44:05,180
+follow along the leaf nodes and start
+
+2322
+00:44:05,180 --> 00:44:05,190
+ 
+
+2323
+00:44:05,190 --> 00:44:07,370
+reading reading the pic the tuples are
+
+2324
+00:44:07,370 --> 00:44:07,380
+ 
+
+2325
+00:44:07,380 --> 00:44:09,530
+you know Phung the pointers down to our
+
+2326
+00:44:09,530 --> 00:44:09,540
+ 
+
+2327
+00:44:09,540 --> 00:44:12,080
+pages we'll see that they're going all
+
+2328
+00:44:12,080 --> 00:44:12,090
+ 
+
+2329
+00:44:12,090 --> 00:44:14,030
+over the place right this is an
+
+2330
+00:44:14,030 --> 00:44:14,040
+ 
+
+2331
+00:44:14,040 --> 00:44:16,550
+uncluttered index the index is just
+
+2332
+00:44:16,550 --> 00:44:16,560
+ 
+
+2333
+00:44:16,560 --> 00:44:17,690
+pointing to where those tuples are it's
+
+2334
+00:44:17,690 --> 00:44:17,700
+
+2335
+00:44:17,700 --> 00:44:19,250
+not saying anything how it's physically
+
+2336
+00:44:19,250 --> 00:44:19,260
+ 
+
+2337
+00:44:19,260 --> 00:44:23,450
+sorted on the actual table pages so now
+
+2338
+00:44:23,450 --> 00:44:23,460
+ 
+
+2339
+00:44:23,460 --> 00:44:25,880
+if we do a if we follow along the leaf
+
+2340
+00:44:25,880 --> 00:44:25,890
+ 
+
+2341
+00:44:25,890 --> 00:44:27,680
+nodes and do our special scan or indexed
+
+2342
+00:44:27,680 --> 00:44:27,690
+ 
+
+2343
+00:44:27,690 --> 00:44:30,080
+and that way well end up happening is
+
+2344
+00:44:30,080 --> 00:44:30,090
+ 
+
+2345
+00:44:30,090 --> 00:44:32,060
+that we're gonna basically thrashing our
+
+2346
+00:44:32,060 --> 00:44:32,070
+ 
+
+2347
+00:44:32,070 --> 00:44:33,500
+buffer pool because we're fetching pages
+
+2348
+00:44:33,500 --> 00:44:33,510
+
+2349
+00:44:33,510 --> 00:44:34,910
+in
+
+2350
+00:44:34,910 --> 00:44:34,920
+
+2351
+00:44:34,920 --> 00:44:36,680
+and then throwing them away immediately
+
+2352
+00:44:36,680 --> 00:44:36,690
+ 
+
+2353
+00:44:36,690 --> 00:44:38,930
+to go fetch another page so say a really
+
+2354
+00:44:38,930 --> 00:44:38,940
+ 
+
+2355
+00:44:38,940 --> 00:44:40,550
+simple example is I only have space for
+
+2356
+00:44:40,550 --> 00:44:40,560
+ 
+
+2357
+00:44:40,560 --> 00:44:43,370
+one page and my buffer pool so if I do
+
+2358
+00:44:43,370 --> 00:44:43,380
+ 
+
+2359
+00:44:43,380 --> 00:44:46,370
+my scan for all these pages following
+
+2360
+00:44:46,370 --> 00:44:46,380
+ 
+
+2361
+00:44:46,380 --> 00:44:48,410
+along belief note orders then what will
+
+2362
+00:44:48,410 --> 00:44:48,420
+ 
+
+2363
+00:44:48,420 --> 00:44:50,450
+happen is that all these different the
+
+2364
+00:44:50,450 --> 00:44:50,460
+ 
+
+2365
+00:44:50,460 --> 00:44:52,430
+different boxes represent every single
+
+2366
+00:44:52,430 --> 00:44:52,440
+ 
+
+2367
+00:44:52,440 --> 00:44:54,470
+time I had to go fetch a page right
+
+2368
+00:44:54,470 --> 00:44:54,480
+ 
+
+2369
+00:44:54,480 --> 00:44:56,690
+because I'm not reading mindful of the
+
+2370
+00:44:56,690 --> 00:44:56,700
+ 
+
+2371
+00:44:56,700 --> 00:44:58,520
+locality of where the data is actually
+
+2372
+00:44:58,520 --> 00:44:58,530
+ 
+
+2373
+00:44:58,530 --> 00:44:59,150
+being stored
+
+2374
+00:44:59,150 --> 00:44:59,160
+ 
+
+2375
+00:44:59,160 --> 00:45:01,460
+I'm just blindly saying oh I want page
+
+2376
+00:45:01,460 --> 00:45:01,470
+ 
+
+2377
+00:45:01,470 --> 00:45:02,540
+102 let me go get it
+
+2378
+00:45:02,540 --> 00:45:02,550
+ 
+
+2379
+00:45:02,550 --> 00:45:04,250
+all right now I need page 103 why they
+
+2380
+00:45:04,250 --> 00:45:04,260
+ 
+
+2381
+00:45:04,260 --> 00:45:07,220
+take one or two output 103 n so again so
+
+2382
+00:45:07,220 --> 00:45:07,230
+ 
+
+2383
+00:45:07,230 --> 00:45:08,780
+I'm just ping-pong game pages in and out
+
+2384
+00:45:08,780 --> 00:45:08,790
+ 
+
+2385
+00:45:08,790 --> 00:45:10,790
+and that's gonna make things go really
+
+2386
+00:45:10,790 --> 00:45:10,800
+ 
+
+2387
+00:45:10,800 --> 00:45:14,200
+slow so a simple optimization is that
+
+2388
+00:45:14,200 --> 00:45:14,210
+ 
+
+2389
+00:45:14,210 --> 00:45:17,660
+just do the index scan first don't
+
+2390
+00:45:17,660 --> 00:45:17,670
+ 
+
+2391
+00:45:17,670 --> 00:45:19,730
+actually fetch any tuples just figure
+
+2392
+00:45:19,730 --> 00:45:19,740
+ 
+
+2393
+00:45:19,740 --> 00:45:21,170
+out what are all the pages on my
+
+2394
+00:45:21,170 --> 00:45:21,180
+ 
+
+2395
+00:45:21,180 --> 00:45:22,880
+actually gonna need to access the
+
+2396
+00:45:22,880 --> 00:45:22,890
+ 
+
+2397
+00:45:22,890 --> 00:45:24,950
+records I need to access and then you
+
+2398
+00:45:24,950 --> 00:45:24,960
+ 
+
+2399
+00:45:24,960 --> 00:45:27,560
+sort those those tuples the record IDs
+
+2400
+00:45:27,560 --> 00:45:27,570
+ 
+
+2401
+00:45:27,570 --> 00:45:31,280
+based on the page ID so now you go then
+
+2402
+00:45:31,280 --> 00:45:31,290
+ 
+
+2403
+00:45:31,290 --> 00:45:33,530
+and say all right well alright I'll do
+
+2404
+00:45:33,530 --> 00:45:33,540
+ 
+
+2405
+00:45:33,540 --> 00:45:36,170
+all the fet I'll fetch page 101 first do
+
+2406
+00:45:36,170 --> 00:45:36,180
+ 
+
+2407
+00:45:36,180 --> 00:45:38,150
+all the reads I need for that then pet
+
+2408
+00:45:38,150 --> 00:45:38,160
+ 
+
+2409
+00:45:38,160 --> 00:45:39,710
+page 102 and do all the reads for that
+
+2410
+00:45:39,710 --> 00:45:39,720
+
+2411
+00:45:39,720 --> 00:45:43,430
+and I never go back to page 101 so what
+
+2412
+00:45:43,430 --> 00:45:43,440
+ 
+
+2413
+00:45:43,440 --> 00:45:45,890
+went from you know maybe over over 10
+
+2414
+00:45:45,890 --> 00:45:45,900
+ 
+
+2415
+00:45:45,900 --> 00:45:50,120
+page reads append ten page i/os before
+
+2416
+00:45:50,120 --> 00:45:50,130
+ 
+
+2417
+00:45:50,130 --> 00:45:51,800
+we did the sorting now ends up going to
+
+2418
+00:45:51,800 --> 00:45:51,810
+ 
+
+2419
+00:45:51,810 --> 00:45:53,330
+be to four which is the bare minimum we
+
+2420
+00:45:53,330 --> 00:45:53,340
+ 
+
+2421
+00:45:53,340 --> 00:45:56,180
+actually need to exit the scan so even
+
+2422
+00:45:56,180 --> 00:45:56,190
+ 
+
+2423
+00:45:56,190 --> 00:45:57,230
+though you have an index doesn't mean
+
+2424
+00:45:57,230 --> 00:45:57,240
+ 
+
+2425
+00:45:57,240 --> 00:45:58,930
+everything's gonna go super fast for you
+
+2426
+00:45:58,930 --> 00:45:58,940
+ 
+
+2427
+00:45:58,940 --> 00:46:01,040
+right you wanna be a little bit smarter
+
+2428
+00:46:01,040 --> 00:46:01,050
+ 
+
+2429
+00:46:01,050 --> 00:46:04,610
+about how you your schedule will be the
+
+2430
+00:46:04,610 --> 00:46:04,620
+ 
+
+2431
+00:46:04,620 --> 00:46:07,250
+disk i/o operations you want to do again
+
+2432
+00:46:07,250 --> 00:46:07,260
+
+2433
+00:46:07,260 --> 00:46:08,420
+there's another example of the beauty of
+
+2434
+00:46:08,420 --> 00:46:08,430
+ 
+
+2435
+00:46:08,430 --> 00:46:10,310
+the relational model because we don't
+
+2436
+00:46:10,310 --> 00:46:10,320
+ 
+
+2437
+00:46:10,320 --> 00:46:13,310
+care that the output is not in the order
+
+2438
+00:46:13,310 --> 00:46:13,320
+ 
+
+2439
+00:46:13,320 --> 00:46:14,720
+that you expect it right unless you tell
+
+2440
+00:46:14,720 --> 00:46:14,730
+ 
+
+2441
+00:46:14,730 --> 00:46:16,700
+us we want to order by it's gonna come
+
+2442
+00:46:16,700 --> 00:46:16,710
+ 
+
+2443
+00:46:16,710 --> 00:46:19,610
+out and you order it at once so if we
+
+2444
+00:46:19,610 --> 00:46:19,620
+ 
+
+2445
+00:46:19,620 --> 00:46:21,410
+just took your query and executed almost
+
+2446
+00:46:21,410 --> 00:46:21,420
+ 
+
+2447
+00:46:21,420 --> 00:46:23,570
+exactly how you expressed it we would
+
+2448
+00:46:23,570 --> 00:46:23,580
+ 
+
+2449
+00:46:23,580 --> 00:46:25,340
+end up maybe in this situation here and
+
+2450
+00:46:25,340 --> 00:46:25,350
+ 
+
+2451
+00:46:25,350 --> 00:46:26,600
+that would be slow we can be a bit
+
+2452
+00:46:26,600 --> 00:46:26,610
+ 
+
+2453
+00:46:26,610 --> 00:46:28,790
+smarter and say all right well if I sort
+
+2454
+00:46:28,790 --> 00:46:28,800
+ 
+
+2455
+00:46:28,800 --> 00:46:31,040
+things ahead of time then I'll basically
+
+2456
+00:46:31,040 --> 00:46:31,050
+ 
+
+2457
+00:46:31,050 --> 00:46:32,480
+have sequential access and I'll have a
+
+2458
+00:46:32,480 --> 00:46:32,490
+ 
+
+2459
+00:46:32,490 --> 00:46:34,100
+good locality because I'm reusing every
+
+2460
+00:46:34,100 --> 00:46:34,110
+ 
+
+2461
+00:46:34,110 --> 00:46:36,170
+page every page I read in I'm reading as
+
+2462
+00:46:36,170 --> 00:46:36,180
+
+2463
+00:46:36,180 --> 00:46:37,640
+much data as I can out of it before I
+
+2464
+00:46:37,640 --> 00:46:37,650
+ 
+
+2465
+00:46:37,650 --> 00:46:40,700
+move on to the next page so this is this
+
+2466
+00:46:40,700 --> 00:46:40,710
+ 
+
+2467
+00:46:40,710 --> 00:46:43,220
+is a standard technique that a lot of
+
+2468
+00:46:43,220 --> 00:46:43,230
+ 
+
+2469
+00:46:43,230 --> 00:46:46,310
+systems use all right so the last thing
+
+2470
+00:46:46,310 --> 00:46:46,320
+ 
+
+2471
+00:46:46,320 --> 00:46:47,570
+I want to talk about is how do we
+
+2472
+00:46:47,570 --> 00:46:47,580
+ 
+
+2473
+00:46:47,580 --> 00:46:48,150
+actually value
+
+2474
+00:46:48,150 --> 00:46:48,160
+
+2475
+00:46:48,160 --> 00:46:50,040
+predicates so we have these where
+
+2476
+00:46:50,040 --> 00:46:50,050
+ 
+
+2477
+00:46:50,050 --> 00:46:52,200
+clauses we have these expressions how
+
+2478
+00:46:52,200 --> 00:46:52,210
+ 
+
+2479
+00:46:52,210 --> 00:46:53,790
+these actually represent and how we
+
+2480
+00:46:53,790 --> 00:46:53,800
+ 
+
+2481
+00:46:53,800 --> 00:46:57,090
+actually implement them so the way to
+
+2482
+00:46:57,090 --> 00:46:57,100
+ 
+
+2483
+00:46:57,100 --> 00:46:58,140
+think about it as we talked about before
+
+2484
+00:46:58,140 --> 00:46:58,150
+ 
+
+2485
+00:46:58,150 --> 00:47:00,390
+the the query plant itself is a tree and
+
+2486
+00:47:00,390 --> 00:47:00,400
+ 
+
+2487
+00:47:00,400 --> 00:47:03,210
+then inside each operator in our tree we
+
+2488
+00:47:03,210 --> 00:47:03,220
+ 
+
+2489
+00:47:03,220 --> 00:47:05,160
+can have another another tree called the
+
+2490
+00:47:05,160 --> 00:47:05,170
+ 
+
+2491
+00:47:05,170 --> 00:47:07,890
+expression tree and this represents you
+
+2492
+00:47:07,890 --> 00:47:07,900
+
+2493
+00:47:07,900 --> 00:47:09,030
+know the where clause or whatever
+
+2494
+00:47:09,030 --> 00:47:09,040
+ 
+
+2495
+00:47:09,040 --> 00:47:10,230
+expression we have for that particular
+
+2496
+00:47:10,230 --> 00:47:10,240
+ 
+
+2497
+00:47:10,240 --> 00:47:13,410
+operator so the nodes and the tree are
+
+2498
+00:47:13,410 --> 00:47:13,420
+ 
+
+2499
+00:47:13,420 --> 00:47:14,580
+gonna represent all the different types
+
+2500
+00:47:14,580 --> 00:47:14,590
+ 
+
+2501
+00:47:14,590 --> 00:47:16,650
+of expressions you can have comparisons
+
+2502
+00:47:16,650 --> 00:47:16,660
+ 
+
+2503
+00:47:16,660 --> 00:47:18,120
+arithmetic expressions conjunctions
+
+2504
+00:47:18,120 --> 00:47:18,130
+ 
+
+2505
+00:47:18,130 --> 00:47:20,880
+disjunction it's things like that and it
+
+2506
+00:47:20,880 --> 00:47:20,890
+ 
+
+2507
+00:47:20,890 --> 00:47:22,350
+says you just evaluate them and they
+
+2508
+00:47:22,350 --> 00:47:22,360
+ 
+
+2509
+00:47:22,360 --> 00:47:23,880
+return you know true or whatever the
+
+2510
+00:47:23,880 --> 00:47:23,890
+
+2511
+00:47:23,890 --> 00:47:25,230
+type of value they want to return and
+
+2512
+00:47:25,230 --> 00:47:25,240
+ 
+
+2513
+00:47:25,240 --> 00:47:27,150
+then you use that to figure out whether
+
+2514
+00:47:27,150 --> 00:47:27,160
+ 
+
+2515
+00:47:27,160 --> 00:47:28,800
+you know tube will match the predicate
+
+2516
+00:47:28,800 --> 00:47:28,810
+ 
+
+2517
+00:47:28,810 --> 00:47:30,420
+or what's the output you want for that
+
+2518
+00:47:30,420 --> 00:47:30,430
+ 
+
+2519
+00:47:30,430 --> 00:47:33,210
+for that tube or in the query so this
+
+2520
+00:47:33,210 --> 00:47:33,220
+ 
+
+2521
+00:47:33,220 --> 00:47:35,610
+take our simple query like this and our
+
+2522
+00:47:35,610 --> 00:47:35,620
+ 
+
+2523
+00:47:35,620 --> 00:47:37,290
+where clause we have a ID equals B ID
+
+2524
+00:47:37,290 --> 00:47:37,300
+ 
+
+2525
+00:47:37,300 --> 00:47:40,110
+and B values greater than 100 so we
+
+2526
+00:47:40,110 --> 00:47:40,120
+ 
+
+2527
+00:47:40,120 --> 00:47:41,630
+would represent that in a tree like this
+
+2528
+00:47:41,630 --> 00:47:41,640
+ 
+
+2529
+00:47:41,640 --> 00:47:44,010
+so at the root we have the conjunction
+
+2530
+00:47:44,010 --> 00:47:44,020
+ 
+
+2531
+00:47:44,020 --> 00:47:45,510
+clause and that returns true or false
+
+2532
+00:47:45,510 --> 00:47:45,520
+ 
+
+2533
+00:47:45,520 --> 00:47:47,430
+and then on one side we have the equal
+
+2534
+00:47:47,430 --> 00:47:47,440
+ 
+
+2535
+00:47:47,440 --> 00:47:49,350
+sign and when other side we have the
+
+2536
+00:47:49,350 --> 00:47:49,360
+ 
+
+2537
+00:47:49,360 --> 00:47:51,900
+greater than sign all right at a high
+
+2538
+00:47:51,900 --> 00:47:51,910
+ 
+
+2539
+00:47:51,910 --> 00:47:53,340
+level this is how every David Simms
+
+2540
+00:47:53,340 --> 00:47:53,350
+ 
+
+2541
+00:47:53,350 --> 00:47:56,090
+going to represent these expressions
+
+2542
+00:47:56,090 --> 00:47:56,100
+ 
+
+2543
+00:47:56,100 --> 00:47:57,960
+let's see how actually how you how you
+
+2544
+00:47:57,960 --> 00:47:57,970
+ 
+
+2545
+00:47:57,970 --> 00:48:01,200
+evaluate them so say we have our we have
+
+2546
+00:48:01,200 --> 00:48:01,210
+ 
+
+2547
+00:48:01,210 --> 00:48:02,310
+a query like this and it's a prepared
+
+2548
+00:48:02,310 --> 00:48:02,320
+ 
+
+2549
+00:48:02,320 --> 00:48:04,800
+statement so we have a we have a clause
+
+2550
+00:48:04,800 --> 00:48:04,810
+ 
+
+2551
+00:48:04,810 --> 00:48:07,410
+with a where clause with a placeholder
+
+2552
+00:48:07,410 --> 00:48:07,420
+ 
+
+2553
+00:48:07,420 --> 00:48:11,040
+for a value at run time so as we're
+
+2554
+00:48:11,040 --> 00:48:11,050
+ 
+
+2555
+00:48:11,050 --> 00:48:13,290
+doing our mental scan or index scan for
+
+2556
+00:48:13,290 --> 00:48:13,300
+ 
+
+2557
+00:48:13,300 --> 00:48:14,850
+every single tube with that that we're
+
+2558
+00:48:14,850 --> 00:48:14,860
+ 
+
+2559
+00:48:14,860 --> 00:48:16,800
+gonna evaluate this expression on we
+
+2560
+00:48:16,800 --> 00:48:16,810
+ 
+
+2561
+00:48:16,810 --> 00:48:18,720
+would maintain some extra qge in context
+
+2562
+00:48:18,720 --> 00:48:18,730
+ 
+
+2563
+00:48:18,730 --> 00:48:20,970
+about what we're examining at that point
+
+2564
+00:48:20,970 --> 00:48:20,980
+ 
+
+2565
+00:48:20,980 --> 00:48:22,560
+in time so say I have a thousand tuples
+
+2566
+00:48:22,560 --> 00:48:22,570
+ 
+
+2567
+00:48:22,570 --> 00:48:25,380
+and for every single tuple I'm gonna
+
+2568
+00:48:25,380 --> 00:48:25,390
+ 
+
+2569
+00:48:25,390 --> 00:48:28,020
+build this execution context and then
+
+2570
+00:48:28,020 --> 00:48:28,030
+ 
+
+2571
+00:48:28,030 --> 00:48:29,610
+traverse the tree to see whether its
+
+2572
+00:48:29,610 --> 00:48:29,620
+ 
+
+2573
+00:48:29,620 --> 00:48:32,550
+value is to true or not so at the top
+
+2574
+00:48:32,550 --> 00:48:32,560
+ 
+
+2575
+00:48:32,560 --> 00:48:34,740
+here you see that we have the the
+
+2576
+00:48:34,740 --> 00:48:34,750
+ 
+
+2577
+00:48:34,750 --> 00:48:35,880
+current tuple that we're looking at in
+
+2578
+00:48:35,880 --> 00:48:35,890
+ 
+
+2579
+00:48:35,890 --> 00:48:38,160
+our scan the query parameters that are
+
+2580
+00:48:38,160 --> 00:48:38,170
+
+2581
+00:48:38,170 --> 00:48:39,870
+get passed in at runtime to fill that
+
+2582
+00:48:39,870 --> 00:48:39,880
+ 
+
+2583
+00:48:39,880 --> 00:48:42,120
+value in and then the schema for the
+
+2584
+00:48:42,120 --> 00:48:42,130
+ 
+
+2585
+00:48:42,130 --> 00:48:43,770
+tuple that that we're evaluating here
+
+2586
+00:48:43,770 --> 00:48:43,780
+
+2587
+00:48:43,780 --> 00:48:45,450
+because we need to know in the
+
+2588
+00:48:45,450 --> 00:48:45,460
+ 
+
+2589
+00:48:45,460 --> 00:48:46,740
+expression tree it'll say I want to look
+
+2590
+00:48:46,740 --> 00:48:46,750
+ 
+
+2591
+00:48:46,750 --> 00:48:49,560
+at attribute you know Val you know where
+
+2592
+00:48:49,560 --> 00:48:49,570
+ 
+
+2593
+00:48:49,570 --> 00:48:52,770
+that is in the actual tuple so we do
+
+2594
+00:48:52,770 --> 00:48:52,780
+ 
+
+2595
+00:48:52,780 --> 00:48:54,480
+basically just walk to this tree in a
+
+2596
+00:48:54,480 --> 00:48:54,490
+ 
+
+2597
+00:48:54,490 --> 00:48:56,280
+breadth-first manner all right so we
+
+2598
+00:48:56,280 --> 00:48:56,290
+ 
+
+2599
+00:48:56,290 --> 00:48:57,840
+stirrers talk about you know at the root
+
+2600
+00:48:57,840 --> 00:48:57,850
+ 
+
+2601
+00:48:57,850 --> 00:49:00,270
+is equal sign we go down the left it
+
+2602
+00:49:00,270 --> 00:49:00,280
+ 
+
+2603
+00:49:00,280 --> 00:49:01,950
+says attribute value so we
+
+2604
+00:49:01,950 --> 00:49:01,960
+ 
+
+2605
+00:49:01,960 --> 00:49:04,440
+this is a reference to the for the
+
+2606
+00:49:04,440 --> 00:49:04,450
+ 
+
+2607
+00:49:04,450 --> 00:49:06,390
+current tuple what actually we want you
+
+2608
+00:49:06,390 --> 00:49:06,400
+
+2609
+00:49:06,400 --> 00:49:08,160
+want value so we didn't look up in the
+
+2610
+00:49:08,160 --> 00:49:08,170
+ 
+
+2611
+00:49:08,170 --> 00:49:09,930
+table schema and say well what offset
+
+2612
+00:49:09,930 --> 00:49:09,940
+ 
+
+2613
+00:49:09,940 --> 00:49:11,579
+and the tuple is corresponds to the name
+
+2614
+00:49:11,579 --> 00:49:11,589
+ 
+
+2615
+00:49:11,589 --> 00:49:13,230
+value and then we look in the current
+
+2616
+00:49:13,230 --> 00:49:13,240
+ 
+
+2617
+00:49:13,240 --> 00:49:13,740
+table
+
+2618
+00:49:13,740 --> 00:49:13,750
+
+2619
+00:49:13,750 --> 00:49:15,000
+the current tuple that we're looking at
+
+2620
+00:49:15,000 --> 00:49:15,010
+ 
+
+2621
+00:49:15,010 --> 00:49:17,010
+and we get the value that we 1/1000
+
+2622
+00:49:17,010 --> 00:49:17,020
+ 
+
+2623
+00:49:17,020 --> 00:49:19,050
+traverse down the other side we have the
+
+2624
+00:49:19,050 --> 00:49:19,060
+ 
+
+2625
+00:49:19,060 --> 00:49:22,050
+parameter expression that tells us we
+
+2626
+00:49:22,050 --> 00:49:22,060
+ 
+
+2627
+00:49:22,060 --> 00:49:23,460
+want 999 because we want that we want
+
+2628
+00:49:23,460 --> 00:49:23,470
+ 
+
+2629
+00:49:23,470 --> 00:49:25,500
+the first one in our query parameters we
+
+2630
+00:49:25,500 --> 00:49:25,510
+ 
+
+2631
+00:49:25,510 --> 00:49:27,900
+go to constant it's just just one so
+
+2632
+00:49:27,900 --> 00:49:27,910
+
+2633
+00:49:27,910 --> 00:49:29,760
+there's a plus one and then everything
+
+2634
+00:49:29,760 --> 00:49:29,770
+ 
+
+2635
+00:49:29,770 --> 00:49:32,280
+gets fed up now into the tree until this
+
+2636
+00:49:32,280 --> 00:49:32,290
+ 
+
+2637
+00:49:32,290 --> 00:49:33,960
+thing produces you know true or false
+
+2638
+00:49:33,960 --> 00:49:33,970
+ 
+
+2639
+00:49:33,970 --> 00:49:36,060
+and if it's true if it's true then we
+
+2640
+00:49:36,060 --> 00:49:36,070
+ 
+
+2641
+00:49:36,070 --> 00:49:37,490
+know what our tuple you're examining
+
+2642
+00:49:37,490 --> 00:49:37,500
+ 
+
+2643
+00:49:37,500 --> 00:49:39,390
+satisfied our predicate and we can
+
+2644
+00:49:39,390 --> 00:49:39,400
+ 
+
+2645
+00:49:39,400 --> 00:49:41,220
+produce it in our and our need immediate
+
+2646
+00:49:41,220 --> 00:49:41,230
+ 
+
+2647
+00:49:41,230 --> 00:49:45,750
+output alright pretty straightforward so
+
+2648
+00:49:45,750 --> 00:49:45,760
+ 
+
+2649
+00:49:45,760 --> 00:49:47,790
+the what I'll say is that this is this
+
+2650
+00:49:47,790 --> 00:49:47,800
+ 
+
+2651
+00:49:47,800 --> 00:49:49,349
+primitive as I said it's pretty much how
+
+2652
+00:49:49,349 --> 00:49:49,359
+ 
+
+2653
+00:49:49,359 --> 00:49:52,410
+everyone does it this is actually a slow
+
+2654
+00:49:52,410 --> 00:49:52,420
+ 
+
+2655
+00:49:52,420 --> 00:49:53,730
+way to do it
+
+2656
+00:49:53,730 --> 00:49:53,740
+
+2657
+00:49:53,740 --> 00:49:55,140
+and the current trend which we'll cover
+
+2658
+00:49:55,140 --> 00:49:55,150
+
+2659
+00:49:55,150 --> 00:49:56,730
+in the advanced class is actually using
+
+2660
+00:49:56,730 --> 00:49:56,740
+ 
+
+2661
+00:49:56,740 --> 00:49:58,109
+cogeneration or just a time compilation
+
+2662
+00:49:58,109 --> 00:49:58,119
+ 
+
+2663
+00:49:58,119 --> 00:50:00,990
+is instead of traversing this tree we're
+
+2664
+00:50:00,990 --> 00:50:01,000
+ 
+
+2665
+00:50:01,000 --> 00:50:03,599
+actually generate a program to compile
+
+2666
+00:50:03,599 --> 00:50:03,609
+
+2667
+00:50:03,609 --> 00:50:06,050
+this and run this exactly machine code
+
+2668
+00:50:06,050 --> 00:50:06,060
+ 
+
+2669
+00:50:06,060 --> 00:50:09,450
+so instead of saying you know does
+
+2670
+00:50:09,450 --> 00:50:09,460
+ 
+
+2671
+00:50:09,460 --> 00:50:12,270
+something equal 99 plus 1 I'll just you
+
+2672
+00:50:12,270 --> 00:50:12,280
+ 
+
+2673
+00:50:12,280 --> 00:50:13,410
+know in traverse that treated generate
+
+2674
+00:50:13,410 --> 00:50:13,420
+ 
+
+2675
+00:50:13,420 --> 00:50:14,460
+that value I'll just generate machine
+
+2676
+00:50:14,460 --> 00:50:14,470
+ 
+
+2677
+00:50:14,470 --> 00:50:15,810
+code that does the exact same thing and
+
+2678
+00:50:15,810 --> 00:50:15,820
+ 
+
+2679
+00:50:15,820 --> 00:50:18,750
+it's way faster there's announcement I
+
+2680
+00:50:18,750 --> 00:50:18,760
+ 
+
+2681
+00:50:18,760 --> 00:50:19,890
+think Postgres just added this and
+
+2682
+00:50:19,890 --> 00:50:19,900
+ 
+
+2683
+00:50:19,900 --> 00:50:21,329
+posted us 11 which comes out later this
+
+2684
+00:50:21,329 --> 00:50:21,339
+ 
+
+2685
+00:50:21,339 --> 00:50:23,130
+year but a lot of major commercial
+
+2686
+00:50:23,130 --> 00:50:23,140
+ 
+
+2687
+00:50:23,140 --> 00:50:27,510
+systems do this alright so the main
+
+2688
+00:50:27,510 --> 00:50:27,520
+ 
+
+2689
+00:50:27,520 --> 00:50:28,950
+takeaway from all this is that the same
+
+2690
+00:50:28,950 --> 00:50:28,960
+ 
+
+2691
+00:50:28,960 --> 00:50:30,450
+query plan could be actuated in much
+
+2692
+00:50:30,450 --> 00:50:30,460
+ 
+
+2693
+00:50:30,460 --> 00:50:33,300
+different ways and one approach versus
+
+2694
+00:50:33,300 --> 00:50:33,310
+ 
+
+2695
+00:50:33,310 --> 00:50:35,430
+another will will have different
+
+2696
+00:50:35,430 --> 00:50:35,440
+ 
+
+2697
+00:50:35,440 --> 00:50:37,770
+advantages or disadvantages based on
+
+2698
+00:50:37,770 --> 00:50:37,780
+ 
+
+2699
+00:50:37,780 --> 00:50:38,880
+what kind of workload you're trying to
+
+2700
+00:50:38,880 --> 00:50:38,890
+ 
+
+2701
+00:50:38,890 --> 00:50:42,480
+turn the deal with and it and for at
+
+2702
+00:50:42,480 --> 00:50:42,490
+ 
+
+2703
+00:50:42,490 --> 00:50:45,210
+least most systems they're going to try
+
+2704
+00:50:45,210 --> 00:50:45,220
+ 
+
+2705
+00:50:45,220 --> 00:50:46,829
+to use index scan as much as possible
+
+2706
+00:50:46,829 --> 00:50:46,839
+ 
+
+2707
+00:50:46,839 --> 00:50:49,170
+because it always going to be faster now
+
+2708
+00:50:49,170 --> 00:50:49,180
+ 
+
+2709
+00:50:49,180 --> 00:50:50,820
+there are some systems like Vertica for
+
+2710
+00:50:50,820 --> 00:50:50,830
+ 
+
+2711
+00:50:50,830 --> 00:50:53,160
+example they have no indexes at all
+
+2712
+00:50:53,160 --> 00:50:53,170
+ 
+
+2713
+00:50:53,170 --> 00:50:56,310
+won'ting lets you declare them but they
+
+2714
+00:50:56,310 --> 00:50:56,320
+ 
+
+2715
+00:50:56,320 --> 00:50:57,810
+pre sort everything which is essentially
+
+2716
+00:50:57,810 --> 00:50:57,820
+ 
+
+2717
+00:50:57,820 --> 00:50:59,940
+almost the same thing as I as an index
+
+2718
+00:50:59,940 --> 00:50:59,950
+ 
+
+2719
+00:50:59,950 --> 00:51:02,130
+and then in the expression tree just and
+
+2720
+00:51:02,130 --> 00:51:02,140
+ 
+
+2721
+00:51:02,140 --> 00:51:03,540
+just to show you that what what they
+
+2722
+00:51:03,540 --> 00:51:03,550
+ 
+
+2723
+00:51:03,550 --> 00:51:04,890
+look like to understand how these where
+
+2724
+00:51:04,890 --> 00:51:04,900
+ 
+
+2725
+00:51:04,900 --> 00:51:07,079
+clauses are gonna get evaluated the way
+
+2726
+00:51:07,079 --> 00:51:07,089
+ 
+
+2727
+00:51:07,089 --> 00:51:08,820
+I'm showing you here is super flexible
+
+2728
+00:51:08,820 --> 00:51:08,830
+ 
+
+2729
+00:51:08,830 --> 00:51:10,620
+you can have any kind of expression you
+
+2730
+00:51:10,620 --> 00:51:10,630
+ 
+
+2731
+00:51:10,630 --> 00:51:11,790
+would want could be represented in these
+
+2732
+00:51:11,790 --> 00:51:11,800
+ 
+
+2733
+00:51:11,800 --> 00:51:14,700
+trees but it's gonna be slow the way if
+
+2734
+00:51:14,700 --> 00:51:14,710
+ 
+
+2735
+00:51:14,710 --> 00:51:15,840
+you traverse it manually
+
+2736
+00:51:15,840 --> 00:51:15,850
+
+2737
+00:51:15,850 --> 00:51:29,790
+okay so any questions about this des I
+
+2738
+00:51:29,790 --> 00:51:29,800
+ 
+
+2739
+00:51:29,800 --> 00:51:32,340
+make a mess unless I can do it like a
+
+2740
+00:51:32,340 --> 00:51:32,350
+ 
+
+2741
+00:51:32,350 --> 00:51:35,760
+Geo I give you put the G to the B to the
+
+2742
+00:51:35,760 --> 00:51:35,770
+ 
+
+2743
+00:51:35,770 --> 00:51:39,690
+T comes I play the game wears on the
+
+2744
+00:51:39,690 --> 00:51:39,700
+ 
+
+2745
+00:51:39,700 --> 00:51:42,900
+cuffs is because I put the bus a cap on
+
+2746
+00:51:42,900 --> 00:51:42,910
+ 
+
+2747
+00:51:42,910 --> 00:51:57,270
+the road by the 12-pack eight seven four
+
+2748
+00:51:57,270 --> 00:51:57,280
+ 
+
+2749
+00:51:57,280 --> 00:52:00,540
+six pack for the egg gets the Real ID
+
+2750
+00:52:00,540 --> 00:52:00,550
+
+2751
+00:52:00,550 --> 00:52:03,300
+replete with your drinking proper 12 ow
+
+2752
+00:52:03,300 --> 00:52:03,310
+ 
+
+2753
+00:52:03,310 --> 00:52:05,670
+they say bill makes your flat butts a
+
+2754
+00:52:05,670 --> 00:52:05,680
+ 
+
+2755
+00:52:05,680 --> 00:52:07,590
+nice is straight so it really don't
+
+2756
+00:52:07,590 --> 00:52:07,600
+ 
+
+2757
+00:52:07,600 --> 00:52:09,780
+matter
+
